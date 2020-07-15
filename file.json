@@ -1,0 +1,21 @@
+{
+    id: 1,
+    first_name: "Jeanette",
+    last_name: "Penddreth",
+    cool: 10,
+  }, {
+    id: 2,
+    first_name: "Giavani",
+    last_name: "Frediani",
+    cool: 9,
+  }, {
+    id: 3,
+    first_name: "Noell",
+    last_name: "Bea",
+    cool: 51,
+  }, {
+    id: 4,
+    first_name: "Willard",
+    last_name: "Valek",
+    cool: 10,
+  }
