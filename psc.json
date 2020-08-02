@@ -1,0 +1,11427 @@
+{
+    "obce": [
+      {
+        "OBEC": "Ábelová"
+      },
+      {
+        "OBEC": "Abovce"
+      },
+      {
+        "OBEC": "Abrahám"
+      },
+      {
+        "OBEC": "Abrahámovce"
+      },
+      {
+        "OBEC": "Abrahámovce"
+      },
+      {
+        "OBEC": "Pikovce"
+      },
+      {
+        "OBEC": "Abramová"
+      },
+      {
+        "OBEC": "Laclavá"
+      },
+      {
+        "OBEC": "Polerieka"
+      },
+      {
+        "OBEC": "Abranovce"
+      },
+      {
+        "OBEC": "Adamovské Kochanovce"
+      },
+      {
+        "OBEC": "Adidovce"
+      },
+      {
+        "OBEC": "Alekšince"
+      },
+      {
+        "OBEC": "Andovce"
+      },
+      {
+        "OBEC": "Andrejová"
+      },
+      {
+        "OBEC": "Ardanovce"
+      },
+      {
+        "OBEC": "Ardovo"
+      },
+      {
+        "OBEC": "Arnutovce"
+      },
+      {
+        "OBEC": "Báb"
+      },
+      {
+        "OBEC": "Babie"
+      },
+      {
+        "OBEC": "Babín"
+      },
+      {
+        "OBEC": "Babiná"
+      },
+      {
+        "OBEC": "Babindol"
+      },
+      {
+        "OBEC": "Babinec"
+      },
+      {
+        "OBEC": "Bacúch"
+      },
+      {
+        "OBEC": "Bacúrov"
+      },
+      {
+        "OBEC": "Báč"
+      },
+      {
+        "OBEC": "Bačka"
+      },
+      {
+        "OBEC": "Bačkov"
+      },
+      {
+        "OBEC": "Bačkovík"
+      },
+      {
+        "OBEC": "Baďan"
+      },
+      {
+        "OBEC": "Bádice"
+      },
+      {
+        "OBEC": "Badín"
+      },
+      {
+        "OBEC": "Báhoň"
+      },
+      {
+        "OBEC": "Bajany"
+      },
+      {
+        "OBEC": "Bajč"
+      },
+      {
+        "OBEC": "Bajerov"
+      },
+      {
+        "OBEC": "Bajerovce"
+      },
+      {
+        "OBEC": "Bajka"
+      },
+      {
+        "OBEC": "Bajtava"
+      },
+      {
+        "OBEC": "Baka"
+      },
+      {
+        "OBEC": "Baláže"
+      },
+      {
+        "OBEC": "Baldovce"
+      },
+      {
+        "OBEC": "Balog nad Ipľom"
+      },
+      {
+        "OBEC": "Baloň"
+      },
+      {
+        "OBEC": "Baňa"
+      },
+      {
+        "OBEC": "Baňa Lucia"
+      },
+      {
+        "OBEC": "Banka"
+      },
+      {
+        "OBEC": "Bánov"
+      },
+      {
+        "OBEC": "Bánovce nad Bebravou"
+      },
+      {
+        "OBEC": "Biskupice"
+      },
+      {
+        "OBEC": "Horné Ozorovce"
+      },
+      {
+        "OBEC": "Bánovce nad Ondavou"
+      },
+      {
+        "OBEC": "Banská Belá"
+      },
+      {
+        "OBEC": "Banská Bystrica"
+      },
+      {
+        "OBEC": "Banská Štiavnica"
+      },
+      {
+        "OBEC": "Banské"
+      },
+      {
+        "OBEC": "Banský Studenec"
+      },
+      {
+        "OBEC": "Bara"
+      },
+      {
+        "OBEC": "Malá Bara"
+      },
+      {
+        "OBEC": "Veľká Bara"
+      },
+      {
+        "OBEC": "Barca"
+      },
+      {
+        "OBEC": "Bardejov"
+      },
+      {
+        "OBEC": "Bardejovská Nová Ves"
+      },
+      {
+        "OBEC": "Dlhá Lúka"
+      },
+      {
+        "OBEC": "Bardejovská Zábava"
+      },
+      {
+        "OBEC": "Bardejovské Kúpele"
+      },
+      {
+        "OBEC": "Bardoňovo"
+      },
+      {
+        "OBEC": "Bartošova Lehôtka"
+      },
+      {
+        "OBEC": "Bartošovce"
+      },
+      {
+        "OBEC": "Baška"
+      },
+      {
+        "OBEC": "Baškovce"
+      },
+      {
+        "OBEC": "Baškovce"
+      },
+      {
+        "OBEC": "Bašovce"
+      },
+      {
+        "OBEC": "Batizovce"
+      },
+      {
+        "OBEC": "Bátka"
+      },
+      {
+        "OBEC": "Bátorová"
+      },
+      {
+        "OBEC": "Bátorove Kosihy"
+      },
+      {
+        "OBEC": "Bátovce"
+      },
+      {
+        "OBEC": "Jalakšová"
+      },
+      {
+        "OBEC": "Beckov"
+      },
+      {
+        "OBEC": "Beckovská Vieska"
+      },
+      {
+        "OBEC": "Beharovce"
+      },
+      {
+        "OBEC": "Becherov"
+      },
+      {
+        "OBEC": "Belá"
+      },
+      {
+        "OBEC": "Belá"
+      },
+      {
+        "OBEC": "Kubíková"
+      },
+      {
+        "OBEC": "Belá nad Cirochou"
+      },
+      {
+        "OBEC": "Beladice"
+      },
+      {
+        "OBEC": "Pustý Chotár"
+      },
+      {
+        "OBEC": "Belá - Dulice"
+      },
+      {
+        "OBEC": "Belejovce"
+      },
+      {
+        "OBEC": "Belek"
+      },
+      {
+        "OBEC": "Belín"
+      },
+      {
+        "OBEC": "Belina"
+      },
+      {
+        "OBEC": "Belince"
+      },
+      {
+        "OBEC": "Bellova Ves"
+      },
+      {
+        "OBEC": "Beloveža"
+      },
+      {
+        "OBEC": "Beluj"
+      },
+      {
+        "OBEC": "Beluša"
+      },
+      {
+        "OBEC": "Hloža"
+      },
+      {
+        "OBEC": "Podhorie"
+      },
+      {
+        "OBEC": "Belža"
+      },
+      {
+        "OBEC": "Beňadiková"
+      },
+      {
+        "OBEC": "Beňadikovce"
+      },
+      {
+        "OBEC": "Beňadovo"
+      },
+      {
+        "OBEC": "Beňatina"
+      },
+      {
+        "OBEC": "Beniakovce"
+      },
+      {
+        "OBEC": "Benice"
+      },
+      {
+        "OBEC": "Benkovce"
+      },
+      {
+        "OBEC": "Beňuš"
+      },
+      {
+        "OBEC": "Bernátovce"
+      },
+      {
+        "OBEC": "Bernolákovo"
+      },
+      {
+        "OBEC": "Bertotovce"
+      },
+      {
+        "OBEC": "Beša"
+      },
+      {
+        "OBEC": "Beša"
+      },
+      {
+        "OBEC": "Malá Baračka"
+      },
+      {
+        "OBEC": "Bešeňov"
+      },
+      {
+        "OBEC": "Bešeňová"
+      },
+      {
+        "OBEC": "Betlanovce"
+      },
+      {
+        "OBEC": "Betliar"
+      },
+      {
+        "OBEC": "Bezdedov - Vieska"
+      },
+      {
+        "OBEC": "Bežovce"
+      },
+      {
+        "OBEC": "Bidovce"
+      },
+      {
+        "OBEC": "Biel"
+      },
+      {
+        "OBEC": "Biele Vody"
+      },
+      {
+        "OBEC": "Bielovce"
+      },
+      {
+        "OBEC": "Biely Kostol"
+      },
+      {
+        "OBEC": "Bijacovce"
+      },
+      {
+        "OBEC": "Bílkove Humence"
+      },
+      {
+        "OBEC": "Bíňa"
+      },
+      {
+        "OBEC": "Kolónia"
+      },
+      {
+        "OBEC": "Bíňovce"
+      },
+      {
+        "OBEC": "Biskupice"
+      },
+      {
+        "OBEC": "Biskupová"
+      },
+      {
+        "OBEC": "Bitarová"
+      },
+      {
+        "OBEC": "Blahová"
+      },
+      {
+        "OBEC": "Blatná na Ostrove"
+      },
+      {
+        "OBEC": "Blatná Polianka"
+      },
+      {
+        "OBEC": "Blatné"
+      },
+      {
+        "OBEC": "Blatné Remety"
+      },
+      {
+        "OBEC": "Blatné Revištia"
+      },
+      {
+        "OBEC": "Blatnica"
+      },
+      {
+        "OBEC": "Blažice"
+      },
+      {
+        "OBEC": "Blažková"
+      },
+      {
+        "OBEC": "Blažovce"
+      },
+      {
+        "OBEC": "Blesovce"
+      },
+      {
+        "OBEC": "Blhovce"
+      },
+      {
+        "OBEC": "Bobot"
+      },
+      {
+        "OBEC": "Bobotská Lehota"
+      },
+      {
+        "OBEC": "Bobrov"
+      },
+      {
+        "OBEC": "Bobrovček"
+      },
+      {
+        "OBEC": "Bobrovec"
+      },
+      {
+        "OBEC": "Bobrovec"
+      },
+      {
+        "OBEC": "Bobrovník"
+      },
+      {
+        "OBEC": "Bočiar"
+      },
+      {
+        "OBEC": "Bodíky"
+      },
+      {
+        "OBEC": "Bodiná"
+      },
+      {
+        "OBEC": "Bodorová"
+      },
+      {
+        "OBEC": "Kevice"
+      },
+      {
+        "OBEC": "Bodovce"
+      },
+      {
+        "OBEC": "Bodovka - Krivosúd"
+      },
+      {
+        "OBEC": "Bodružal"
+      },
+      {
+        "OBEC": "Bodza"
+      },
+      {
+        "OBEC": "Bodzianske Lúky"
+      },
+      {
+        "OBEC": "Bogliarka"
+      },
+      {
+        "OBEC": "Bohdanovce"
+      },
+      {
+        "OBEC": "Bohdanovce n/Trnavou"
+      },
+      {
+        "OBEC": "Boheľov"
+      },
+      {
+        "OBEC": "Bohunice"
+      },
+      {
+        "OBEC": "Bohunice"
+      },
+      {
+        "OBEC": "Bohúňovo"
+      },
+      {
+        "OBEC": "Tiba"
+      },
+      {
+        "OBEC": "Bojná"
+      },
+      {
+        "OBEC": "Malé Dvorany"
+      },
+      {
+        "OBEC": "Bojnice"
+      },
+      {
+        "OBEC": "Bojničky"
+      },
+      {
+        "OBEC": "Boľ"
+      },
+      {
+        "OBEC": "Boldog"
+      },
+      {
+        "OBEC": "Boleráz"
+      },
+      {
+        "OBEC": "Klčovany"
+      },
+      {
+        "OBEC": "Bolešov"
+      },
+      {
+        "OBEC": "Boliarov"
+      },
+      {
+        "OBEC": "Boľkovce"
+      },
+      {
+        "OBEC": "Borcová"
+      },
+      {
+        "OBEC": "Borčany"
+      },
+      {
+        "OBEC": "Borčice"
+      },
+      {
+        "OBEC": "Borda"
+      },
+      {
+        "OBEC": "Borinka"
+      },
+      {
+        "OBEC": "Borová"
+      },
+      {
+        "OBEC": "Borovce"
+      },
+      {
+        "OBEC": "Borský Mikuláš"
+      },
+      {
+        "OBEC": "Borský Peter"
+      },
+      {
+        "OBEC": "Borský Svätý Jur"
+      },
+      {
+        "OBEC": "Borša"
+      },
+      {
+        "OBEC": "Bory"
+      },
+      {
+        "OBEC": "Bošáca"
+      },
+      {
+        "OBEC": "Bošany"
+      },
+      {
+        "OBEC": "Baštín"
+      },
+      {
+        "OBEC": "Boťany"
+      },
+      {
+        "OBEC": "Kolónia"
+      },
+      {
+        "OBEC": "Bottovo"
+      },
+      {
+        "OBEC": "Bôrka"
+      },
+      {
+        "OBEC": "Bracovce"
+      },
+      {
+        "OBEC": "Branč"
+      },
+      {
+        "OBEC": "Veľká Ves"
+      },
+      {
+        "OBEC": "Branovo"
+      },
+      {
+        "OBEC": "Bratislava"
+      },
+      {
+        "OBEC": "Čunovo"
+      },
+      {
+        "OBEC": "Devín"
+      },
+      {
+        "OBEC": "Devínska Nová Ves"
+      },
+      {
+        "OBEC": "Dúbravka"
+      },
+      {
+        "OBEC": "Jarovce"
+      },
+      {
+        "OBEC": "Karlova Ves"
+      },
+      {
+        "OBEC": "Lamač"
+      },
+      {
+        "OBEC": "Nové Mesto"
+      },
+      {
+        "OBEC": "Petržalka"
+      },
+      {
+        "OBEC": "Podunajské Biskupice"
+      },
+      {
+        "OBEC": "Rača"
+      },
+      {
+        "OBEC": "Rusovce"
+      },
+      {
+        "OBEC": "Ružinov"
+      },
+      {
+        "OBEC": "Staré Mesto"
+      },
+      {
+        "OBEC": "Vajnory"
+      },
+      {
+        "OBEC": "Vrakuňa"
+      },
+      {
+        "OBEC": "Záhorská Bystrica"
+      },
+      {
+        "OBEC": "Braväcovo"
+      },
+      {
+        "OBEC": "Podholie"
+      },
+      {
+        "OBEC": "Brdárka"
+      },
+      {
+        "OBEC": "Brehov"
+      },
+      {
+        "OBEC": "Brehy"
+      },
+      {
+        "OBEC": "Brekov"
+      },
+      {
+        "OBEC": "Brestov"
+      },
+      {
+        "OBEC": "Brestov"
+      },
+      {
+        "OBEC": "Brestov nad Laborcom"
+      },
+      {
+        "OBEC": "Brestovany"
+      },
+      {
+        "OBEC": "Horné Lovčice"
+      },
+      {
+        "OBEC": "Brestové"
+      },
+      {
+        "OBEC": "Brestovec"
+      },
+      {
+        "OBEC": "Brestovec"
+      },
+      {
+        "OBEC": "Bretejovce"
+      },
+      {
+        "OBEC": "Bretka"
+      },
+      {
+        "OBEC": "Breza"
+      },
+      {
+        "OBEC": "Brezany"
+      },
+      {
+        "OBEC": "Brezina"
+      },
+      {
+        "OBEC": "Breziny"
+      },
+      {
+        "OBEC": "Dolné Breziny"
+      },
+      {
+        "OBEC": "Horné Breziny"
+      },
+      {
+        "OBEC": "Breznica"
+      },
+      {
+        "OBEC": "Breznička"
+      },
+      {
+        "OBEC": "Breznička"
+      },
+      {
+        "OBEC": "Červeň"
+      },
+      {
+        "OBEC": "Brezno"
+      },
+      {
+        "OBEC": "Bujakovo"
+      },
+      {
+        "OBEC": "Brezolupy"
+      },
+      {
+        "OBEC": "Brezov"
+      },
+      {
+        "OBEC": "Brezová pod Bradlom"
+      },
+      {
+        "OBEC": "Brezovec"
+      },
+      {
+        "OBEC": "Brezovica"
+      },
+      {
+        "OBEC": "Brezovica"
+      },
+      {
+        "OBEC": "Brezovička"
+      },
+      {
+        "OBEC": "Brezovka"
+      },
+      {
+        "OBEC": "Brežany"
+      },
+      {
+        "OBEC": "Brhlovce"
+      },
+      {
+        "OBEC": "Kamenný Chotár"
+      },
+      {
+        "OBEC": "Brieštie"
+      },
+      {
+        "OBEC": "Hadviga"
+      },
+      {
+        "OBEC": "Brodské"
+      },
+      {
+        "OBEC": "Brodzany"
+      },
+      {
+        "OBEC": "Brunovce"
+      },
+      {
+        "OBEC": "Brusnica"
+      },
+      {
+        "OBEC": "Brusník"
+      },
+      {
+        "OBEC": "Brusno"
+      },
+      {
+        "OBEC": "Ondrej nad Hronom"
+      },
+      {
+        "OBEC": "Brutovce"
+      },
+      {
+        "OBEC": "Bruty"
+      },
+      {
+        "OBEC": "Brvnište"
+      },
+      {
+        "OBEC": "Brzotín"
+      },
+      {
+        "OBEC": "Buclovany"
+      },
+      {
+        "OBEC": "Búč"
+      },
+      {
+        "OBEC": "Bučany"
+      },
+      {
+        "OBEC": "Bučkovec"
+      },
+      {
+        "OBEC": "Budča"
+      },
+      {
+        "OBEC": "Budikovany"
+      },
+      {
+        "OBEC": "Budimír"
+      },
+      {
+        "OBEC": "Budiná"
+      },
+      {
+        "OBEC": "Budince"
+      },
+      {
+        "OBEC": "Budiš"
+      },
+      {
+        "OBEC": "Budkovce"
+      },
+      {
+        "OBEC": "Budmerice"
+      },
+      {
+        "OBEC": "Budulov"
+      },
+      {
+        "OBEC": "Buglovce"
+      },
+      {
+        "OBEC": "Buková"
+      },
+      {
+        "OBEC": "Bukovce"
+      },
+      {
+        "OBEC": "Bukovec"
+      },
+      {
+        "OBEC": "Bukovec"
+      },
+      {
+        "OBEC": "Bukovina"
+      },
+      {
+        "OBEC": "Bulhary"
+      },
+      {
+        "OBEC": "Bunetice"
+      },
+      {
+        "OBEC": "Bunkovce"
+      },
+      {
+        "OBEC": "Bušince"
+      },
+      {
+        "OBEC": "Bušovce"
+      },
+      {
+        "OBEC": "Buzica"
+      },
+      {
+        "OBEC": "Buzice"
+      },
+      {
+        "OBEC": "Buzitka"
+      },
+      {
+        "OBEC": "Dora"
+      },
+      {
+        "OBEC": "Ipeľka"
+      },
+      {
+        "OBEC": "Krásna"
+      },
+      {
+        "OBEC": "Nový Sad"
+      },
+      {
+        "OBEC": "Byster"
+      },
+      {
+        "OBEC": "Bystrá"
+      },
+      {
+        "OBEC": "Bystrá"
+      },
+      {
+        "OBEC": "Bystrany"
+      },
+      {
+        "OBEC": "Bystré"
+      },
+      {
+        "OBEC": "Bystričany"
+      },
+      {
+        "OBEC": "Chalmová"
+      },
+      {
+        "OBEC": "Vieska"
+      },
+      {
+        "OBEC": "Bystrička"
+      },
+      {
+        "OBEC": "Byšta"
+      },
+      {
+        "OBEC": "Bytča"
+      },
+      {
+        "OBEC": "Beňov"
+      },
+      {
+        "OBEC": "Hliník nad Váhom"
+      },
+      {
+        "OBEC": "Hrabové"
+      },
+      {
+        "OBEC": "Malá Bytča"
+      },
+      {
+        "OBEC": "Mikšová"
+      },
+      {
+        "OBEC": "Pšurnovice"
+      },
+      {
+        "OBEC": "Veľká Bytča"
+      },
+      {
+        "OBEC": "Bzenica"
+      },
+      {
+        "OBEC": "Bzenica"
+      },
+      {
+        "OBEC": "Bukovina"
+      },
+      {
+        "OBEC": "Bzenov"
+      },
+      {
+        "OBEC": "Bzince pod Javorinou"
+      },
+      {
+        "OBEC": "Bziny"
+      },
+      {
+        "OBEC": "Bzovík"
+      },
+      {
+        "OBEC": "Bzovská Lehôtka"
+      },
+      {
+        "OBEC": "Bžany"
+      },
+      {
+        "OBEC": "Cabaj - Čápor"
+      },
+      {
+        "OBEC": "Cabov"
+      },
+      {
+        "OBEC": "Cakov"
+      },
+      {
+        "OBEC": "Cejkov"
+      },
+      {
+        "OBEC": "Cernina"
+      },
+      {
+        "OBEC": "Cerová"
+      },
+      {
+        "OBEC": "Lieskové"
+      },
+      {
+        "OBEC": "Rozbehy"
+      },
+      {
+        "OBEC": "Cerovo"
+      },
+      {
+        "OBEC": "Duchenec"
+      },
+      {
+        "OBEC": "Cestice"
+      },
+      {
+        "OBEC": "Cetuna"
+      },
+      {
+        "OBEC": "Cífer"
+      },
+      {
+        "OBEC": "Jarná"
+      },
+      {
+        "OBEC": "Pác"
+      },
+      {
+        "OBEC": "Cigeľ"
+      },
+      {
+        "OBEC": "Cigeľka"
+      },
+      {
+        "OBEC": "Cigla"
+      },
+      {
+        "OBEC": "Cimenná"
+      },
+      {
+        "OBEC": "Cinobaňa"
+      },
+      {
+        "OBEC": "Hrnčiarky"
+      },
+      {
+        "OBEC": "Katarínska Huta"
+      },
+      {
+        "OBEC": "Maša"
+      },
+      {
+        "OBEC": "Turíčky"
+      },
+      {
+        "OBEC": "Žihľava"
+      },
+      {
+        "OBEC": "Čab"
+      },
+      {
+        "OBEC": "Čabalovce"
+      },
+      {
+        "OBEC": "Čabiny"
+      },
+      {
+        "OBEC": "Čabradský Vrbovok"
+      },
+      {
+        "OBEC": "Čadca"
+      },
+      {
+        "OBEC": "Čachtice"
+      },
+      {
+        "OBEC": "Čajkov"
+      },
+      {
+        "OBEC": "Čaka"
+      },
+      {
+        "OBEC": "Čakajovce"
+      },
+      {
+        "OBEC": "Čakanovce"
+      },
+      {
+        "OBEC": "Čakanovce"
+      },
+      {
+        "OBEC": "Čakany"
+      },
+      {
+        "OBEC": "Čaklov"
+      },
+      {
+        "OBEC": "Čalovec"
+      },
+      {
+        "OBEC": "Violín"
+      },
+      {
+        "OBEC": "Čamovce"
+      },
+      {
+        "OBEC": "Čaňa"
+      },
+      {
+        "OBEC": "Čaradice"
+      },
+      {
+        "OBEC": "Čáry"
+      },
+      {
+        "OBEC": "Častá"
+      },
+      {
+        "OBEC": "Červený Kameň"
+      },
+      {
+        "OBEC": "Častkov"
+      },
+      {
+        "OBEC": "Havran"
+      },
+      {
+        "OBEC": "Častkovce"
+      },
+      {
+        "OBEC": "Čata"
+      },
+      {
+        "OBEC": "Čataj"
+      },
+      {
+        "OBEC": "Čavoj"
+      },
+      {
+        "OBEC": "Biela Voda"
+      },
+      {
+        "OBEC": "Čebovce"
+      },
+      {
+        "OBEC": "Čečehov"
+      },
+      {
+        "OBEC": "Čečejovce"
+      },
+      {
+        "OBEC": "Čechy"
+      },
+      {
+        "OBEC": "Čechynce"
+      },
+      {
+        "OBEC": "Čekovce"
+      },
+      {
+        "OBEC": "Čeľadice"
+      },
+      {
+        "OBEC": "Čeľadince"
+      },
+      {
+        "OBEC": "Čeláre"
+      },
+      {
+        "OBEC": "Kírť"
+      },
+      {
+        "OBEC": "Čelkova Lehota"
+      },
+      {
+        "OBEC": "Čelovce"
+      },
+      {
+        "OBEC": "Čelovce"
+      },
+      {
+        "OBEC": "Čeľovce"
+      },
+      {
+        "OBEC": "Čenkovce"
+      },
+      {
+        "OBEC": "Maslovce"
+      },
+      {
+        "OBEC": "Čereňany"
+      },
+      {
+        "OBEC": "Fančová"
+      },
+      {
+        "OBEC": "Čerenčany"
+      },
+      {
+        "OBEC": "Čerhov"
+      },
+      {
+        "OBEC": "Čačín"
+      },
+      {
+        "OBEC": "Čermany"
+      },
+      {
+        "OBEC": "Černík"
+      },
+      {
+        "OBEC": "Černina"
+      },
+      {
+        "OBEC": "Černochov"
+      },
+      {
+        "OBEC": "Černochov Vrch"
+      },
+      {
+        "OBEC": "Čertižné"
+      },
+      {
+        "OBEC": "Červená Voda"
+      },
+      {
+        "OBEC": "Červeňany"
+      },
+      {
+        "OBEC": "Červenica"
+      },
+      {
+        "OBEC": "Dubník"
+      },
+      {
+        "OBEC": "Červenica pri Sabin."
+      },
+      {
+        "OBEC": "Červeník"
+      },
+      {
+        "OBEC": "Červený Hrádok"
+      },
+      {
+        "OBEC": "Červený Kameň"
+      },
+      {
+        "OBEC": "Červený Kláštor"
+      },
+      {
+        "OBEC": "Červený Kláštor-kúp."
+      },
+      {
+        "OBEC": "České Brezovo"
+      },
+      {
+        "OBEC": "Salajka"
+      },
+      {
+        "OBEC": "Vaľkovo"
+      },
+      {
+        "OBEC": "Čičarovce"
+      },
+      {
+        "OBEC": "Čičava"
+      },
+      {
+        "OBEC": "Čičmany"
+      },
+      {
+        "OBEC": "Číčov"
+      },
+      {
+        "OBEC": "Kéč"
+      },
+      {
+        "OBEC": "Krížový Dvor"
+      },
+      {
+        "OBEC": "Čierna"
+      },
+      {
+        "OBEC": "Čierna Hora"
+      },
+      {
+        "OBEC": "Čierna Lehota"
+      },
+      {
+        "OBEC": "Čierna Lehota"
+      },
+      {
+        "OBEC": "Čierna nad Tisou"
+      },
+      {
+        "OBEC": "Čierna Voda"
+      },
+      {
+        "OBEC": "Čierne"
+      },
+      {
+        "OBEC": "Čierne Kľačany"
+      },
+      {
+        "OBEC": "Čierne nad Topľou"
+      },
+      {
+        "OBEC": "Čierne Pole"
+      },
+      {
+        "OBEC": "Čierny Balog"
+      },
+      {
+        "OBEC": "Dobroč"
+      },
+      {
+        "OBEC": "Fajtov"
+      },
+      {
+        "OBEC": "Jánošovka"
+      },
+      {
+        "OBEC": "Komov"
+      },
+      {
+        "OBEC": "Krám"
+      },
+      {
+        "OBEC": "Pusté"
+      },
+      {
+        "OBEC": "Vydrovo"
+      },
+      {
+        "OBEC": "Čierny Brod"
+      },
+      {
+        "OBEC": "Čierny Chrbát"
+      },
+      {
+        "OBEC": "Čierny Potok"
+      },
+      {
+        "OBEC": "Čifáre"
+      },
+      {
+        "OBEC": "Čiližská Radvaň"
+      },
+      {
+        "OBEC": "Vrbina"
+      },
+      {
+        "OBEC": "Čimhová"
+      },
+      {
+        "OBEC": "Čirč"
+      },
+      {
+        "OBEC": "Číž"
+      },
+      {
+        "OBEC": "Číž - kúpele"
+      },
+      {
+        "OBEC": "Čižatice"
+      },
+      {
+        "OBEC": "Čoltovo"
+      },
+      {
+        "OBEC": "Čremošné"
+      },
+      {
+        "OBEC": "Čučma"
+      },
+      {
+        "OBEC": "Čukalovce"
+      },
+      {
+        "OBEC": "Ďačov"
+      },
+      {
+        "OBEC": "Budzín"
+      },
+      {
+        "OBEC": "Dačov Lom"
+      },
+      {
+        "OBEC": "Daletice"
+      },
+      {
+        "OBEC": "Danišovce"
+      },
+      {
+        "OBEC": "Ďanová"
+      },
+      {
+        "OBEC": "Ďapalovce"
+      },
+      {
+        "OBEC": "Dargov"
+      },
+      {
+        "OBEC": "Davidov"
+      },
+      {
+        "OBEC": "Debraď"
+      },
+      {
+        "OBEC": "Dedačov"
+      },
+      {
+        "OBEC": "Dedina Mládeže"
+      },
+      {
+        "OBEC": "Malý Ostrov"
+      },
+      {
+        "OBEC": "Dedinka"
+      },
+      {
+        "OBEC": "Hurbanovce"
+      },
+      {
+        "OBEC": "Dedinky"
+      },
+      {
+        "OBEC": "Dobšinská Maša"
+      },
+      {
+        "OBEC": "Dechtice"
+      },
+      {
+        "OBEC": "Dekýš"
+      },
+      {
+        "OBEC": "Demandice"
+      },
+      {
+        "OBEC": "Demänovská Dolina"
+      },
+      {
+        "OBEC": "Demjata"
+      },
+      {
+        "OBEC": "Detrík"
+      },
+      {
+        "OBEC": "Majer"
+      },
+      {
+        "OBEC": "Detva"
+      },
+      {
+        "OBEC": "Kostolná"
+      },
+      {
+        "OBEC": "Krné"
+      },
+      {
+        "OBEC": "Piešť I (časť)"
+      },
+      {
+        "OBEC": "Piešť II"
+      },
+      {
+        "OBEC": "Detva - sídlisko"
+      },
+      {
+        "OBEC": "Skliarovo"
+      },
+      {
+        "OBEC": "Zapriechody"
+      },
+      {
+        "OBEC": "Detvianska Huta"
+      },
+      {
+        "OBEC": "Bratkovica"
+      },
+      {
+        "OBEC": "Detvianska Huta"
+      },
+      {
+        "OBEC": "Vrchdobroč"
+      },
+      {
+        "OBEC": "Žabica"
+      },
+      {
+        "OBEC": "Devičany"
+      },
+      {
+        "OBEC": "Devičie"
+      },
+      {
+        "OBEC": "Dežerice"
+      },
+      {
+        "OBEC": "Diaková"
+      },
+      {
+        "OBEC": "Diakovce"
+      },
+      {
+        "OBEC": "Diviacka Nová Ves"
+      },
+      {
+        "OBEC": "Vrbany"
+      },
+      {
+        "OBEC": "Diviaky nad Nitricou"
+      },
+      {
+        "OBEC": "Banky"
+      },
+      {
+        "OBEC": "Ješkova Ves n/N."
+      },
+      {
+        "OBEC": "Mačov"
+      },
+      {
+        "OBEC": "Somorova Ves"
+      },
+      {
+        "OBEC": "Divín"
+      },
+      {
+        "OBEC": "Divínske Lazy"
+      },
+      {
+        "OBEC": "Divina"
+      },
+      {
+        "OBEC": "Lúky"
+      },
+      {
+        "OBEC": "Divinka"
+      },
+      {
+        "OBEC": "Lalinok"
+      },
+      {
+        "OBEC": "Dlhá"
+      },
+      {
+        "OBEC": "Dlhá nad Kysucou"
+      },
+      {
+        "OBEC": "Dlhá nad Oravou"
+      },
+      {
+        "OBEC": "Dlhá nad Váhom"
+      },
+      {
+        "OBEC": "Dlhá Ves"
+      },
+      {
+        "OBEC": "Dlhé Klčovo"
+      },
+      {
+        "OBEC": "Dlhé nad Cirochou"
+      },
+      {
+        "OBEC": "Dlhé Pole"
+      },
+      {
+        "OBEC": "Kravárska"
+      },
+      {
+        "OBEC": "Stolečné"
+      },
+      {
+        "OBEC": "Dlhé Stráže"
+      },
+      {
+        "OBEC": "Dlhoňa"
+      },
+      {
+        "OBEC": "Dlžín"
+      },
+      {
+        "OBEC": "Dobogov"
+      },
+      {
+        "OBEC": "Dobrá"
+      },
+      {
+        "OBEC": "Dobrá Niva"
+      },
+      {
+        "OBEC": "Dobrá Voda"
+      },
+      {
+        "OBEC": "Dobrianky"
+      },
+      {
+        "OBEC": "Dobroč"
+      },
+      {
+        "OBEC": "Brestina"
+      },
+      {
+        "OBEC": "Diel"
+      },
+      {
+        "OBEC": "Herman"
+      },
+      {
+        "OBEC": "Malá Dolina"
+      },
+      {
+        "OBEC": "Veľká Dolina"
+      },
+      {
+        "OBEC": "Dobrohošť"
+      },
+      {
+        "OBEC": "Dobroslava"
+      },
+      {
+        "OBEC": "Dobšiná"
+      },
+      {
+        "OBEC": "Dohňany"
+      },
+      {
+        "OBEC": "Mostište"
+      },
+      {
+        "OBEC": "Zbora"
+      },
+      {
+        "OBEC": "Dojč"
+      },
+      {
+        "OBEC": "Doľany"
+      },
+      {
+        "OBEC": "Doľany"
+      },
+      {
+        "OBEC": "Roškovce"
+      },
+      {
+        "OBEC": "Dolinka"
+      },
+      {
+        "OBEC": "Dolná Breznica"
+      },
+      {
+        "OBEC": "Dolná Krupá"
+      },
+      {
+        "OBEC": "Dolná Lehota"
+      },
+      {
+        "OBEC": "Dolná Mariková"
+      },
+      {
+        "OBEC": "Besné"
+      },
+      {
+        "OBEC": "Hadoše"
+      },
+      {
+        "OBEC": "Kátlina"
+      },
+      {
+        "OBEC": "Dolná Mičiná"
+      },
+      {
+        "OBEC": "Dolná Poruba"
+      },
+      {
+        "OBEC": "Dolná Seč"
+      },
+      {
+        "OBEC": "Dolná Streda"
+      },
+      {
+        "OBEC": "Dolná Strehová"
+      },
+      {
+        "OBEC": "Bukovec"
+      },
+      {
+        "OBEC": "Dúbrava"
+      },
+      {
+        "OBEC": "Prieloh"
+      },
+      {
+        "OBEC": "Dolná Súča"
+      },
+      {
+        "OBEC": "Dolná Tižina"
+      },
+      {
+        "OBEC": "Dolná Trnávka"
+      },
+      {
+        "OBEC": "Dolná Ves"
+      },
+      {
+        "OBEC": "Dolná Ždaňa"
+      },
+      {
+        "OBEC": "Dolné Dubové"
+      },
+      {
+        "OBEC": "Dolné Kočkovce"
+      },
+      {
+        "OBEC": "Dolné Lefantovce"
+      },
+      {
+        "OBEC": "Dolné Lovčice"
+      },
+      {
+        "OBEC": "Dolné Mladonice"
+      },
+      {
+        "OBEC": "Dolné Naštice"
+      },
+      {
+        "OBEC": "Dolné Obdokovce"
+      },
+      {
+        "OBEC": "Dolné Orešany"
+      },
+      {
+        "OBEC": "Dolné Otrokovce"
+      },
+      {
+        "OBEC": "Dolné Plachtince"
+      },
+      {
+        "OBEC": "Dolné Saliby"
+      },
+      {
+        "OBEC": "Dolné Semerovce"
+      },
+      {
+        "OBEC": "Dolné Srnie"
+      },
+      {
+        "OBEC": "Dolné Strháre"
+      },
+      {
+        "OBEC": "Dolné Trhovište"
+      },
+      {
+        "OBEC": "Dolné Vestenice"
+      },
+      {
+        "OBEC": "Dolné Zahorany"
+      },
+      {
+        "OBEC": "Dolné Zelenice"
+      },
+      {
+        "OBEC": "Dolný Badín"
+      },
+      {
+        "OBEC": "Dolný Bar"
+      },
+      {
+        "OBEC": "Dolný Harmanec"
+      },
+      {
+        "OBEC": "Dolný Hričov"
+      },
+      {
+        "OBEC": "Peklina"
+      },
+      {
+        "OBEC": "Dolný Chotár"
+      },
+      {
+        "OBEC": "Dolný Kalník"
+      },
+      {
+        "OBEC": "Dolný Kubín"
+      },
+      {
+        "OBEC": "Beňova Lehota"
+      },
+      {
+        "OBEC": "Kňažia"
+      },
+      {
+        "OBEC": "Malý Bysterec"
+      },
+      {
+        "OBEC": "Medzihradné"
+      },
+      {
+        "OBEC": "Mokraď"
+      },
+      {
+        "OBEC": "Srňacie"
+      },
+      {
+        "OBEC": "Veľký Bysterec"
+      },
+      {
+        "OBEC": "Záskalie"
+      },
+      {
+        "OBEC": "Dolný Lieskov"
+      },
+      {
+        "OBEC": "Dolný Lopašov"
+      },
+      {
+        "OBEC": "Dolný Ohaj"
+      },
+      {
+        "OBEC": "Dolný Pial"
+      },
+      {
+        "OBEC": "Dolný Štál"
+      },
+      {
+        "OBEC": "Dolný Vadičov"
+      },
+      {
+        "OBEC": "Dolný Vinodol"
+      },
+      {
+        "OBEC": "Domadice"
+      },
+      {
+        "OBEC": "Domaníky"
+      },
+      {
+        "OBEC": "Domaniža"
+      },
+      {
+        "OBEC": "Kardošova Vieska"
+      },
+      {
+        "OBEC": "Domaňovce"
+      },
+      {
+        "OBEC": "Donovaly"
+      },
+      {
+        "OBEC": "Drábsko"
+      },
+      {
+        "OBEC": "Kysuca"
+      },
+      {
+        "OBEC": "Drahňov"
+      },
+      {
+        "OBEC": "Drahovce"
+      },
+      {
+        "OBEC": "Dravce"
+      },
+      {
+        "OBEC": "Bukovinka"
+      },
+      {
+        "OBEC": "Dražice"
+      },
+      {
+        "OBEC": "Dražkovce"
+      },
+      {
+        "OBEC": "Drážovce"
+      },
+      {
+        "OBEC": "Drienčany"
+      },
+      {
+        "OBEC": "Papča"
+      },
+      {
+        "OBEC": "Drienica"
+      },
+      {
+        "OBEC": "Drienov"
+      },
+      {
+        "OBEC": "Drienovec"
+      },
+      {
+        "OBEC": "Drienovo"
+      },
+      {
+        "OBEC": "Drienovská Nová Ves"
+      },
+      {
+        "OBEC": "Drietoma"
+      },
+      {
+        "OBEC": "Drňa"
+      },
+      {
+        "OBEC": "Drnava"
+      },
+      {
+        "OBEC": "Družstevná pri Horn."
+      },
+      {
+        "OBEC": "Drženice"
+      },
+      {
+        "OBEC": "Kmeťovce"
+      },
+      {
+        "OBEC": "Držkovce"
+      },
+      {
+        "OBEC": "Ďubákovo"
+      },
+      {
+        "OBEC": "Dubinné"
+      },
+      {
+        "OBEC": "Dubnica nad Váhom"
+      },
+      {
+        "OBEC": "Prejta"
+      },
+      {
+        "OBEC": "Dubnička"
+      },
+      {
+        "OBEC": "Dubník"
+      },
+      {
+        "OBEC": "Dvor Mikuláš"
+      },
+      {
+        "OBEC": "Dubno"
+      },
+      {
+        "OBEC": "Dubodiel"
+      },
+      {
+        "OBEC": "Dubová"
+      },
+      {
+        "OBEC": "Dubová"
+      },
+      {
+        "OBEC": "Dubovany"
+      },
+      {
+        "OBEC": "Dubovce"
+      },
+      {
+        "OBEC": "Vidovany"
+      },
+      {
+        "OBEC": "Vlčkovany"
+      },
+      {
+        "OBEC": "Dubové"
+      },
+      {
+        "OBEC": "Dubové"
+      },
+      {
+        "OBEC": "Dubovec"
+      },
+      {
+        "OBEC": "Dubovica"
+      },
+      {
+        "OBEC": "Dúbrava"
+      },
+      {
+        "OBEC": "Dúbrava"
+      },
+      {
+        "OBEC": "Dúbrava"
+      },
+      {
+        "OBEC": "Dúbravica"
+      },
+      {
+        "OBEC": "Dúbravka"
+      },
+      {
+        "OBEC": "Komanica"
+      },
+      {
+        "OBEC": "Dúbravy"
+      },
+      {
+        "OBEC": "Iviny"
+      },
+      {
+        "OBEC": "Želobudza"
+      },
+      {
+        "OBEC": "Ducové"
+      },
+      {
+        "OBEC": "Dudince"
+      },
+      {
+        "OBEC": "Merovce"
+      },
+      {
+        "OBEC": "Dukovce"
+      },
+      {
+        "OBEC": "Dulov"
+      },
+      {
+        "OBEC": "Dulova Ves"
+      },
+      {
+        "OBEC": "Dulovce"
+      },
+      {
+        "OBEC": "Dulovo"
+      },
+      {
+        "OBEC": "Dunajov"
+      },
+      {
+        "OBEC": "Dunajská Lužná"
+      },
+      {
+        "OBEC": "Jánošíková"
+      },
+      {
+        "OBEC": "Nová Lipnica"
+      },
+      {
+        "OBEC": "Nové Košariská"
+      },
+      {
+        "OBEC": "Dunajská Streda"
+      },
+      {
+        "OBEC": "Dunajský Klátov"
+      },
+      {
+        "OBEC": "Duplín"
+      },
+      {
+        "OBEC": "Ďurčiná"
+      },
+      {
+        "OBEC": "Ďurďoš"
+      },
+      {
+        "OBEC": "Grodzin"
+      },
+      {
+        "OBEC": "Ďurďošík"
+      },
+      {
+        "OBEC": "Ďurďové"
+      },
+      {
+        "OBEC": "Ďurkov"
+      },
+      {
+        "OBEC": "Ďurková"
+      },
+      {
+        "OBEC": "Ďurkovce"
+      },
+      {
+        "OBEC": "Dvorany nad Nitrou"
+      },
+      {
+        "OBEC": "Dvorec"
+      },
+      {
+        "OBEC": "Dvorianky"
+      },
+      {
+        "OBEC": "Kinčeš"
+      },
+      {
+        "OBEC": "Dvorníky"
+      },
+      {
+        "OBEC": "Posádka"
+      },
+      {
+        "OBEC": "Dvorníky - Včeláre"
+      },
+      {
+        "OBEC": "Dvory nad Žitavou"
+      },
+      {
+        "OBEC": "Egreš"
+      },
+      {
+        "OBEC": "Fačkov"
+      },
+      {
+        "OBEC": "Falkušovce"
+      },
+      {
+        "OBEC": "Farná"
+      },
+      {
+        "OBEC": "Fekišovce"
+      },
+      {
+        "OBEC": "Figa"
+      },
+      {
+        "OBEC": "Fijaš"
+      },
+      {
+        "OBEC": "Fiľakovo"
+      },
+      {
+        "OBEC": "Fiľakovské Kováče"
+      },
+      {
+        "OBEC": "Fiľakovské Kľačany"
+      },
+      {
+        "OBEC": "Kurtáň"
+      },
+      {
+        "OBEC": "Fintice"
+      },
+      {
+        "OBEC": "Folkušová"
+      },
+      {
+        "OBEC": "Forbaky - Klukany"
+      },
+      {
+        "OBEC": "Forbasy"
+      },
+      {
+        "OBEC": "Frička"
+      },
+      {
+        "OBEC": "Fričkovce"
+      },
+      {
+        "OBEC": "Fričovce"
+      },
+      {
+        "OBEC": "Fulianka"
+      },
+      {
+        "OBEC": "Gabčíkovo"
+      },
+      {
+        "OBEC": "Gaboltov"
+      },
+      {
+        "OBEC": "Gajary"
+      },
+      {
+        "OBEC": "Galanta"
+      },
+      {
+        "OBEC": "Javorinka"
+      },
+      {
+        "OBEC": "Nebojsa"
+      },
+      {
+        "OBEC": "Galovany"
+      },
+      {
+        "OBEC": "Gáň"
+      },
+      {
+        "OBEC": "Gánovce"
+      },
+      {
+        "OBEC": "Filice"
+      },
+      {
+        "OBEC": "Gaškovce"
+      },
+      {
+        "OBEC": "Gbeľany"
+      },
+      {
+        "OBEC": "Gbelce"
+      },
+      {
+        "OBEC": "Nová Osada"
+      },
+      {
+        "OBEC": "Gbely"
+      },
+      {
+        "OBEC": "Cunín"
+      },
+      {
+        "OBEC": "Geča"
+      },
+      {
+        "OBEC": "Geča č. 107-110"
+      },
+      {
+        "OBEC": "Gelnica"
+      },
+      {
+        "OBEC": "Gemer"
+      },
+      {
+        "OBEC": "Gemerček"
+      },
+      {
+        "OBEC": "Gemerská Hôrka"
+      },
+      {
+        "OBEC": "Gemerská Panica"
+      },
+      {
+        "OBEC": "Gemerská Poloma"
+      },
+      {
+        "OBEC": "Gemerská Ves"
+      },
+      {
+        "OBEC": "Šankovce"
+      },
+      {
+        "OBEC": "Gemerské Dechtáre"
+      },
+      {
+        "OBEC": "Gemerské Michalovce"
+      },
+      {
+        "OBEC": "Gemerské Teplice"
+      },
+      {
+        "OBEC": "Gemerský Milhosť"
+      },
+      {
+        "OBEC": "Jelšavská Teplica"
+      },
+      {
+        "OBEC": "Gemerský Jablonec"
+      },
+      {
+        "OBEC": "Gemerský Sad"
+      },
+      {
+        "OBEC": "Mikolčany"
+      },
+      {
+        "OBEC": "Nováčany"
+      },
+      {
+        "OBEC": "Geraltov"
+      },
+      {
+        "OBEC": "Závadka"
+      },
+      {
+        "OBEC": "Žatkovce"
+      },
+      {
+        "OBEC": "Gerlachov"
+      },
+      {
+        "OBEC": "Gerlachov"
+      },
+      {
+        "OBEC": "Giglovce"
+      },
+      {
+        "OBEC": "Giraltovce"
+      },
+      {
+        "OBEC": "Francovce"
+      },
+      {
+        "OBEC": "Girovce"
+      },
+      {
+        "OBEC": "Glabušovce"
+      },
+      {
+        "OBEC": "Gočaltovo"
+      },
+      {
+        "OBEC": "Gočovo"
+      },
+      {
+        "OBEC": "Golianovo"
+      },
+      {
+        "OBEC": "Gomboš"
+      },
+      {
+        "OBEC": "Gortva"
+      },
+      {
+        "OBEC": "Gôtovany"
+      },
+      {
+        "OBEC": "Fiačice"
+      },
+      {
+        "OBEC": "Grajciar"
+      },
+      {
+        "OBEC": "Granč - Petrovce"
+      },
+      {
+        "OBEC": "Gregorova Vieska"
+      },
+      {
+        "OBEC": "Gregorovce"
+      },
+      {
+        "OBEC": "Gregorovce"
+      },
+      {
+        "OBEC": "Gribov"
+      },
+      {
+        "OBEC": "Gruzovce"
+      },
+      {
+        "OBEC": "Gyňov"
+      },
+      {
+        "OBEC": "Habovka"
+      },
+      {
+        "OBEC": "Habura"
+      },
+      {
+        "OBEC": "Hačava"
+      },
+      {
+        "OBEC": "Háj"
+      },
+      {
+        "OBEC": "Háj"
+      },
+      {
+        "OBEC": "Hájiky - Maky"
+      },
+      {
+        "OBEC": "Hajná Nová Ves"
+      },
+      {
+        "OBEC": "Hajnáčka"
+      },
+      {
+        "OBEC": "Hájske"
+      },
+      {
+        "OBEC": "Hajtovka"
+      },
+      {
+        "OBEC": "Haláčovce"
+      },
+      {
+        "OBEC": "Halič"
+      },
+      {
+        "OBEC": "Haligovce"
+      },
+      {
+        "OBEC": "Haluzice"
+      },
+      {
+        "OBEC": "Hamuliakovo"
+      },
+      {
+        "OBEC": "Handlová"
+      },
+      {
+        "OBEC": "Hanigovce"
+      },
+      {
+        "OBEC": "Haniska"
+      },
+      {
+        "OBEC": "Haniska"
+      },
+      {
+        "OBEC": "Hanková"
+      },
+      {
+        "OBEC": "Hankovce"
+      },
+      {
+        "OBEC": "Hankovce"
+      },
+      {
+        "OBEC": "Hanušovce nad Topľou"
+      },
+      {
+        "OBEC": "Harakovce"
+      },
+      {
+        "OBEC": "Harhaj"
+      },
+      {
+        "OBEC": "Harichovce"
+      },
+      {
+        "OBEC": "Harmanec"
+      },
+      {
+        "OBEC": "Hatalov"
+      },
+      {
+        "OBEC": "Ridzina"
+      },
+      {
+        "OBEC": "Hatné"
+      },
+      {
+        "OBEC": "Havaj"
+      },
+      {
+        "OBEC": "Havka"
+      },
+      {
+        "OBEC": "Havranec"
+      },
+      {
+        "OBEC": "Hažín"
+      },
+      {
+        "OBEC": "Hažín nad Cirochou"
+      },
+      {
+        "OBEC": "Hažlín"
+      },
+      {
+        "OBEC": "Helcmanovce"
+      },
+      {
+        "OBEC": "Heľpa"
+      },
+      {
+        "OBEC": "Henckovce"
+      },
+      {
+        "OBEC": "Henclová"
+      },
+      {
+        "OBEC": "Tichá Voda"
+      },
+      {
+        "OBEC": "Hencovce"
+      },
+      {
+        "OBEC": "Hendrichovce"
+      },
+      {
+        "OBEC": "Herľany"
+      },
+      {
+        "OBEC": "Hermanovce"
+      },
+      {
+        "OBEC": "Hermanovce n/ Topľou"
+      },
+      {
+        "OBEC": "Hertník"
+      },
+      {
+        "OBEC": "Hervartov"
+      },
+      {
+        "OBEC": "Hiadeľ"
+      },
+      {
+        "OBEC": "Hincovce"
+      },
+      {
+        "OBEC": "Trsťany"
+      },
+      {
+        "OBEC": "Hladovka"
+      },
+      {
+        "OBEC": "Hlboké"
+      },
+      {
+        "OBEC": "Hlboké nad Váhom"
+      },
+      {
+        "OBEC": "Hliník nad Hronom"
+      },
+      {
+        "OBEC": "Hlinné"
+      },
+      {
+        "OBEC": "Hlivištia"
+      },
+      {
+        "OBEC": "Hlohovec"
+      },
+      {
+        "OBEC": "Hniezdne"
+      },
+      {
+        "OBEC": "Hnilčík"
+      },
+      {
+        "OBEC": "Bindt"
+      },
+      {
+        "OBEC": "Ráztoky"
+      },
+      {
+        "OBEC": "Hnilec"
+      },
+      {
+        "OBEC": "Delava"
+      },
+      {
+        "OBEC": "Hnojné"
+      },
+      {
+        "OBEC": "Hnúšťa"
+      },
+      {
+        "OBEC": "Brádno"
+      },
+      {
+        "OBEC": "Hačava"
+      },
+      {
+        "OBEC": "Likier"
+      },
+      {
+        "OBEC": "Polom"
+      },
+      {
+        "OBEC": "Hodejov"
+      },
+      {
+        "OBEC": "Hodejovec"
+      },
+      {
+        "OBEC": "Hodkovce"
+      },
+      {
+        "OBEC": "Hodruša - Hámre"
+      },
+      {
+        "OBEC": "Hokovce"
+      },
+      {
+        "OBEC": "Kráľovičová"
+      },
+      {
+        "OBEC": "Holčíkovce"
+      },
+      {
+        "OBEC": "Holiare"
+      },
+      {
+        "OBEC": "Holice"
+      },
+      {
+        "OBEC": "Beketfa"
+      },
+      {
+        "OBEC": "Čechová"
+      },
+      {
+        "OBEC": "Kostolná Gala"
+      },
+      {
+        "OBEC": "Malá Budafa"
+      },
+      {
+        "OBEC": "Póšfa"
+      },
+      {
+        "OBEC": "Stará Gala"
+      },
+      {
+        "OBEC": "Veľká Budafa"
+      },
+      {
+        "OBEC": "Holíč"
+      },
+      {
+        "OBEC": "Holiša"
+      },
+      {
+        "OBEC": "Holumnica"
+      },
+      {
+        "OBEC": "Honce"
+      },
+      {
+        "OBEC": "Hontianska Vrbica"
+      },
+      {
+        "OBEC": "Hontianske Moravce"
+      },
+      {
+        "OBEC": "Kostolné Moravce"
+      },
+      {
+        "OBEC": "Opatové Moravce"
+      },
+      {
+        "OBEC": "Hontianske Nemce"
+      },
+      {
+        "OBEC": "Rakovec"
+      },
+      {
+        "OBEC": "Sitnianska Lehôtka"
+      },
+      {
+        "OBEC": "Hontianske Tesáre"
+      },
+      {
+        "OBEC": "Báčovce"
+      },
+      {
+        "OBEC": "Dvorníky"
+      },
+      {
+        "OBEC": "Šipice"
+      },
+      {
+        "OBEC": "Hontianske Trsťany"
+      },
+      {
+        "OBEC": "Horňa"
+      },
+      {
+        "OBEC": "Horná Breznica"
+      },
+      {
+        "OBEC": "Horná Kráľová"
+      },
+      {
+        "OBEC": "Horná Krupá"
+      },
+      {
+        "OBEC": "Horná Lehota"
+      },
+      {
+        "OBEC": "Horná Lehota"
+      },
+      {
+        "OBEC": "Horná Mariková"
+      },
+      {
+        "OBEC": "Belejov"
+      },
+      {
+        "OBEC": "Hlboké"
+      },
+      {
+        "OBEC": "Modlatín"
+      },
+      {
+        "OBEC": "Pagaňov"
+      },
+      {
+        "OBEC": "Ráztoka"
+      },
+      {
+        "OBEC": "Rovné"
+      },
+      {
+        "OBEC": "Stolečné"
+      },
+      {
+        "OBEC": "Udička"
+      },
+      {
+        "OBEC": "Vlkov"
+      },
+      {
+        "OBEC": "Žrnové"
+      },
+      {
+        "OBEC": "Horná Mičiná"
+      },
+      {
+        "OBEC": "Horná Poruba"
+      },
+      {
+        "OBEC": "Horná Potôň"
+      },
+      {
+        "OBEC": "Benkova Potôň"
+      },
+      {
+        "OBEC": "Čečínska Potôň"
+      },
+      {
+        "OBEC": "Horná Potôň - Lúky"
+      },
+      {
+        "OBEC": "Horná Seč"
+      },
+      {
+        "OBEC": "Horná Streda"
+      },
+      {
+        "OBEC": "Horná Strehová"
+      },
+      {
+        "OBEC": "Horná Súča"
+      },
+      {
+        "OBEC": "Horná Štubňa"
+      },
+      {
+        "OBEC": "Horná Ves"
+      },
+      {
+        "OBEC": "Horná Ves"
+      },
+      {
+        "OBEC": "Rudica"
+      },
+      {
+        "OBEC": "Horná Ždaňa"
+      },
+      {
+        "OBEC": "Horňany"
+      },
+      {
+        "OBEC": "Horné Dubové"
+      },
+      {
+        "OBEC": "Horné Hámre"
+      },
+      {
+        "OBEC": "Horné Chlebany"
+      },
+      {
+        "OBEC": "Horné Lefantovce"
+      },
+      {
+        "OBEC": "Horné Mladonice"
+      },
+      {
+        "OBEC": "Horné Mýto"
+      },
+      {
+        "OBEC": "Horné Naštice"
+      },
+      {
+        "OBEC": "Horné Obdokovce"
+      },
+      {
+        "OBEC": "Horné Orešany"
+      },
+      {
+        "OBEC": "Horné Otrokovce"
+      },
+      {
+        "OBEC": "Horné Plachtince"
+      },
+      {
+        "OBEC": "Horné Pršany"
+      },
+      {
+        "OBEC": "Horné Saliby"
+      },
+      {
+        "OBEC": "Horné Semerovce"
+      },
+      {
+        "OBEC": "Horné Srnie"
+      },
+      {
+        "OBEC": "Horné Strháre"
+      },
+      {
+        "OBEC": "Horné Štitáre"
+      },
+      {
+        "OBEC": "Horné Trhovište"
+      },
+      {
+        "OBEC": "Horné Turovce"
+      },
+      {
+        "OBEC": "Horné Vestenice"
+      },
+      {
+        "OBEC": "Horné Zahorany"
+      },
+      {
+        "OBEC": "Horné Zelenice"
+      },
+      {
+        "OBEC": "Horný Badín"
+      },
+      {
+        "OBEC": "Horný Bar"
+      },
+      {
+        "OBEC": "Horný Hričov"
+      },
+      {
+        "OBEC": "Horný Kalník"
+      },
+      {
+        "OBEC": "Horný Lieskov"
+      },
+      {
+        "OBEC": "Horný Pial"
+      },
+      {
+        "OBEC": "Horný Tisovník"
+      },
+      {
+        "OBEC": "Dolný Tisovník"
+      },
+      {
+        "OBEC": "Horný Vadičov"
+      },
+      {
+        "OBEC": "Horný Vinodol"
+      },
+      {
+        "OBEC": "Horovce"
+      },
+      {
+        "OBEC": "Horovce"
+      },
+      {
+        "OBEC": "Hoste"
+      },
+      {
+        "OBEC": "Hostice"
+      },
+      {
+        "OBEC": "Hostie"
+      },
+      {
+        "OBEC": "Hostišovce"
+      },
+      {
+        "OBEC": "Hosťová"
+      },
+      {
+        "OBEC": "Hosťovce"
+      },
+      {
+        "OBEC": "Hosťovce"
+      },
+      {
+        "OBEC": "Hostovice"
+      },
+      {
+        "OBEC": "Hozelec"
+      },
+      {
+        "OBEC": "Úsvit"
+      },
+      {
+        "OBEC": "Hôrka"
+      },
+      {
+        "OBEC": "Kišovce"
+      },
+      {
+        "OBEC": "Ondrej"
+      },
+      {
+        "OBEC": "Primovce"
+      },
+      {
+        "OBEC": "Hôrka nad Váhom"
+      },
+      {
+        "OBEC": "Hôrky"
+      },
+      {
+        "OBEC": "Hrabičov"
+      },
+      {
+        "OBEC": "Hrabkov"
+      },
+      {
+        "OBEC": "Hrabová Roztoka"
+      },
+      {
+        "OBEC": "Hrabovčík"
+      },
+      {
+        "OBEC": "Hrabovec"
+      },
+      {
+        "OBEC": "Hrabovec n/ Laborcom"
+      },
+      {
+        "OBEC": "Hrabovka"
+      },
+      {
+        "OBEC": "Hrabské"
+      },
+      {
+        "OBEC": "Hrabušice"
+      },
+      {
+        "OBEC": "Hradisko"
+      },
+      {
+        "OBEC": "Hradište"
+      },
+      {
+        "OBEC": "Hradište"
+      },
+      {
+        "OBEC": "Hradište pod Vrátnom"
+      },
+      {
+        "OBEC": "Hrádok"
+      },
+      {
+        "OBEC": "Hrachovište"
+      },
+      {
+        "OBEC": "Hrachovo"
+      },
+      {
+        "OBEC": "Svetlá"
+      },
+      {
+        "OBEC": "Hraň"
+      },
+      {
+        "OBEC": "Hraničné"
+      },
+      {
+        "OBEC": "Hranovnica"
+      },
+      {
+        "OBEC": "Hrašné"
+      },
+      {
+        "OBEC": "Hodulov Vrch"
+      },
+      {
+        "OBEC": "Hrašovík"
+      },
+      {
+        "OBEC": "Hrčeľ"
+      },
+      {
+        "OBEC": "Hrhov"
+      },
+      {
+        "OBEC": "Hriadky"
+      },
+      {
+        "OBEC": "Hričovské Podhradie"
+      },
+      {
+        "OBEC": "Hriňová"
+      },
+      {
+        "OBEC": "Horná Hriňová"
+      },
+      {
+        "OBEC": "Jasenovo"
+      },
+      {
+        "OBEC": "Mangútovo"
+      },
+      {
+        "OBEC": "Slanec"
+      },
+      {
+        "OBEC": "Snohy"
+      },
+      {
+        "OBEC": "Štoliansko"
+      },
+      {
+        "OBEC": "Hrišovce"
+      },
+      {
+        "OBEC": "Hrkáč"
+      },
+      {
+        "OBEC": "Hrkovce"
+      },
+      {
+        "OBEC": "Hrlica"
+      },
+      {
+        "OBEC": "Hrnčiarovce n/Parnou"
+      },
+      {
+        "OBEC": "Hrnčiarové"
+      },
+      {
+        "OBEC": "Hrnčiarska Ves"
+      },
+      {
+        "OBEC": "Maštinec"
+      },
+      {
+        "OBEC": "Pondelok"
+      },
+      {
+        "OBEC": "Veľká Suchá"
+      },
+      {
+        "OBEC": "Hrnčiarske Zalužany"
+      },
+      {
+        "OBEC": "Hrochoť"
+      },
+      {
+        "OBEC": "Hromoš"
+      },
+      {
+        "OBEC": "Kozelec"
+      },
+      {
+        "OBEC": "Hronec"
+      },
+      {
+        "OBEC": "Hronovce"
+      },
+      {
+        "OBEC": "Čajakovo"
+      },
+      {
+        "OBEC": "Domaša"
+      },
+      {
+        "OBEC": "Vozokany nad Hronom"
+      },
+      {
+        "OBEC": "Hronsek"
+      },
+      {
+        "OBEC": "Hronská Breznica"
+      },
+      {
+        "OBEC": "Hronská Dúbrava"
+      },
+      {
+        "OBEC": "Hronské Kľačany"
+      },
+      {
+        "OBEC": "Hronské Kosihy"
+      },
+      {
+        "OBEC": "Hronský Beňadik"
+      },
+      {
+        "OBEC": "Psiare"
+      },
+      {
+        "OBEC": "Hrubá Borša"
+      },
+      {
+        "OBEC": "Hrubá Strana"
+      },
+      {
+        "OBEC": "Hruboňovo"
+      },
+      {
+        "OBEC": "Hrubov"
+      },
+      {
+        "OBEC": "Hrubý Šúr"
+      },
+      {
+        "OBEC": "Hrušov"
+      },
+      {
+        "OBEC": "Hrušov"
+      },
+      {
+        "OBEC": "Hrušovany"
+      },
+      {
+        "OBEC": "Hrušové"
+      },
+      {
+        "OBEC": "Hrušovo"
+      },
+      {
+        "OBEC": "Ostrany"
+      },
+      {
+        "OBEC": "Striežovce"
+      },
+      {
+        "OBEC": "Hruštín"
+      },
+      {
+        "OBEC": "Vaňovka"
+      },
+      {
+        "OBEC": "Hubice"
+      },
+      {
+        "OBEC": "Hubina"
+      },
+      {
+        "OBEC": "Hubošovce"
+      },
+      {
+        "OBEC": "Hubová"
+      },
+      {
+        "OBEC": "Hubovo"
+      },
+      {
+        "OBEC": "Hucín"
+      },
+      {
+        "OBEC": "Hudcovce"
+      },
+      {
+        "OBEC": "Hul"
+      },
+      {
+        "OBEC": "Humenné"
+      },
+      {
+        "OBEC": "Huncovce"
+      },
+      {
+        "OBEC": "Hunkovce"
+      },
+      {
+        "OBEC": "Hurbanova Dolina"
+      },
+      {
+        "OBEC": "Hurbanova Ves"
+      },
+      {
+        "OBEC": "Hurbanovo"
+      },
+      {
+        "OBEC": "Husák"
+      },
+      {
+        "OBEC": "Husiná"
+      },
+      {
+        "OBEC": "Hutka"
+      },
+      {
+        "OBEC": "Huty"
+      },
+      {
+        "OBEC": "Hviezdoslavov"
+      },
+      {
+        "OBEC": "Hvozdnica"
+      },
+      {
+        "OBEC": "Hybe"
+      },
+      {
+        "OBEC": "Hýľov"
+      },
+      {
+        "OBEC": "Chanava"
+      },
+      {
+        "OBEC": "Chľaba"
+      },
+      {
+        "OBEC": "Chlebnice"
+      },
+      {
+        "OBEC": "Chlmec"
+      },
+      {
+        "OBEC": "Chmeľnica"
+      },
+      {
+        "OBEC": "Chmeľov"
+      },
+      {
+        "OBEC": "Podhrabina"
+      },
+      {
+        "OBEC": "Chmeľová"
+      },
+      {
+        "OBEC": "Chmeľovec"
+      },
+      {
+        "OBEC": "Chmiňany"
+      },
+      {
+        "OBEC": "Chminianska Nová Ves"
+      },
+      {
+        "OBEC": "Bunde"
+      },
+      {
+        "OBEC": "Chminian. Jakubovany"
+      },
+      {
+        "OBEC": "Choča"
+      },
+      {
+        "OBEC": "Chocholná-Velčice"
+      },
+      {
+        "OBEC": "Choňkovce"
+      },
+      {
+        "OBEC": "Chorvátsky Grob"
+      },
+      {
+        "OBEC": "Chorváty"
+      },
+      {
+        "OBEC": "Chotča"
+      },
+      {
+        "OBEC": "Chotín"
+      },
+      {
+        "OBEC": "Chrabrany"
+      },
+      {
+        "OBEC": "Chrámec"
+      },
+      {
+        "OBEC": "Chrasť nad Hornádom"
+      },
+      {
+        "OBEC": "Chrastince"
+      },
+      {
+        "OBEC": "Chrastné"
+      },
+      {
+        "OBEC": "Chrašťany"
+      },
+      {
+        "OBEC": "Chrenovec - Brusno"
+      },
+      {
+        "OBEC": "Chropov"
+      },
+      {
+        "OBEC": "Chrťany"
+      },
+      {
+        "OBEC": "Chtelnica"
+      },
+      {
+        "OBEC": "Chudá Lehota"
+      },
+      {
+        "OBEC": "Chvalová"
+      },
+      {
+        "OBEC": "Chvojnica"
+      },
+      {
+        "OBEC": "Chvojnica"
+      },
+      {
+        "OBEC": "Chym"
+      },
+      {
+        "OBEC": "Chynorany"
+      },
+      {
+        "OBEC": "Chyžné"
+      },
+      {
+        "OBEC": "Igram"
+      },
+      {
+        "OBEC": "Ihľany"
+      },
+      {
+        "OBEC": "Majerka"
+      },
+      {
+        "OBEC": "Stotince"
+      },
+      {
+        "OBEC": "Ihráč"
+      },
+      {
+        "OBEC": "Ilava"
+      },
+      {
+        "OBEC": "Iliavka"
+      },
+      {
+        "OBEC": "Klobušice"
+      },
+      {
+        "OBEC": "Iliašovce"
+      },
+      {
+        "OBEC": "Ilija"
+      },
+      {
+        "OBEC": "Imeľ"
+      },
+      {
+        "OBEC": "Iňa"
+      },
+      {
+        "OBEC": "Iňačovce"
+      },
+      {
+        "OBEC": "Inovce"
+      },
+      {
+        "OBEC": "Ipeľské Predmostie"
+      },
+      {
+        "OBEC": "Ipeľské Úľany"
+      },
+      {
+        "OBEC": "Ipeľský Sokolec"
+      },
+      {
+        "OBEC": "Istebné"
+      },
+      {
+        "OBEC": "Ivachnová"
+      },
+      {
+        "OBEC": "Ivančiná"
+      },
+      {
+        "OBEC": "Dvorec"
+      },
+      {
+        "OBEC": "Ivanice"
+      },
+      {
+        "OBEC": "Ivanka pri Dunaji"
+      },
+      {
+        "OBEC": "Ivanka pri Nitre"
+      },
+      {
+        "OBEC": "Ivanovce"
+      },
+      {
+        "OBEC": "Iža"
+      },
+      {
+        "OBEC": "Bokroš"
+      },
+      {
+        "OBEC": "Ižipovce"
+      },
+      {
+        "OBEC": "Ižkovce"
+      },
+      {
+        "OBEC": "Jabloň"
+      },
+      {
+        "OBEC": "Jablonec"
+      },
+      {
+        "OBEC": "Jablonica"
+      },
+      {
+        "OBEC": "Jablonka"
+      },
+      {
+        "OBEC": "Jablonov"
+      },
+      {
+        "OBEC": "Jablonov nad Turňou"
+      },
+      {
+        "OBEC": "Jabloňovce"
+      },
+      {
+        "OBEC": "Jablonové"
+      },
+      {
+        "OBEC": "Jablonové"
+      },
+      {
+        "OBEC": "Jacovce"
+      },
+      {
+        "OBEC": "Jahodná"
+      },
+      {
+        "OBEC": "Jaklovce"
+      },
+      {
+        "OBEC": "Jakovany"
+      },
+      {
+        "OBEC": "Jakubany"
+      },
+      {
+        "OBEC": "Jakubov"
+      },
+      {
+        "OBEC": "Jakubova Voľa"
+      },
+      {
+        "OBEC": "Jakubovany"
+      },
+      {
+        "OBEC": "Jakubovany"
+      },
+      {
+        "OBEC": "Jakušovce"
+      },
+      {
+        "OBEC": "Jalová"
+      },
+      {
+        "OBEC": "Jalovec"
+      },
+      {
+        "OBEC": "Jalovec"
+      },
+      {
+        "OBEC": "Jalšové"
+      },
+      {
+        "OBEC": "Jalšovík"
+      },
+      {
+        "OBEC": "Dolný Jalšovík"
+      },
+      {
+        "OBEC": "Horný Jalšovík"
+      },
+      {
+        "OBEC": "Jamník"
+      },
+      {
+        "OBEC": "Jamník"
+      },
+      {
+        "OBEC": "Janice"
+      },
+      {
+        "OBEC": "Janík"
+      },
+      {
+        "OBEC": "Janíky"
+      },
+      {
+        "OBEC": "Jankovce"
+      },
+      {
+        "OBEC": "Janov"
+      },
+      {
+        "OBEC": "Janova Lehota"
+      },
+      {
+        "OBEC": "Janovce"
+      },
+      {
+        "OBEC": "Jánovce"
+      },
+      {
+        "OBEC": "Jánovce"
+      },
+      {
+        "OBEC": "Machalovce"
+      },
+      {
+        "OBEC": "Janovík"
+      },
+      {
+        "OBEC": "Jarabá"
+      },
+      {
+        "OBEC": "Jarabina"
+      },
+      {
+        "OBEC": "Jarok"
+      },
+      {
+        "OBEC": "Jarovnice"
+      },
+      {
+        "OBEC": "Močidľany"
+      },
+      {
+        "OBEC": "Jasenica"
+      },
+      {
+        "OBEC": "Jasenie"
+      },
+      {
+        "OBEC": "Jasenov"
+      },
+      {
+        "OBEC": "Jasenov"
+      },
+      {
+        "OBEC": "Jasenová"
+      },
+      {
+        "OBEC": "Jasenovce"
+      },
+      {
+        "OBEC": "Jasenové"
+      },
+      {
+        "OBEC": "Jasenovo"
+      },
+      {
+        "OBEC": "Jaslovské Bohunice"
+      },
+      {
+        "OBEC": "Bohunice"
+      },
+      {
+        "OBEC": "Jaslovce"
+      },
+      {
+        "OBEC": "Paderovce"
+      },
+      {
+        "OBEC": "Jasov"
+      },
+      {
+        "OBEC": "Jasová"
+      },
+      {
+        "OBEC": "Jastrabá"
+      },
+      {
+        "OBEC": "Jastrabie nad Topľou"
+      },
+      {
+        "OBEC": "Jastrabie pri Michal"
+      },
+      {
+        "OBEC": "Jatov"
+      },
+      {
+        "OBEC": "Dolný Jatov"
+      },
+      {
+        "OBEC": "Kendereš"
+      },
+      {
+        "OBEC": "Malý Jatov"
+      },
+      {
+        "OBEC": "Javorina"
+      },
+      {
+        "OBEC": "Jazernica"
+      },
+      {
+        "OBEC": "Jazviny"
+      },
+      {
+        "OBEC": "Jedlinka"
+      },
+      {
+        "OBEC": "Jedľové Kostoľany"
+      },
+      {
+        "OBEC": "Jelenec"
+      },
+      {
+        "OBEC": "Jelka"
+      },
+      {
+        "OBEC": "Jelšava"
+      },
+      {
+        "OBEC": "Jelšovce"
+      },
+      {
+        "OBEC": "Jelšovec"
+      },
+      {
+        "OBEC": "Jenkovce"
+      },
+      {
+        "OBEC": "Jesenské"
+      },
+      {
+        "OBEC": "Jesenské"
+      },
+      {
+        "OBEC": "Jestice"
+      },
+      {
+        "OBEC": "Ješkova Ves"
+      },
+      {
+        "OBEC": "Jezersko"
+      },
+      {
+        "OBEC": "Jovice"
+      },
+      {
+        "OBEC": "Jovsa"
+      },
+      {
+        "OBEC": "Jur nad Hronom"
+      },
+      {
+        "OBEC": "Jurkova Voľa"
+      },
+      {
+        "OBEC": "Jurová"
+      },
+      {
+        "OBEC": "Jurské"
+      },
+      {
+        "OBEC": "Juskova Voľa"
+      },
+      {
+        "OBEC": "Kačanov"
+      },
+      {
+        "OBEC": "Kajal"
+      },
+      {
+        "OBEC": "Kaľamenová"
+      },
+      {
+        "OBEC": "Kalameny"
+      },
+      {
+        "OBEC": "Kaľava"
+      },
+      {
+        "OBEC": "Kalinkovo"
+      },
+      {
+        "OBEC": "Kalinov"
+      },
+      {
+        "OBEC": "Kalinovo"
+      },
+      {
+        "OBEC": "Hrabovo"
+      },
+      {
+        "OBEC": "Petrovec"
+      },
+      {
+        "OBEC": "Kalná nad Hronom"
+      },
+      {
+        "OBEC": "Kalná"
+      },
+      {
+        "OBEC": "Kalnica"
+      },
+      {
+        "OBEC": "Kalná Roztoka"
+      },
+      {
+        "OBEC": "Kálnica"
+      },
+      {
+        "OBEC": "Kalnište"
+      },
+      {
+        "OBEC": "Kalonda"
+      },
+      {
+        "OBEC": "Kaloša"
+      },
+      {
+        "OBEC": "Kalša"
+      },
+      {
+        "OBEC": "Kaluža"
+      },
+      {
+        "OBEC": "Kamanová"
+      },
+      {
+        "OBEC": "Kameňany"
+      },
+      {
+        "OBEC": "Kamenec pod Vtáč."
+      },
+      {
+        "OBEC": "Kamenica"
+      },
+      {
+        "OBEC": "Kamenica n/Cirochou"
+      },
+      {
+        "OBEC": "Kamenica nad Hronom"
+      },
+      {
+        "OBEC": "Kameničany"
+      },
+      {
+        "OBEC": "Kameničná"
+      },
+      {
+        "OBEC": "Balvany"
+      },
+      {
+        "OBEC": "Kamenín"
+      },
+      {
+        "OBEC": "Kamenná Poruba"
+      },
+      {
+        "OBEC": "Kamenná Poruba"
+      },
+      {
+        "OBEC": "Kamenné Kosihy"
+      },
+      {
+        "OBEC": "Kamenný Most"
+      },
+      {
+        "OBEC": "Kamenný Vrch"
+      },
+      {
+        "OBEC": "Kamienka"
+      },
+      {
+        "OBEC": "Kamienka"
+      },
+      {
+        "OBEC": "Kanianka"
+      },
+      {
+        "OBEC": "Kapince"
+      },
+      {
+        "OBEC": "Kapišová"
+      },
+      {
+        "OBEC": "Kaplna"
+      },
+      {
+        "OBEC": "Kapušany"
+      },
+      {
+        "OBEC": "Kapušianske Kľačany"
+      },
+      {
+        "OBEC": "Karlov Dvor"
+      },
+      {
+        "OBEC": "Karlová"
+      },
+      {
+        "OBEC": "Karná"
+      },
+      {
+        "OBEC": "Kašov"
+      },
+      {
+        "OBEC": "Kátlovce"
+      },
+      {
+        "OBEC": "Kátov"
+      },
+      {
+        "OBEC": "Kazimír"
+      },
+      {
+        "OBEC": "Keblov - Zárieč"
+      },
+      {
+        "OBEC": "Kecerovce"
+      },
+      {
+        "OBEC": "Kecerovské Kostoľany"
+      },
+      {
+        "OBEC": "Kecerovské Pekľany"
+      },
+      {
+        "OBEC": "Kecerovský Lipovec"
+      },
+      {
+        "OBEC": "Kečkovce"
+      },
+      {
+        "OBEC": "Kečovo"
+      },
+      {
+        "OBEC": "Kechnec"
+      },
+      {
+        "OBEC": "Kendice"
+      },
+      {
+        "OBEC": "Kesovce"
+      },
+      {
+        "OBEC": "Keť"
+      },
+      {
+        "OBEC": "Kežmarok"
+      },
+      {
+        "OBEC": "Kiarov"
+      },
+      {
+        "OBEC": "Kľačany"
+      },
+      {
+        "OBEC": "Kľače"
+      },
+      {
+        "OBEC": "Kľačno"
+      },
+      {
+        "OBEC": "Kľačno"
+      },
+      {
+        "OBEC": "Kladzany"
+      },
+      {
+        "OBEC": "Kľak"
+      },
+      {
+        "OBEC": "Klasov"
+      },
+      {
+        "OBEC": "Kláštor pod Znievom"
+      },
+      {
+        "OBEC": "Lazany"
+      },
+      {
+        "OBEC": "Klátova Nová Ves"
+      },
+      {
+        "OBEC": "Janova Ves"
+      },
+      {
+        "OBEC": "Sádok"
+      },
+      {
+        "OBEC": "Klčov"
+      },
+      {
+        "OBEC": "Kleňany"
+      },
+      {
+        "OBEC": "Klenov"
+      },
+      {
+        "OBEC": "Klenová"
+      },
+      {
+        "OBEC": "Klenovec"
+      },
+      {
+        "OBEC": "Klieština"
+      },
+      {
+        "OBEC": "Klin"
+      },
+      {
+        "OBEC": "Klin nad Bodrogom"
+      },
+      {
+        "OBEC": "Klížska Nemá"
+      },
+      {
+        "OBEC": "Klokoč"
+      },
+      {
+        "OBEC": "Jašov Vrch"
+      },
+      {
+        "OBEC": "Klokočov"
+      },
+      {
+        "OBEC": "Klokočov"
+      },
+      {
+        "OBEC": "Hlavice"
+      },
+      {
+        "OBEC": "Hrubý Buk"
+      },
+      {
+        "OBEC": "Javorová"
+      },
+      {
+        "OBEC": "Klin"
+      },
+      {
+        "OBEC": "Kornica"
+      },
+      {
+        "OBEC": "Riečky"
+      },
+      {
+        "OBEC": "Rybárie"
+      },
+      {
+        "OBEC": "Vrchpredmier"
+      },
+      {
+        "OBEC": "Klubina"
+      },
+      {
+        "OBEC": "Kľúčovec"
+      },
+      {
+        "OBEC": "Kluknava"
+      },
+      {
+        "OBEC": "Kľušov"
+      },
+      {
+        "OBEC": "Kľušovská Zábava"
+      },
+      {
+        "OBEC": "Kmeťovo"
+      },
+      {
+        "OBEC": "Kobeliarovo"
+      },
+      {
+        "OBEC": "Kobylnice"
+      },
+      {
+        "OBEC": "Kobyly"
+      },
+      {
+        "OBEC": "Koceľovce"
+      },
+      {
+        "OBEC": "Kociha"
+      },
+      {
+        "OBEC": "Kocurany"
+      },
+      {
+        "OBEC": "Kočín-Lančár"
+      },
+      {
+        "OBEC": "Kočovce"
+      },
+      {
+        "OBEC": "Kochanovce"
+      },
+      {
+        "OBEC": "Kochanovce"
+      },
+      {
+        "OBEC": "Kojatice"
+      },
+      {
+        "OBEC": "Kojatická Dolina"
+      },
+      {
+        "OBEC": "Šarišské Lužianky"
+      },
+      {
+        "OBEC": "Kojšov"
+      },
+      {
+        "OBEC": "Kokava nad Rimavicou"
+      },
+      {
+        "OBEC": "Kokošovce"
+      },
+      {
+        "OBEC": "Sigord"
+      },
+      {
+        "OBEC": "Kokšov - Bakša"
+      },
+      {
+        "OBEC": "Kolačkov"
+      },
+      {
+        "OBEC": "Kolačno"
+      },
+      {
+        "OBEC": "Koláre"
+      },
+      {
+        "OBEC": "Kolárovice"
+      },
+      {
+        "OBEC": "Babiše"
+      },
+      {
+        "OBEC": "Bršlica"
+      },
+      {
+        "OBEC": "Čiakov"
+      },
+      {
+        "OBEC": "Korytné"
+      },
+      {
+        "OBEC": "Slopkov"
+      },
+      {
+        "OBEC": "Škoruby"
+      },
+      {
+        "OBEC": "Kolárovo"
+      },
+      {
+        "OBEC": "Částa"
+      },
+      {
+        "OBEC": "Kráľka"
+      },
+      {
+        "OBEC": "Pačérok"
+      },
+      {
+        "OBEC": "Veľká Gúta"
+      },
+      {
+        "OBEC": "Veľký Ostrov"
+      },
+      {
+        "OBEC": "Kolbasov"
+      },
+      {
+        "OBEC": "Kolbovce"
+      },
+      {
+        "OBEC": "Kolibabovce"
+      },
+      {
+        "OBEC": "Kolíňany"
+      },
+      {
+        "OBEC": "Kolinovce"
+      },
+      {
+        "OBEC": "Kolonica"
+      },
+      {
+        "OBEC": "Kolta"
+      },
+      {
+        "OBEC": "Komárany"
+      },
+      {
+        "OBEC": "Komárno"
+      },
+      {
+        "OBEC": "Komárov"
+      },
+      {
+        "OBEC": "Komárovce"
+      },
+      {
+        "OBEC": "Komjatice"
+      },
+      {
+        "OBEC": "Komjatná"
+      },
+      {
+        "OBEC": "Studničná"
+      },
+      {
+        "OBEC": "Komoča"
+      },
+      {
+        "OBEC": "Koniarovce"
+      },
+      {
+        "OBEC": "Konrádovce"
+      },
+      {
+        "OBEC": "Konská"
+      },
+      {
+        "OBEC": "Konská"
+      },
+      {
+        "OBEC": "Koňuš"
+      },
+      {
+        "OBEC": "Kopčany"
+      },
+      {
+        "OBEC": "Kopernica"
+      },
+      {
+        "OBEC": "Koplotovce"
+      },
+      {
+        "OBEC": "Koprivnica"
+      },
+      {
+        "OBEC": "Dubie"
+      },
+      {
+        "OBEC": "Kordíky"
+      },
+      {
+        "OBEC": "Korejovce"
+      },
+      {
+        "OBEC": "Korňa"
+      },
+      {
+        "OBEC": "Nižná Korňa"
+      },
+      {
+        "OBEC": "Vyšná Korňa"
+      },
+      {
+        "OBEC": "Koromľa"
+      },
+      {
+        "OBEC": "Korunková"
+      },
+      {
+        "OBEC": "Korytárky"
+      },
+      {
+        "OBEC": "Korytné"
+      },
+      {
+        "OBEC": "Korytnica - kúpele"
+      },
+      {
+        "OBEC": "Kosihovce"
+      },
+      {
+        "OBEC": "Kosihy nad Ipľom"
+      },
+      {
+        "OBEC": "Kosorín"
+      },
+      {
+        "OBEC": "Kostoľany n/Hornádom"
+      },
+      {
+        "OBEC": "Kostoľany p/Tribečom"
+      },
+      {
+        "OBEC": "Kostolec"
+      },
+      {
+        "OBEC": "Kostolište"
+      },
+      {
+        "OBEC": "Kostolná pri Dunaji"
+      },
+      {
+        "OBEC": "Kostolná Ves"
+      },
+      {
+        "OBEC": "Kostolná - Záriečie"
+      },
+      {
+        "OBEC": "Kostolné"
+      },
+      {
+        "OBEC": "Babulicov Vrch"
+      },
+      {
+        "OBEC": "Kostolné Kračany"
+      },
+      {
+        "OBEC": "Amadeho Kračany"
+      },
+      {
+        "OBEC": "Kynceľove Kračany"
+      },
+      {
+        "OBEC": "Moravské Kračany"
+      },
+      {
+        "OBEC": "Pinkove Kračany"
+      },
+      {
+        "OBEC": "Šipošovské Kračany"
+      },
+      {
+        "OBEC": "Koš"
+      },
+      {
+        "OBEC": "Košariská"
+      },
+      {
+        "OBEC": "Košarovce"
+      },
+      {
+        "OBEC": "Košeca"
+      },
+      {
+        "OBEC": "Košecké Podhradie"
+      },
+      {
+        "OBEC": "Košice"
+      },
+      {
+        "OBEC": "Košická Belá"
+      },
+      {
+        "OBEC": "Košická Polianka"
+      },
+      {
+        "OBEC": "Košické Oľšany"
+      },
+      {
+        "OBEC": "Košický Klečenov"
+      },
+      {
+        "OBEC": "Koškovce"
+      },
+      {
+        "OBEC": "Košolná"
+      },
+      {
+        "OBEC": "Košťany"
+      },
+      {
+        "OBEC": "Košťany nad Turcom"
+      },
+      {
+        "OBEC": "Košúty"
+      },
+      {
+        "OBEC": "Kotešová"
+      },
+      {
+        "OBEC": "Buková"
+      },
+      {
+        "OBEC": "Oblazov"
+      },
+      {
+        "OBEC": "Kotmanová"
+      },
+      {
+        "OBEC": "Kotrčiná Lúčka"
+      },
+      {
+        "OBEC": "Kováčová"
+      },
+      {
+        "OBEC": "Kováčová"
+      },
+      {
+        "OBEC": "Kováčovce"
+      },
+      {
+        "OBEC": "Peťov"
+      },
+      {
+        "OBEC": "Koválov"
+      },
+      {
+        "OBEC": "Koválovec"
+      },
+      {
+        "OBEC": "Kovarce"
+      },
+      {
+        "OBEC": "Kozárovce"
+      },
+      {
+        "OBEC": "Kozelník"
+      },
+      {
+        "OBEC": "Kozí Vrbovok"
+      },
+      {
+        "OBEC": "Kožany"
+      },
+      {
+        "OBEC": "Kožuchov"
+      },
+      {
+        "OBEC": "Kožuchovce"
+      },
+      {
+        "OBEC": "Kračúnovce"
+      },
+      {
+        "OBEC": "Krahule"
+      },
+      {
+      },
+      {
+      },
+      {
+      },
+      {
+      },
+      {
+      },
+      {
+        "OBEC": "Krakovany"
+      },
+      {
+        "OBEC": "Kráľ"
+      },
+      {
+        "OBEC": "Králiky"
+      },
+      {
+        "OBEC": "Kráľov Brod"
+      },
+      {
+        "OBEC": "Kráľova Lehota"
+      },
+      {
+        "OBEC": "Kráľová nad Váhom"
+      },
+      {
+        "OBEC": "Kráľová pri Senci"
+      },
+      {
+        "OBEC": "Kraľovany"
+      },
+      {
+        "OBEC": "Kráľovce"
+      },
+      {
+        "OBEC": "Kráľovce - Krnišov"
+      },
+      {
+        "OBEC": "Kráľovičove Kračany"
+      },
+      {
+        "OBEC": "Kráľovský Chlmec"
+      },
+      {
+        "OBEC": "Kraskovo"
+      },
+      {
+        "OBEC": "Krásna Lúka"
+      },
+      {
+        "OBEC": "Krásna Ves"
+      },
+      {
+        "OBEC": "Krasňany"
+      },
+      {
+        "OBEC": "Krásno"
+      },
+      {
+        "OBEC": "Krásno nad Kysucou"
+      },
+      {
+        "OBEC": "Krásnohor. Dlhá Lúka"
+      },
+      {
+        "OBEC": "Krásnohor. Podhradie"
+      },
+      {
+        "OBEC": "Krásnovce"
+      },
+      {
+        "OBEC": "Krásny Brod"
+      },
+      {
+        "OBEC": "Kravany"
+      },
+      {
+        "OBEC": "Kravany"
+      },
+      {
+        "OBEC": "Kravany nad Dunajom"
+      },
+      {
+        "OBEC": "Krčava"
+      },
+      {
+        "OBEC": "Kremná"
+      },
+      {
+        "OBEC": "Kremnica"
+      },
+      {
+        "OBEC": "Kremnické Bane"
+      },
+      {
+        "OBEC": "Kristy"
+      },
+      {
+        "OBEC": "Krišľovce"
+      },
+      {
+        "OBEC": "Krišovská Liesková"
+      },
+      {
+        "OBEC": "Krížany"
+      },
+      {
+        "OBEC": "Liesková"
+      },
+      {
+        "OBEC": "Krivá"
+      },
+      {
+        "OBEC": "Kriváň"
+      },
+      {
+        "OBEC": "Krivany"
+      },
+      {
+        "OBEC": "Krivé"
+      },
+      {
+        "OBEC": "Krivec I"
+      },
+      {
+        "OBEC": "Krivec II"
+      },
+      {
+        "OBEC": "Krivoklát"
+      },
+      {
+        "OBEC": "Krivosúd - Bodovka"
+      },
+      {
+        "OBEC": "Kríž nad Váhom"
+      },
+      {
+        "OBEC": "Kríže"
+      },
+      {
+        "OBEC": "Krížová Ves"
+      },
+      {
+        "OBEC": "Krížovany"
+      },
+      {
+        "OBEC": "Križovany n/Dudváhom"
+      },
+      {
+        "OBEC": "Krná"
+      },
+      {
+        "OBEC": "Krnča"
+      },
+      {
+        "OBEC": "Krokava"
+      },
+      {
+        "OBEC": "Krompachy"
+      },
+      {
+        "OBEC": "Krpeľany"
+      },
+      {
+        "OBEC": "Krškany"
+      },
+      {
+        "OBEC": "Malé Krškany"
+      },
+      {
+        "OBEC": "Veľké Krškany"
+      },
+      {
+        "OBEC": "Krtovce"
+      },
+      {
+        "OBEC": "Kručov"
+      },
+      {
+        "OBEC": "Krupina"
+      },
+      {
+        "OBEC": "Krušetnica"
+      },
+      {
+        "OBEC": "Krušinec"
+      },
+      {
+        "OBEC": "Krušovce"
+      },
+      {
+        "OBEC": "Dolné Chlebany"
+      },
+      {
+        "OBEC": "Kružlov"
+      },
+      {
+        "OBEC": "Kružlovská Huta"
+      },
+      {
+        "OBEC": "Kružlová"
+      },
+      {
+        "OBEC": "Kružná"
+      },
+      {
+        "OBEC": "Kružno"
+      },
+      {
+        "OBEC": "Kšinná"
+      },
+      {
+        "OBEC": "Rakovec"
+      },
+      {
+        "OBEC": "Závada p/Čier.vrchom"
+      },
+      {
+        "OBEC": "Kubáňovo"
+      },
+      {
+        "OBEC": "Kučín"
+      },
+      {
+        "OBEC": "Kučín"
+      },
+      {
+        "OBEC": "Kuchyňa"
+      },
+      {
+        "OBEC": "Kuklov"
+      },
+      {
+        "OBEC": "Kuková"
+      },
+      {
+        "OBEC": "Kukučínov"
+      },
+      {
+        "OBEC": "Malý Pesek"
+      },
+      {
+        "OBEC": "Kunerad"
+      },
+      {
+        "OBEC": "Kunešov"
+      },
+      {
+        "OBEC": "Kunova Teplica"
+      },
+      {
+        "OBEC": "Kuraľany"
+      },
+      {
+        "OBEC": "Kurima"
+      },
+      {
+        "OBEC": "Kurimany"
+      },
+      {
+        "OBEC": "Kurimka"
+      },
+      {
+        "OBEC": "Kurov"
+      },
+      {
+        "OBEC": "Kusín"
+      },
+      {
+        "OBEC": "Kútniky"
+      },
+      {
+        "OBEC": "Heďbeneéte"
+      },
+      {
+        "OBEC": "Kolónia"
+      },
+      {
+        "OBEC": "Kolónia"
+      },
+      {
+        "OBEC": "Töböréte"
+      },
+      {
+        "OBEC": "Kúty"
+      },
+      {
+        "OBEC": "Kuzmice"
+      },
+      {
+        "OBEC": "Kuzmice"
+      },
+      {
+        "OBEC": "Dancov Potok"
+      },
+      {
+        "OBEC": "Kvačany"
+      },
+      {
+        "OBEC": "Kvačany"
+      },
+      {
+        "OBEC": "Dlhá Lúka"
+      },
+      {
+        "OBEC": "Kvakovce"
+      },
+      {
+        "OBEC": "Kvašov"
+      },
+      {
+        "OBEC": "Močiare"
+      },
+      {
+        "OBEC": "Kvetoslavov"
+      },
+      {
+        "OBEC": "Kyjatice"
+      },
+      {
+        "OBEC": "Kyjov"
+      },
+      {
+        "OBEC": "Kynceľová"
+      },
+      {
+        "OBEC": "Kysak"
+      },
+      {
+        "OBEC": "Kyselica"
+      },
+      {
+        "OBEC": "Kysihýbel"
+      },
+      {
+        "OBEC": "Kysta"
+      },
+      {
+        "OBEC": "Kysucké Nové Mesto"
+      },
+      {
+        "OBEC": "Budatínska Lehota"
+      },
+      {
+        "OBEC": "Oškerda"
+      },
+      {
+        "OBEC": "Kysucký Lieskovec"
+      },
+      {
+        "OBEC": "Láb"
+      },
+      {
+        "OBEC": "Lackov"
+      },
+      {
+        "OBEC": "Lacková"
+      },
+      {
+        "OBEC": "Lackovce"
+      },
+      {
+        "OBEC": "Lada"
+      },
+      {
+        "OBEC": "Ladce"
+      },
+      {
+        "OBEC": "Tunežice"
+      },
+      {
+        "OBEC": "Ladice"
+      },
+      {
+        "OBEC": "Ladmovce"
+      },
+      {
+        "OBEC": "Ladomerská Vieska"
+      },
+      {
+        "OBEC": "Vieska"
+      },
+      {
+        "OBEC": "Ladomirov"
+      },
+      {
+        "OBEC": "Ladomirová"
+      },
+      {
+        "OBEC": "Ladzany"
+      },
+      {
+        "OBEC": "Lakšárska Nová Ves"
+      },
+      {
+        "OBEC": "Mikulášov"
+      },
+      {
+        "OBEC": "Lascov"
+      },
+      {
+        "OBEC": "Laskár"
+      },
+      {
+        "OBEC": "Valentová"
+      },
+      {
+        "OBEC": "Lastomír"
+      },
+      {
+        "OBEC": "Lastovce"
+      },
+      {
+        "OBEC": "Laškovce"
+      },
+      {
+        "OBEC": "Látky"
+      },
+      {
+        "OBEC": "Čechánky"
+      },
+      {
+        "OBEC": "Mláky"
+      },
+      {
+        "OBEC": "Nový Svet"
+      },
+      {
+        "OBEC": "Paseky"
+      },
+      {
+        "OBEC": "Polianky"
+      },
+      {
+        "OBEC": "Lazany"
+      },
+      {
+        "OBEC": "Lazisko"
+      },
+      {
+        "OBEC": "Lazy pod Makytou"
+      },
+      {
+        "OBEC": "Dubková"
+      },
+      {
+        "OBEC": "Lažany"
+      },
+      {
+        "OBEC": "Lednica"
+      },
+      {
+        "OBEC": "Lednické Rovne"
+      },
+      {
+        "OBEC": "Horenická Hôrka"
+      },
+      {
+        "OBEC": "Medné"
+      },
+      {
+        "OBEC": "Lefantovce"
+      },
+      {
+        "OBEC": "Legnava"
+      },
+      {
+        "OBEC": "Lehnice"
+      },
+      {
+        "OBEC": "Lehota"
+      },
+      {
+        "OBEC": "Lehota nad Rimavicou"
+      },
+      {
+        "OBEC": "Lehota pod Vtáčnikom"
+      },
+      {
+        "OBEC": "Malá Lehota"
+      },
+      {
+        "OBEC": "Veľká Lehota"
+      },
+      {
+        "OBEC": "Lehôtka"
+      },
+      {
+        "OBEC": "Lehôtka pod Brehmi"
+      },
+      {
+        "OBEC": "Lechnica"
+      },
+      {
+        "OBEC": "Lekárovce"
+      },
+      {
+        "OBEC": "Leľa"
+      },
+      {
+        "OBEC": "Leles"
+      },
+      {
+        "OBEC": "Kapoňa"
+      },
+      {
+        "OBEC": "Lemešany"
+      },
+      {
+        "OBEC": "Lenartov"
+      },
+      {
+        "OBEC": "Lenartovce"
+      },
+      {
+        "OBEC": "Lendak"
+      },
+      {
+        "OBEC": "Lenka"
+      },
+      {
+        "OBEC": "Lentvora"
+      },
+      {
+        "OBEC": "Leopoldov"
+      },
+      {
+        "OBEC": "Lesenice"
+      },
+      {
+        "OBEC": "Lesíček"
+      },
+      {
+        "OBEC": "Lesné"
+      },
+      {
+        "OBEC": "Lesnica"
+      },
+      {
+        "OBEC": "Lažteky"
+      },
+      {
+        "OBEC": "Lešť"
+      },
+      {
+        "OBEC": "Vidov Vrch"
+      },
+      {
+        "OBEC": "Leštiny"
+      },
+      {
+        "OBEC": "Letanovce"
+      },
+      {
+        "OBEC": "Letničie"
+      },
+      {
+        "OBEC": "Leváre"
+      },
+      {
+        "OBEC": "Levice"
+      },
+      {
+        "OBEC": "Levkuška"
+      },
+      {
+        "OBEC": "Levoča"
+      },
+      {
+        "OBEC": "Ležiachov"
+      },
+      {
+        "OBEC": "Libichava"
+      },
+      {
+        "OBEC": "Licince"
+      },
+      {
+        "OBEC": "Ličartovce"
+      },
+      {
+        "OBEC": "Liesek"
+      },
+      {
+        "OBEC": "Lieskov-Dol. Lieskov"
+      },
+      {
+        "OBEC": "Lieskov-Hor. Lieskov"
+      },
+      {
+        "OBEC": "Lieskov - Podskalie"
+      },
+      {
+        "OBEC": "Lieskov - Tŕstie"
+      },
+      {
+        "OBEC": "Lieskovany"
+      },
+      {
+        "OBEC": "Lieskovec"
+      },
+      {
+        "OBEC": "Lieskovec"
+      },
+      {
+        "OBEC": "Liešno"
+      },
+      {
+        "OBEC": "Liešťany"
+      },
+      {
+        "OBEC": "Dobročná"
+      },
+      {
+        "OBEC": "Lomnica"
+      },
+      {
+        "OBEC": "Lietava"
+      },
+      {
+        "OBEC": "Lietavská Závadka"
+      },
+      {
+        "OBEC": "Lietavská Lúčka"
+      },
+      {
+        "OBEC": "Lietavská Svinná-Babkov"
+      },
+      {
+        "OBEC": "Likavka"
+      },
+      {
+        "OBEC": "Limbach"
+      },
+      {
+        "OBEC": "Lipany"
+      },
+      {
+        "OBEC": "Lipník"
+      },
+      {
+        "OBEC": "Lipníky"
+      },
+      {
+        "OBEC": "Lipníky - Podhrabina"
+      },
+      {
+        "OBEC": "Taľka"
+      },
+      {
+        "OBEC": "Lipová"
+      },
+      {
+        "OBEC": "Lipová"
+      },
+      {
+        "OBEC": "Mlynský Sek"
+      },
+      {
+        "OBEC": "Ondrochov"
+      },
+      {
+        "OBEC": "Lipovany"
+      },
+      {
+        "OBEC": "Lipovce"
+      },
+      {
+        "OBEC": "Lipovce - chaty"
+      },
+      {
+        "OBEC": "Lačnov"
+      },
+      {
+        "OBEC": "Salvátor"
+      },
+      {
+        "OBEC": "Lipové"
+      },
+      {
+        "OBEC": "Lipovec"
+      },
+      {
+        "OBEC": "Lipovec"
+      },
+      {
+        "OBEC": "Lipovník"
+      },
+      {
+        "OBEC": "Lipovník"
+      },
+      {
+        "OBEC": "Liptovská Anna"
+      },
+      {
+        "OBEC": "Liptovská Kokava"
+      },
+      {
+        "OBEC": "Liptovská Lúžna"
+      },
+      {
+        "OBEC": "Liptovská Osada"
+      },
+      {
+        "OBEC": "Liptovská Porúbka"
+      },
+      {
+        "OBEC": "Liptovská Sielnica"
+      },
+      {
+        "OBEC": "Brnice"
+      },
+      {
+        "OBEC": "Liptovská Štiavnica"
+      },
+      {
+        "OBEC": "Liptovská Teplá"
+      },
+      {
+        "OBEC": "Madočany"
+      },
+      {
+        "OBEC": "Liptovská Teplička"
+      },
+      {
+        "OBEC": "Liptovské Beharovce"
+      },
+      {
+        "OBEC": "Liptovské Kľačany"
+      },
+      {
+        "OBEC": "Liptovské Matiašovce"
+      },
+      {
+        "OBEC": "Nižné Matiašovce"
+      },
+      {
+        "OBEC": "Vyšné Matiašovce"
+      },
+      {
+        "OBEC": "Liptovské Revúce"
+      },
+      {
+        "OBEC": "Nižná Revúca"
+      },
+      {
+        "OBEC": "Stredná Revúca"
+      },
+      {
+        "OBEC": "Vyšná Revúca"
+      },
+      {
+        "OBEC": "Liptovské Sliače"
+      },
+      {
+        "OBEC": "Nižný Sliač"
+      },
+      {
+        "OBEC": "Stredný Sliač"
+      },
+      {
+        "OBEC": "Vyšný Sliač"
+      },
+      {
+        "OBEC": "Liptovský Hrádok"
+      },
+      {
+        "OBEC": "Dovalovo"
+      },
+      {
+        "OBEC": "Liptovský Ján"
+      },
+      {
+        "OBEC": "Liptovský Michal"
+      },
+      {
+        "OBEC": "Liptovský Mikuláš"
+      },
+      {
+        "OBEC": "Liptovský Ondrej"
+      },
+      {
+        "OBEC": "Liptovský Peter"
+      },
+      {
+        "OBEC": "Liptovský Trnovec"
+      },
+      {
+        "OBEC": "Liptovský Trnovec"
+      },
+      {
+        "OBEC": "Lisková"
+      },
+      {
+        "OBEC": "Lišov"
+      },
+      {
+        "OBEC": "Litava"
+      },
+      {
+        "OBEC": "Litmanová"
+      },
+      {
+        "OBEC": "Livina"
+      },
+      {
+        "OBEC": "Livinské Opatovce"
+      },
+      {
+        "OBEC": "Livov"
+      },
+      {
+        "OBEC": "Livovská Huta"
+      },
+      {
+        "OBEC": "Lodno"
+      },
+      {
+        "OBEC": "Lok"
+      },
+      {
+        "OBEC": "Lokca"
+      },
+      {
+        "OBEC": "Lom nad Rimavicou"
+      },
+      {
+        "OBEC": "Javorina"
+      },
+      {
+        "OBEC": "Lomná"
+      },
+      {
+        "OBEC": "Lomné"
+      },
+      {
+        "OBEC": "Lomnička"
+      },
+      {
+        "OBEC": "Lontov"
+      },
+      {
+        "OBEC": "Lopašov"
+      },
+      {
+        "OBEC": "Lopúchov"
+      },
+      {
+        "OBEC": "Lopuš.Pažite-Lopušná"
+      },
+      {
+        "OBEC": "Lopušná"
+      },
+      {
+        "OBEC": "Lopuš.Pažite-Pažite"
+      },
+      {
+        "OBEC": "Pažite"
+      },
+      {
+        "OBEC": "Lošonec"
+      },
+      {
+        "OBEC": "Lovce"
+      },
+      {
+        "OBEC": "Lovča"
+      },
+      {
+        "OBEC": "Lovčica - Trubín"
+      },
+      {
+        "OBEC": "Lovinobaňa"
+      },
+      {
+        "OBEC": "Uderiná"
+      },
+      {
+        "OBEC": "Lozorno"
+      },
+      {
+        "OBEC": "Ložín"
+      },
+      {
+        "OBEC": "Ľubá"
+      },
+      {
+        "OBEC": "Ľubeľa"
+      },
+      {
+        "OBEC": "Lubeník"
+      },
+      {
+        "OBEC": "Ľubica"
+      },
+      {
+        "OBEC": "Ľubietová"
+      },
+      {
+        "OBEC": "Lubina"
+      },
+      {
+        "OBEC": "Ľubiša"
+      },
+      {
+        "OBEC": "Ľubochňa"
+      },
+      {
+        "OBEC": "Ľuboreč"
+      },
+      {
+        "OBEC": "Ľuboriečka"
+      },
+      {
+        "OBEC": "Drnava"
+      },
+      {
+        "OBEC": "Osušie"
+      },
+      {
+        "OBEC": "Ľubotice"
+      },
+      {
+        "OBEC": "Šarišské Lúky"
+      },
+      {
+        "OBEC": "Ľubotín"
+      },
+      {
+        "OBEC": "Podpílie"
+      },
+      {
+        "OBEC": "Ľubovec"
+      },
+      {
+        "OBEC": "Ruské Pekľany"
+      },
+      {
+        "OBEC": "Lúč na Ostrove"
+      },
+      {
+        "OBEC": "Malá Lúč"
+      },
+      {
+        "OBEC": "Veľká Lúč"
+      },
+      {
+        "OBEC": "Lučatín"
+      },
+      {
+        "OBEC": "Lučenec"
+      },
+      {
+        "OBEC": "Malá Ves"
+      },
+      {
+        "OBEC": "Opatová"
+      },
+      {
+        "OBEC": "Lúčina"
+      },
+      {
+        "OBEC": "Lučivná"
+      },
+      {
+        "OBEC": "Lučivná-Lopušná Dolina"
+      },
+      {
+        "OBEC": "Lúčka"
+      },
+      {
+        "OBEC": "Lúčka"
+      },
+      {
+        "OBEC": "Lúčka"
+      },
+      {
+        "OBEC": "Lúčka"
+      },
+      {
+        "OBEC": "Potoky"
+      },
+      {
+        "OBEC": "Lúčky"
+      },
+      {
+        "OBEC": "Lúčky"
+      },
+      {
+        "OBEC": "Lúčky"
+      },
+      {
+        "OBEC": "Lúčky - kúpele"
+      },
+      {
+        "OBEC": "Lúčnica nad Žitavou"
+      },
+      {
+        "OBEC": "Martinová"
+      },
+      {
+        "OBEC": "Vajka nad Žitavou"
+      },
+      {
+        "OBEC": "Ludanice"
+      },
+      {
+        "OBEC": "Mýtna Nová Ves"
+      },
+      {
+        "OBEC": "Ľudovítová"
+      },
+      {
+        "OBEC": "Ludrová"
+      },
+      {
+        "OBEC": "Ľudvikov dvor"
+      },
+      {
+        "OBEC": "Luhyňa"
+      },
+      {
+        "OBEC": "Lúka"
+      },
+      {
+        "OBEC": "Lukačovce"
+      },
+      {
+        "OBEC": "Lukáčovce"
+      },
+      {
+        "OBEC": "Lukavica"
+      },
+      {
+        "OBEC": "Lukavica"
+      },
+      {
+        "OBEC": "Lukov"
+      },
+      {
+        "OBEC": "Lukovištia"
+      },
+      {
+        "OBEC": "Lúky"
+      },
+      {
+        "OBEC": "Lúky"
+      },
+      {
+        "OBEC": "Lula"
+      },
+      {
+        "OBEC": "Lupoč"
+      },
+      {
+        "OBEC": "Lutila"
+      },
+      {
+        "OBEC": "Ľutina"
+      },
+      {
+        "OBEC": "Lutiše"
+      },
+      {
+        "OBEC": "Ľutov"
+      },
+      {
+        "OBEC": "Lužany"
+      },
+      {
+        "OBEC": "Lužany pri Topli"
+      },
+      {
+        "OBEC": "Lužianky"
+      },
+      {
+        "OBEC": "Lysá pod Makytou"
+      },
+      {
+        "OBEC": "Dešná"
+      },
+      {
+        "OBEC": "Strelenka"
+      },
+      {
+        "OBEC": "Lysica"
+      },
+      {
+        "OBEC": "Macov"
+      },
+      {
+        "OBEC": "Mad"
+      },
+      {
+        "OBEC": "Madérét"
+      },
+      {
+        "OBEC": "Madunice"
+      },
+      {
+        "OBEC": "Magnezitovce"
+      },
+      {
+        "OBEC": "Kopráš"
+      },
+      {
+        "OBEC": "Mníšany"
+      },
+      {
+        "OBEC": "Machulince"
+      },
+      {
+        "OBEC": "Majcichov"
+      },
+      {
+        "OBEC": "Majere"
+      },
+      {
+        "OBEC": "Majerovce"
+      },
+      {
+        "OBEC": "Makov"
+      },
+      {
+        "OBEC": "Čierne"
+      },
+      {
+        "OBEC": "Kopanice"
+      },
+      {
+        "OBEC": "Potok"
+      },
+      {
+        "OBEC": "Trojačka"
+      },
+      {
+        "OBEC": "Makovce"
+      },
+      {
+        "OBEC": "Malá Čalomija"
+      },
+      {
+        "OBEC": "Malá Čausa"
+      },
+      {
+        "OBEC": "Malá Čierna"
+      },
+      {
+        "OBEC": "Malá Domaša"
+      },
+      {
+        "OBEC": "Malá Franková"
+      },
+      {
+        "OBEC": "Malá Hradná"
+      },
+      {
+        "OBEC": "Kochnáč"
+      },
+      {
+        "OBEC": "Malá Ida"
+      },
+      {
+        "OBEC": "Malá Lehota"
+      },
+      {
+        "OBEC": "Malá Lodina"
+      },
+      {
+        "OBEC": "Malá Mača"
+      },
+      {
+        "OBEC": "Malá nad Hronom"
+      },
+      {
+        "OBEC": "Malá Poľana"
+      },
+      {
+        "OBEC": "Malá Tŕňa"
+      },
+      {
+        "OBEC": "Malá Vieska"
+      },
+      {
+        "OBEC": "Malacky"
+      },
+      {
+        "OBEC": "Vinohrádok"
+      },
+      {
+        "OBEC": "Malachov"
+      },
+      {
+        "OBEC": "Málaš"
+      },
+      {
+        "OBEC": "Arma"
+      },
+      {
+        "OBEC": "Malatiná"
+      },
+      {
+        "OBEC": "Malatíny"
+      },
+      {
+        "OBEC": "Malcov"
+      },
+      {
+        "OBEC": "Malčice"
+      },
+      {
+        "OBEC": "Hradištská Moľva"
+      },
+      {
+        "OBEC": "Malé Borové"
+      },
+      {
+        "OBEC": "Malé Dvorníky"
+      },
+      {
+        "OBEC": "Malé Hoste"
+      },
+      {
+        "OBEC": "Malé Chyndice"
+      },
+      {
+        "OBEC": "Malé Kosihy"
+      },
+      {
+        "OBEC": "Malé Kozmálovce"
+      },
+      {
+        "OBEC": "Malé Kršteňany"
+      },
+      {
+        "OBEC": "Malé Lednice"
+      },
+      {
+        "OBEC": "Malé Leváre"
+      },
+      {
+        "OBEC": "Malé Ludince"
+      },
+      {
+        "OBEC": "Malé Ozorovce"
+      },
+      {
+        "OBEC": "Malé Raškovce"
+      },
+      {
+        "OBEC": "Malé Ripňany"
+      },
+      {
+        "OBEC": "Malé Straciny"
+      },
+      {
+        "OBEC": "Malé Trakany"
+      },
+      {
+        "OBEC": "Malé Uherce"
+      },
+      {
+        "OBEC": "Malé Vozokany"
+      },
+      {
+        "OBEC": "Malé Zálužie"
+      },
+      {
+        "OBEC": "Malé Zlievce"
+      },
+      {
+        "OBEC": "Málinec"
+      },
+      {
+        "OBEC": "Malinová"
+      },
+      {
+        "OBEC": "Malinovo"
+      },
+      {
+        "OBEC": "Malužiná"
+      },
+      {
+        "OBEC": "Malý Cetín"
+      },
+      {
+        "OBEC": "Malý Čepčín"
+      },
+      {
+        "OBEC": "Malý Horeš"
+      },
+      {
+        "OBEC": "Malý Kamenec"
+      },
+      {
+        "OBEC": "Malý Krtíš"
+      },
+      {
+        "OBEC": "Malý Lapáš"
+      },
+      {
+        "OBEC": "Malý Lipník"
+      },
+      {
+        "OBEC": "Malý Slavkov"
+      },
+      {
+        "OBEC": "Malý Slivník"
+      },
+      {
+        "OBEC": "Malý Šariš"
+      },
+      {
+        "OBEC": "Malženice"
+      },
+      {
+        "OBEC": "Maňa"
+      },
+      {
+        "OBEC": "Mankovce"
+      },
+      {
+        "OBEC": "Marcelová"
+      },
+      {
+        "OBEC": "Margecany"
+      },
+      {
+        "OBEC": "Marhaň"
+      },
+      {
+        "OBEC": "Marianka"
+      },
+      {
+        "OBEC": "Markovce"
+      },
+      {
+        "OBEC": "Markuška"
+      },
+      {
+        "OBEC": "Markušovce"
+      },
+      {
+        "OBEC": "Maršová-Rašov"
+      },
+      {
+        "OBEC": "Martin"
+      },
+      {
+        "OBEC": "Martin nad Žitavou"
+      },
+      {
+        "OBEC": "Martinček"
+      },
+      {
+        "OBEC": "Martinová"
+      },
+      {
+        "OBEC": "Martovce"
+      },
+      {
+        "OBEC": "Mašková"
+      },
+      {
+        "OBEC": "Maškovce"
+      },
+      {
+        "OBEC": "Matejovce n.Hornádom"
+      },
+      {
+        "OBEC": "Matiaška"
+      },
+      {
+        "OBEC": "Matiašovce"
+      },
+      {
+        "OBEC": "Matovce"
+      },
+      {
+        "OBEC": "Maťovské Vojkovce"
+      },
+      {
+        "OBEC": "Kapušianske Vojkovce"
+      },
+      {
+        "OBEC": "Matúškovo"
+      },
+      {
+        "OBEC": "Matysová"
+      },
+      {
+        "OBEC": "Medovarce"
+      },
+      {
+        "OBEC": "Medvedie"
+      },
+      {
+        "OBEC": "Medveďov"
+      },
+      {
+        "OBEC": "Medveďovo"
+      },
+      {
+        "OBEC": "Medzany"
+      },
+      {
+        "OBEC": "Medzev"
+      },
+      {
+        "OBEC": "Medzianky"
+      },
+      {
+        "OBEC": "Medzibrod"
+      },
+      {
+        "OBEC": "Medzibrodie n/Oravou"
+      },
+      {
+        "OBEC": "Medzilaborce"
+      },
+      {
+        "OBEC": "Melčice-Lieskové"
+      },
+      {
+        "OBEC": "Melek"
+      },
+      {
+        "OBEC": "Meliata"
+      },
+      {
+        "OBEC": "Mengusovce"
+      },
+      {
+        "OBEC": "Merašice"
+      },
+      {
+        "OBEC": "Merník"
+      },
+      {
+        "OBEC": "Mestečko"
+      },
+      {
+        "OBEC": "Mestisko"
+      },
+      {
+        "OBEC": "Mičakovce"
+      },
+      {
+        "OBEC": "Mierovo"
+      },
+      {
+        "OBEC": "Miezgovce"
+      },
+      {
+        "OBEC": "Miháľov"
+      },
+      {
+        "OBEC": "Michajlov"
+      },
+      {
+        "OBEC": "Michal na Ostrove"
+      },
+      {
+        "OBEC": "Michal nad Žitavou"
+      },
+      {
+        "OBEC": "Michaľany"
+      },
+      {
+        "OBEC": "Michalková"
+      },
+      {
+        "OBEC": "Michalok"
+      },
+      {
+        "OBEC": "Michalová"
+      },
+      {
+        "OBEC": "Michalovce"
+      },
+      {
+        "OBEC": "Miklušovce"
+      },
+      {
+        "OBEC": "Miková"
+      },
+      {
+        "OBEC": "Mikulášová"
+      },
+      {
+        "OBEC": "Mikušovce"
+      },
+      {
+        "OBEC": "Mikušovce"
+      },
+      {
+        "OBEC": "Milhosť"
+      },
+      {
+        "OBEC": "Miloslavov"
+      },
+      {
+        "OBEC": "Milpoš"
+      },
+      {
+        "OBEC": "Miňovce"
+      },
+      {
+        "OBEC": "Mirkovce"
+      },
+      {
+        "OBEC": "Niereše"
+      },
+      {
+        "OBEC": "Miroľa"
+      },
+      {
+        "OBEC": "Miškech Dedinka"
+      },
+      {
+        "OBEC": "Mládzovo"
+      },
+      {
+        "OBEC": "Mlynárovce"
+      },
+      {
+        "OBEC": "Mlynčeky"
+      },
+      {
+        "OBEC": "Mlynica"
+      },
+      {
+        "OBEC": "Mlynky"
+      },
+      {
+        "OBEC": "Mníchova Lehota"
+      },
+      {
+        "OBEC": "Mníšek nad Hnilcom"
+      },
+      {
+        "OBEC": "Mníšek nad Popradom"
+      },
+      {
+        "OBEC": "Moča"
+      },
+      {
+        "OBEC": "Močenok"
+      },
+      {
+        "OBEC": "Močiar"
+      },
+      {
+        "OBEC": "Modra"
+      },
+      {
+        "OBEC": "Modra nad Cirochou"
+      },
+      {
+        "OBEC": "Modrany"
+      },
+      {
+        "OBEC": "Modrová"
+      },
+      {
+        "OBEC": "Modrovka"
+      },
+      {
+        "OBEC": "Modrý Kameň"
+      },
+      {
+        "OBEC": "Mochovce"
+      },
+      {
+        "OBEC": "Mojmírovce"
+      },
+      {
+        "OBEC": "Mojš"
+      },
+      {
+        "OBEC": "Mojtín"
+      },
+      {
+        "OBEC": "Mojzesovo"
+      },
+      {
+        "OBEC": "Mokrá Lúka"
+      },
+      {
+        "OBEC": "Mokrance"
+      },
+      {
+        "OBEC": "Mokroluh"
+      },
+      {
+        "OBEC": "Mokrý Háj"
+      },
+      {
+        "OBEC": "Moldava nad Bodvou"
+      },
+      {
+        "OBEC": "Moravany"
+      },
+      {
+        "OBEC": "Moravany nad Váhom"
+      },
+      {
+        "OBEC": "Moravské Lieskové"
+      },
+      {
+        "OBEC": "Moravský Svätý Ján"
+      },
+      {
+        "OBEC": "Most pri Bratislave"
+      },
+      {
+        "OBEC": "Mostová"
+      },
+      {
+        "OBEC": "Moškovec"
+      },
+      {
+        "OBEC": "Mošovce"
+      },
+      {
+        "OBEC": "Mošovce"
+      },
+      {
+        "OBEC": "Moštenica"
+      },
+      {
+        "OBEC": "Mošurov"
+      },
+      {
+        "OBEC": "Motešice"
+      },
+      {
+        "OBEC": "Motyčky"
+      },
+      {
+        "OBEC": "Môlča"
+      },
+      {
+        "OBEC": "Mrázovce"
+      },
+      {
+        "OBEC": "Mučín"
+      },
+      {
+        "OBEC": "Mudroňovo"
+      },
+      {
+        "OBEC": "Mudrovce"
+      },
+      {
+        "OBEC": "Muľa"
+      },
+      {
+        "OBEC": "Muráň"
+      },
+      {
+        "OBEC": "Muránska Dlhá Lúka"
+      },
+      {
+        "OBEC": "Muránska Huta"
+      },
+      {
+        "OBEC": "Muránska Lehota"
+      },
+      {
+        "OBEC": "Muránska Zdychava"
+      },
+      {
+        "OBEC": "Mútne"
+      },
+      {
+        "OBEC": "Mužla"
+      },
+      {
+        "OBEC": "Myjava"
+      },
+      {
+        "OBEC": "Myslina"
+      },
+      {
+        "OBEC": "Mýtna"
+      },
+      {
+        "OBEC": "Mýtne Ludany"
+      },
+      {
+        "OBEC": "Mýto pod Ďumbierom"
+      },
+      {
+        "OBEC": "Nacina Ves"
+      },
+      {
+        "OBEC": "Nadlice"
+      },
+      {
+        "OBEC": "Ňagov"
+      },
+      {
+        "OBEC": "Naháč"
+      },
+      {
+        "OBEC": "Nálepkovo"
+      },
+      {
+        "OBEC": "Námestovo"
+      },
+      {
+        "OBEC": "Nána"
+      },
+      {
+        "OBEC": "Nandraž"
+      },
+      {
+        "OBEC": "Ňárad"
+      },
+      {
+        "OBEC": "Necpaly"
+      },
+      {
+        "OBEC": "Nedanovce"
+      },
+      {
+        "OBEC": "Nedašovce"
+      },
+      {
+        "OBEC": "Neded"
+      },
+      {
+        "OBEC": "Nededza"
+      },
+      {
+        "OBEC": "Nedožery - Brezany"
+      },
+      {
+        "OBEC": "Nechválova Polianka"
+      },
+      {
+        "OBEC": "Nemce"
+      },
+      {
+        "OBEC": "Nemcovce"
+      },
+      {
+        "OBEC": "Nemcovce"
+      },
+      {
+        "OBEC": "Nemčice"
+      },
+      {
+        "OBEC": "Nemčiňany"
+      },
+      {
+        "OBEC": "Nemecká"
+      },
+      {
+        "OBEC": "Nemečky"
+      },
+      {
+        "OBEC": "Nemešany"
+      },
+      {
+        "OBEC": "Nemšová"
+      },
+      {
+        "OBEC": "Nenince"
+      },
+      {
+        "OBEC": "Neporadza"
+      },
+      {
+        "OBEC": "Neporadza"
+      },
+      {
+        "OBEC": "Nesluša"
+      },
+      {
+        "OBEC": "Nesvady"
+      },
+      {
+        "OBEC": "Neverice"
+      },
+      {
+        "OBEC": "Nevidzany"
+      },
+      {
+        "OBEC": "Nevidzany"
+      },
+      {
+        "OBEC": "Nevoľné"
+      },
+      {
+        "OBEC": "Nezbudská Lúčka"
+      },
+      {
+        "OBEC": "Nimnica"
+      },
+      {
+        "OBEC": "Nitra"
+      },
+      {
+        "OBEC": "Nitra nad Ipľom"
+      },
+      {
+        "OBEC": "Nitrianska Blatnica"
+      },
+      {
+        "OBEC": "Nitrianska Streda"
+      },
+      {
+        "OBEC": "Nitrian.Hrnčiarovce"
+      },
+      {
+        "OBEC": "Nitrianske Pravno"
+      },
+      {
+        "OBEC": "Nitrianske Rudno"
+      },
+      {
+        "OBEC": "Nitrianske Sučany"
+      },
+      {
+        "OBEC": "Nitrica"
+      },
+      {
+        "OBEC": "Nižná"
+      },
+      {
+        "OBEC": "Nižná"
+      },
+      {
+        "OBEC": "Nižná Boca"
+      },
+      {
+        "OBEC": "Nižná Hutka"
+      },
+      {
+        "OBEC": "Nižná Jablonka"
+      },
+      {
+        "OBEC": "Nižná Jedľová"
+      },
+      {
+        "OBEC": "Nižná Kamenica"
+      },
+      {
+        "OBEC": "Nižná Myšľa"
+      },
+      {
+        "OBEC": "Nižná Olšava"
+      },
+      {
+        "OBEC": "Nižná Pisaná"
+      },
+      {
+        "OBEC": "Nižná Polianka"
+      },
+      {
+        "OBEC": "Nižná Rybnica"
+      },
+      {
+        "OBEC": "Nižná Sitnica"
+      },
+      {
+        "OBEC": "Nižná Slaná"
+      },
+      {
+        "OBEC": "Nižná Voľa"
+      },
+      {
+        "OBEC": "Nižné Kamence"
+      },
+      {
+        "OBEC": "Nižné Ladičkovce"
+      },
+      {
+        "OBEC": "Nižné Nemecké"
+      },
+      {
+        "OBEC": "Nižné Repaše"
+      },
+      {
+        "OBEC": "Nižné Ružbachy"
+      },
+      {
+        "OBEC": "Nižné Valice"
+      },
+      {
+        "OBEC": "Nižný Čaj"
+      },
+      {
+        "OBEC": "Nižný Hrabovec"
+      },
+      {
+        "OBEC": "Nižný Hrušov"
+      },
+      {
+        "OBEC": "Nižný Klátov"
+      },
+      {
+        "OBEC": "Nižný Komárnik"
+      },
+      {
+        "OBEC": "Nižný Kručov"
+      },
+      {
+        "OBEC": "Nižný Lánec"
+      },
+      {
+        "OBEC": "Nižný Medzev"
+      },
+      {
+        "OBEC": "Nižný Mirošov"
+      },
+      {
+        "OBEC": "Nižný Orlík"
+      },
+      {
+        "OBEC": "Nižný Skálnik"
+      },
+      {
+        "OBEC": "Nižný Slavkov"
+      },
+      {
+        "OBEC": "Nižný Tvarožec"
+      },
+      {
+        "OBEC": "Nižný Žipov"
+      },
+      {
+        "OBEC": "Nolčovo"
+      },
+      {
+        "OBEC": "Norovce"
+      },
+      {
+        "OBEC": "Nová Baňa"
+      },
+      {
+        "OBEC": "Nová Bašta"
+      },
+      {
+        "OBEC": "Nová Bošáca"
+      },
+      {
+        "OBEC": "Nová Bystrica"
+      },
+      {
+        "OBEC": "Nová Dedina"
+      },
+      {
+        "OBEC": "Gondovo"
+      },
+      {
+        "OBEC": "Kamenec"
+      },
+      {
+        "OBEC": "Opatová"
+      },
+      {
+        "OBEC": "Svätý Kríž"
+      },
+      {
+        "OBEC": "Tekovská Nová Ves"
+      },
+      {
+        "OBEC": "Nová Dedinka"
+      },
+      {
+        "OBEC": "Dedinka pri Dunaji"
+      },
+      {
+        "OBEC": "Nová Ves pri Dunaji"
+      },
+      {
+        "OBEC": "Nová Dubnica"
+      },
+      {
+        "OBEC": "Malý Kolačín"
+      },
+      {
+        "OBEC": "Veľký Kolačín"
+      },
+      {
+        "OBEC": "Nová Kelča"
+      },
+      {
+        "OBEC": "Nová Lehota"
+      },
+      {
+        "OBEC": "Nová Lesná"
+      },
+      {
+        "OBEC": "Nová Ľubovňa"
+      },
+      {
+        "OBEC": "Nová Polhora"
+      },
+      {
+        "OBEC": "Nová Polianka"
+      },
+      {
+        "OBEC": "Nová Sedlica"
+      },
+      {
+        "OBEC": "Nová Ves"
+      },
+      {
+        "OBEC": "Nová Ves nad Váhom"
+      },
+      {
+        "OBEC": "Nová Ves nad Žitavou"
+      },
+      {
+        "OBEC": "Nová Vieska"
+      },
+      {
+        "OBEC": "Arad"
+      },
+      {
+        "OBEC": "Nováčany"
+      },
+      {
+        "OBEC": "Nováky"
+      },
+      {
+        "OBEC": "Horné Lelovce"
+      },
+      {
+        "OBEC": "Laskár"
+      },
+      {
+        "OBEC": "Nové Hony"
+      },
+      {
+        "OBEC": "Nové Mesto nad Váhom"
+      },
+      {
+        "OBEC": "Nové Sady"
+      },
+      {
+        "OBEC": "Ceroviny"
+      },
+      {
+        "OBEC": "Sila"
+      },
+      {
+        "OBEC": "Nové Zámky"
+      },
+      {
+        "OBEC": "Nový Gúg"
+      },
+      {
+        "OBEC": "Novosad"
+      },
+      {
+        "OBEC": "Novoť"
+      },
+      {
+        "OBEC": "Novotský Duľov"
+      },
+      {
+        "OBEC": "Nový Ruskov"
+      },
+      {
+        "OBEC": "Malý Ruskov"
+      },
+      {
+        "OBEC": "Veľký Ruskov"
+      },
+      {
+        "OBEC": "Nový Salaš"
+      },
+      {
+        "OBEC": "Nový Svet"
+      },
+      {
+        "OBEC": "Nový Tekov"
+      },
+      {
+        "OBEC": "Marušová"
+      },
+      {
+        "OBEC": "Šándorhalma"
+      },
+      {
+        "OBEC": "Nový Život"
+      },
+      {
+        "OBEC": "Eliášovce"
+      },
+      {
+        "OBEC": "Tonkovce"
+      },
+      {
+        "OBEC": "Vojtechovce"
+      },
+      {
+        "OBEC": "Nýrovce"
+      },
+      {
+        "OBEC": "Obeckov"
+      },
+      {
+        "OBEC": "Obid"
+      },
+      {
+        "OBEC": "Obišovce"
+      },
+      {
+        "OBEC": "Oborín"
+      },
+      {
+        "OBEC": "Kucany"
+      },
+      {
+        "OBEC": "Obručné"
+      },
+      {
+        "OBEC": "Obyce"
+      },
+      {
+        "OBEC": "Očkov"
+      },
+      {
+        "OBEC": "Očová"
+      },
+      {
+        "OBEC": "Odorín"
+      },
+      {
+        "OBEC": "Ohrady"
+      },
+      {
+        "OBEC": "Ohradzany"
+      },
+      {
+        "OBEC": "Ochodnica"
+      },
+      {
+        "OBEC": "Ochtiná"
+      },
+      {
+        "OBEC": "Okoč"
+      },
+      {
+        "OBEC": "Jánošíkovo na Ostrov"
+      },
+      {
+        "OBEC": "Opatovský Sokolec"
+      },
+      {
+        "OBEC": "Okoličná na Ostrove"
+      },
+      {
+        "OBEC": "Štúrová"
+      },
+      {
+        "OBEC": "Okrúhle"
+      },
+      {
+        "OBEC": "Šapinec"
+      },
+      {
+        "OBEC": "Okružná"
+      },
+      {
+        "OBEC": "Olcnava"
+      },
+      {
+        "OBEC": "Oľdza"
+      },
+      {
+        "OBEC": "Olejníkov"
+      },
+      {
+        "OBEC": "Majdan"
+      },
+      {
+        "OBEC": "Olešná"
+      },
+      {
+        "OBEC": "Oľka"
+      },
+      {
+        "OBEC": "Krivá Oľka"
+      },
+      {
+        "OBEC": "Olováry"
+      },
+      {
+        "OBEC": "Oľšavce"
+      },
+      {
+        "OBEC": "Oľšavica"
+      },
+      {
+        "OBEC": "Podproč"
+      },
+      {
+        "OBEC": "Oľšavka"
+      },
+      {
+        "OBEC": "Oľšavka"
+      },
+      {
+        "OBEC": "Oľšinkov"
+      },
+      {
+        "OBEC": "Oľšov"
+      },
+      {
+        "OBEC": "Olšovany"
+      },
+      {
+        "OBEC": "Omastiná"
+      },
+      {
+        "OBEC": "Omšenie"
+      },
+      {
+        "OBEC": "Onča"
+      },
+      {
+        "OBEC": "Ondavka"
+      },
+      {
+        "OBEC": "Ondavské Matiašovce"
+      },
+      {
+        "OBEC": "Ondrašová"
+      },
+      {
+        "OBEC": "Ondrašovce"
+      },
+      {
+        "OBEC": "Ondrejovce"
+      },
+      {
+        "OBEC": "Opátka"
+      },
+      {
+        "OBEC": "Opatovce"
+      },
+      {
+        "OBEC": "Opatovce - Výčapy"
+      },
+      {
+        "OBEC": "Opatovce nad Nitrou"
+      },
+      {
+        "OBEC": "Opatovská Nová Ves"
+      },
+      {
+        "OBEC": "Opava"
+      },
+      {
+        "OBEC": "Opiná"
+      },
+      {
+        "OBEC": "Opoj"
+      },
+      {
+        "OBEC": "Oponice"
+      },
+      {
+        "OBEC": "Oravce"
+      },
+      {
+        "OBEC": "Orávka"
+      },
+      {
+        "OBEC": "Oravská Jasenica"
+      },
+      {
+        "OBEC": "Oravská Lesná"
+      },
+      {
+        "OBEC": "Brišovka"
+      },
+      {
+        "OBEC": "Bučina"
+      },
+      {
+        "OBEC": "Demänová"
+      },
+      {
+        "OBEC": "Flajšová"
+      },
+      {
+        "OBEC": "Jasenovská"
+      },
+      {
+        "OBEC": "Kubínska"
+      },
+      {
+        "OBEC": "Lehotská"
+      },
+      {
+        "OBEC": "Mrzáčka"
+      },
+      {
+        "OBEC": "Pribišská"
+      },
+      {
+        "OBEC": "Tanečník"
+      },
+      {
+        "OBEC": "Oravská Polhora"
+      },
+      {
+        "OBEC": "Oravská Poruba"
+      },
+      {
+        "OBEC": "Zábrež"
+      },
+      {
+        "OBEC": "Oravské Veselé"
+      },
+      {
+        "OBEC": "Oravský Biely Potok"
+      },
+      {
+        "OBEC": "Oravský Podzámok"
+      },
+      {
+        "OBEC": "Dolná Lehota"
+      },
+      {
+        "OBEC": "Široká"
+      },
+      {
+        "OBEC": "Ordzovany"
+      },
+      {
+        "OBEC": "Orechová"
+      },
+      {
+        "OBEC": "Orechová Potôň"
+      },
+      {
+        "OBEC": "Dolná Potôň"
+      },
+      {
+        "OBEC": "Orechová Potôň-Lúky"
+      },
+      {
+        "OBEC": "Oreské"
+      },
+      {
+        "OBEC": "Oreské"
+      },
+      {
+        "OBEC": "Orešany"
+      },
+      {
+        "OBEC": "Orlov"
+      },
+      {
+        "OBEC": "Andrejovka"
+      },
+      {
+        "OBEC": "Orovnica"
+      },
+      {
+        "OBEC": "Ortáše"
+      },
+      {
+        "OBEC": "Ortuťová"
+      },
+      {
+        "OBEC": "Osádka"
+      },
+      {
+        "OBEC": "Osadné"
+      },
+      {
+        "OBEC": "Osikov"
+      },
+      {
+        "OBEC": "Oslany"
+      },
+      {
+        "OBEC": "Ľubianka"
+      },
+      {
+        "OBEC": "Osrblie"
+      },
+      {
+        "OBEC": "Ostrá Lúka"
+      },
+      {
+        "OBEC": "Ostratice"
+      },
+      {
+        "OBEC": "Malé Ostratice"
+      },
+      {
+        "OBEC": "Veľké Ostratice"
+      },
+      {
+        "OBEC": "Ostrov"
+      },
+      {
+        "OBEC": "Ostrov"
+      },
+      {
+        "OBEC": "Malé Orvište"
+      },
+      {
+        "OBEC": "Ostrovany"
+      },
+      {
+        "OBEC": "Ostrý Grúň"
+      },
+      {
+        "OBEC": "Osturňa"
+      },
+      {
+        "OBEC": "Osuské"
+      },
+      {
+        "OBEC": "Oščadnica"
+      },
+      {
+        "OBEC": "Otrhánky"
+      },
+      {
+        "OBEC": "Otročok"
+      },
+      {
+        "OBEC": "Ovčiarsko"
+      },
+      {
+        "OBEC": "Ovčie"
+      },
+      {
+        "OBEC": "Ozdín"
+      },
+      {
+        "OBEC": "Ožďany"
+      },
+      {
+        "OBEC": "Pača"
+      },
+      {
+        "OBEC": "Padáň"
+      },
+      {
+        "OBEC": "Padarovce"
+      },
+      {
+        "OBEC": "Pakostov"
+      },
+      {
+        "OBEC": "Palárikovo"
+      },
+      {
+        "OBEC": "Čiky"
+      },
+      {
+        "OBEC": "Ľudovítov"
+      },
+      {
+        "OBEC": "Palín"
+      },
+      {
+        "OBEC": "Palota"
+      },
+      {
+        "OBEC": "Paňa"
+      },
+      {
+        "OBEC": "Panické Dravce"
+      },
+      {
+        "OBEC": "Paňovce"
+      },
+      {
+        "OBEC": "Papín"
+      },
+      {
+        "OBEC": "Paprad"
+      },
+      {
+        "OBEC": "Papradno"
+      },
+      {
+        "OBEC": "Podjavorník"
+      },
+      {
+        "OBEC": "Parchovany"
+      },
+      {
+        "OBEC": "Božčice"
+      },
+      {
+        "OBEC": "Hunkovce"
+      },
+      {
+        "OBEC": "Parihuzovce"
+      },
+      {
+        "OBEC": "Párnica"
+      },
+      {
+        "OBEC": "Partizánska Ľupča"
+      },
+      {
+        "OBEC": "Magurka"
+      },
+      {
+        "OBEC": "Partizánske"
+      },
+      {
+        "OBEC": "Malé Bielice"
+      },
+      {
+        "OBEC": "Návojovce"
+      },
+      {
+        "OBEC": "Veľké Bielice"
+      },
+      {
+        "OBEC": "Pasiečka"
+      },
+      {
+        "OBEC": "Pastovce"
+      },
+      {
+        "OBEC": "Pastuchov"
+      },
+      {
+        "OBEC": "Pašková"
+      },
+      {
+        "OBEC": "Paština Závada"
+      },
+      {
+        "OBEC": "Pata"
+      },
+      {
+        "OBEC": "Pataš"
+      },
+      {
+        "OBEC": "Milinovice"
+      },
+      {
+        "OBEC": "Patince"
+      },
+      {
+        "OBEC": "Pavčina Lehota"
+      },
+      {
+        "OBEC": "Pavľany"
+      },
+      {
+        "OBEC": "Pavlice"
+      },
+      {
+        "OBEC": "Pavlová"
+      },
+      {
+        "OBEC": "Pavlova Ves"
+      },
+      {
+        "OBEC": "Pavlovce"
+      },
+      {
+        "OBEC": "Pavlovce"
+      },
+      {
+        "OBEC": "Podlipníky"
+      },
+      {
+        "OBEC": "Pavlovce nad Uhom"
+      },
+      {
+        "OBEC": "Ortov"
+      },
+      {
+        "OBEC": "Ťahyňa"
+      },
+      {
+        "OBEC": "Pažiť"
+      },
+      {
+        "OBEC": "Pčoliné"
+      },
+      {
+        "OBEC": "Pečeňady"
+      },
+      {
+        "OBEC": "Pečeňany"
+      },
+      {
+        "OBEC": "Pečenice"
+      },
+      {
+        "OBEC": "Pečovská Nová Ves"
+      },
+      {
+        "OBEC": "Peder"
+      },
+      {
+        "OBEC": "Perín"
+      },
+      {
+        "OBEC": "Perín - Chym"
+      },
+      {
+        "OBEC": "Pernek"
+      },
+      {
+        "OBEC": "Petkovce"
+      },
+      {
+        "OBEC": "Petrikovce"
+      },
+      {
+        "OBEC": "Petrová"
+      },
+      {
+        "OBEC": "Petrova Lehota"
+      },
+      {
+        "OBEC": "Petrova Ves"
+      },
+      {
+        "OBEC": "Petrovany"
+      },
+      {
+        "OBEC": "Močarmany"
+      },
+      {
+        "OBEC": "Vysielač"
+      },
+      {
+        "OBEC": "Petrovce"
+      },
+      {
+        "OBEC": "Petrovce"
+      },
+      {
+        "OBEC": "Petrovce"
+      },
+      {
+        "OBEC": "Petrovce n/Laborcom"
+      },
+      {
+        "OBEC": "Petrovice"
+      },
+      {
+        "OBEC": "Pláne"
+      },
+      {
+        "OBEC": "Setechov"
+      },
+      {
+        "OBEC": "Petrovo"
+      },
+      {
+        "OBEC": "Pezinok"
+      },
+      {
+        "OBEC": "Piešťany"
+      },
+      {
+        "OBEC": "Kocurice"
+      },
+      {
+        "OBEC": "Pichne"
+      },
+      {
+        "OBEC": "Píla"
+      },
+      {
+        "OBEC": "Píla"
+      },
+      {
+        "OBEC": "Píla"
+      },
+      {
+        "OBEC": "Pinciná"
+      },
+      {
+        "OBEC": "Pinkovce"
+      },
+      {
+        "OBEC": "Piskorovce"
+      },
+      {
+        "OBEC": "Pitelová"
+      },
+      {
+        "OBEC": "Plášťovce"
+      },
+      {
+        "OBEC": "Plavé Vozokany"
+      },
+      {
+        "OBEC": "Medvecké"
+      },
+      {
+        "OBEC": "Plavecké Podhradie"
+      },
+      {
+        "OBEC": "Plavecký Mikuláš"
+      },
+      {
+        "OBEC": "Plavecký Peter"
+      },
+      {
+        "OBEC": "Plavecký Štvrtok"
+      },
+      {
+        "OBEC": "Plaveč"
+      },
+      {
+        "OBEC": "Pastovník"
+      },
+      {
+        "OBEC": "Podzámok"
+      },
+      {
+        "OBEC": "Plavnica"
+      },
+      {
+        "OBEC": "Plechotice"
+      },
+      {
+        "OBEC": "Pleš"
+      },
+      {
+        "OBEC": "Plešivec"
+      },
+      {
+        "OBEC": "Plevník - Drienové"
+      },
+      {
+        "OBEC": "Pliešovce"
+      },
+      {
+        "OBEC": "Dolinky"
+      },
+      {
+        "OBEC": "Lonec"
+      },
+      {
+        "OBEC": "Polomy"
+      },
+      {
+        "OBEC": "Zaježová"
+      },
+      {
+        "OBEC": "Ploské"
+      },
+      {
+        "OBEC": "Ploské"
+      },
+      {
+        "OBEC": "Pobedim"
+      },
+      {
+        "OBEC": "Počarová"
+      },
+      {
+        "OBEC": "Počúvadlo"
+      },
+      {
+        "OBEC": "Podbiel"
+      },
+      {
+        "OBEC": "Podbranč"
+      },
+      {
+        "OBEC": "Horná Dolina"
+      },
+      {
+        "OBEC": "Majeríčky"
+      },
+      {
+        "OBEC": "Podzámok"
+      },
+      {
+        "OBEC": "Švrčkov Jarok"
+      },
+      {
+        "OBEC": "Podbrezová"
+      },
+      {
+        "OBEC": "Chvatimech"
+      },
+      {
+        "OBEC": "Lopej"
+      },
+      {
+        "OBEC": "Skalica"
+      },
+      {
+        "OBEC": "Vajsková"
+      },
+      {
+        "OBEC": "Podhájska"
+      },
+      {
+        "OBEC": "Podhorany"
+      },
+      {
+        "OBEC": "Podhorany"
+      },
+      {
+        "OBEC": "Podhorany"
+      },
+      {
+        "OBEC": "Mechenice"
+      },
+      {
+        "OBEC": "Sokolníky"
+      },
+      {
+        "OBEC": "Podhorie"
+      },
+      {
+        "OBEC": "Podhorie"
+      },
+      {
+        "OBEC": "Teplá"
+      },
+      {
+        "OBEC": "Žakýl"
+      },
+      {
+        "OBEC": "Podhoroď"
+      },
+      {
+        "OBEC": "Podhradie"
+      },
+      {
+        "OBEC": "Podhradie"
+      },
+      {
+        "OBEC": "Podhradie"
+      },
+      {
+        "OBEC": "Konské"
+      },
+      {
+        "OBEC": "Podhradík"
+      },
+      {
+        "OBEC": "Podjavorie"
+      },
+      {
+        "OBEC": "Podjavorie"
+      },
+      {
+        "OBEC": "Podkonice"
+      },
+      {
+        "OBEC": "Podkriváň"
+      },
+      {
+        "OBEC": "Bukovinka"
+      },
+      {
+        "OBEC": "Dolná Bzová"
+      },
+      {
+        "OBEC": "Ivanišovo"
+      },
+      {
+        "OBEC": "Zubria"
+      },
+      {
+        "OBEC": "Podkylava"
+      },
+      {
+        "OBEC": "Podlužany"
+      },
+      {
+        "OBEC": "Podlužany"
+      },
+      {
+        "OBEC": "Podolie"
+      },
+      {
+        "OBEC": "Podolínec"
+      },
+      {
+        "OBEC": "Podrečany"
+      },
+      {
+        "OBEC": "Podskalie"
+      },
+      {
+        "OBEC": "Podspády"
+      },
+      {
+        "OBEC": "Podtureň"
+      },
+      {
+        "OBEC": "Podvysoká"
+      },
+      {
+        "OBEC": "Podzámčok"
+      },
+      {
+        "OBEC": "Pohorelá"
+      },
+      {
+        "OBEC": "Pohorelská Maša"
+      },
+      {
+        "OBEC": "Pohranice"
+      },
+      {
+        "OBEC": "Pohronská Polhora"
+      },
+      {
+        "OBEC": "Pohronský Bukovec"
+      },
+      {
+        "OBEC": "Pohronský Ruskov"
+      },
+      {
+        "OBEC": "Pochabany"
+      },
+      {
+        "OBEC": "Pokryváč"
+      },
+      {
+        "OBEC": "Poľanovce"
+      },
+      {
+        "OBEC": "Poľany"
+      },
+      {
+        "OBEC": "Poliakovce"
+      },
+      {
+        "OBEC": "Polianka"
+      },
+      {
+        "OBEC": "Polichno"
+      },
+      {
+        "OBEC": "Polina"
+      },
+      {
+        "OBEC": "Polkanová (č.d.1,2,3"
+      },
+      {
+        "OBEC": "Polkanová (ostat.č.)"
+      },
+      {
+        "OBEC": "Poľný Kesov"
+      },
+      {
+        "OBEC": "Poloma"
+      },
+      {
+        "OBEC": "Polomka"
+      },
+      {
+        "OBEC": "Hámor"
+      },
+      {
+        "OBEC": "Poltár"
+      },
+      {
+        "OBEC": "Prievrana"
+      },
+      {
+        "OBEC": "Slaná Lehota"
+      },
+      {
+        "OBEC": "Zelené"
+      },
+      {
+        "OBEC": "Poluvsie"
+      },
+      {
+        "OBEC": "Pongrácovce"
+      },
+      {
+        "OBEC": "Poniky"
+      },
+      {
+        "OBEC": "Ponická Huta"
+      },
+      {
+        "OBEC": "Ponická Lehôtka"
+      },
+      {
+        "OBEC": "Poprad"
+      },
+      {
+        "OBEC": "Kvetnica"
+      },
+      {
+        "OBEC": "Matejovce"
+      },
+      {
+        "OBEC": "Spišská Sobota"
+      },
+      {
+        "OBEC": "Stráže pod Tatrami"
+      },
+      {
+        "OBEC": "Veľká"
+      },
+      {
+        "OBEC": "Poproč"
+      },
+      {
+        "OBEC": "Poproč"
+      },
+      {
+        "OBEC": "Popudinské Močidľany"
+      },
+      {
+        "OBEC": "Poráč"
+      },
+      {
+        "OBEC": "Poriadie"
+      },
+      {
+        "OBEC": "Porostov"
+      },
+      {
+        "OBEC": "Poruba"
+      },
+      {
+        "OBEC": "Poruba p/Vihorlatom"
+      },
+      {
+        "OBEC": "Porúbka"
+      },
+      {
+        "OBEC": "Porúbka"
+      },
+      {
+        "OBEC": "Porúbka"
+      },
+      {
+        "OBEC": "Porúbka"
+      },
+      {
+        "OBEC": "Poša"
+      },
+      {
+        "OBEC": "Potočok"
+      },
+      {
+        "OBEC": "Potok"
+      },
+      {
+        "OBEC": "Potok"
+      },
+      {
+        "OBEC": "Potoky"
+      },
+      {
+        "OBEC": "Potôčky"
+      },
+      {
+        "OBEC": "Potônske Lúky"
+      },
+      {
+        "OBEC": "Potvorice"
+      },
+      {
+        "OBEC": "Považany"
+      },
+      {
+        "OBEC": "Považská Bystrica"
+      },
+      {
+        "OBEC": "Povina"
+      },
+      {
+        "OBEC": "Povoda"
+      },
+      {
+        "OBEC": "Čenkesfa"
+      },
+      {
+        "OBEC": "Lidér Tejed"
+      },
+      {
+        "OBEC": "Pódafa"
+      },
+      {
+        "OBEC": "Povrazník"
+      },
+      {
+        "OBEC": "Pozba"
+      },
+      {
+        "OBEC": "Pozdišovce"
+      },
+      {
+        "OBEC": "Pôtor"
+      },
+      {
+        "OBEC": "Žihľava"
+      },
+      {
+        "OBEC": "Praha"
+      },
+      {
+        "OBEC": "Prakovce"
+      },
+      {
+        "OBEC": "Prašice"
+      },
+      {
+        "OBEC": "Prašník"
+      },
+      {
+        "OBEC": "Pustá Ves"
+      },
+      {
+        "OBEC": "Pravenec"
+      },
+      {
+        "OBEC": "Pravica"
+      },
+      {
+        "OBEC": "Imrov Kopec"
+      },
+      {
+        "OBEC": "Pravotice"
+      },
+      {
+        "OBEC": "Práznovce"
+      },
+      {
+        "OBEC": "Prečín"
+      },
+      {
+        "OBEC": "Zemianska Závada"
+      },
+      {
+        "OBEC": "Predajná"
+      },
+      {
+        "OBEC": "Predmier"
+      },
+      {
+        "OBEC": "Predná Hora"
+      },
+      {
+        "OBEC": "Prenčov"
+      },
+      {
+        "OBEC": "Preseľany"
+      },
+      {
+        "OBEC": "Prestavlky"
+      },
+      {
+        "OBEC": "Horná Trnávka"
+      },
+      {
+        "OBEC": "Prešov"
+      },
+      {
+        "OBEC": "Cemjata"
+      },
+      {
+        "OBEC": "Príbelce"
+      },
+      {
+        "OBEC": "Dolné Príbelce"
+      },
+      {
+        "OBEC": "Horné Príbelce"
+      },
+      {
+        "OBEC": "Škriavnik"
+      },
+      {
+        "OBEC": "Pribeník"
+      },
+      {
+        "OBEC": "Pribeta"
+      },
+      {
+        "OBEC": "Pribiš"
+      },
+      {
+        "OBEC": "Príbovce"
+      },
+      {
+        "OBEC": "Pribylina"
+      },
+      {
+        "OBEC": "Priechod"
+      },
+      {
+        "OBEC": "Priekopa"
+      },
+      {
+        "OBEC": "Priepasné"
+      },
+      {
+        "OBEC": "Prietrž"
+      },
+      {
+        "OBEC": "Podhorie"
+      },
+      {
+        "OBEC": "Prietržka"
+      },
+      {
+        "OBEC": "Prievaly"
+      },
+      {
+        "OBEC": "Prievidza"
+      },
+      {
+        "OBEC": "Kopanice-Priev. IV"
+      },
+      {
+        "OBEC": "Necpaly-Prievid. III"
+      },
+      {
+        "OBEC": "Píly - Prievidza II"
+      },
+      {
+        "OBEC": "Staré Mesto-Priev."
+      },
+      {
+        "OBEC": "Štvrte - Prievidza V"
+      },
+      {
+        "OBEC": "Prihradzany"
+      },
+      {
+        "OBEC": "Príkra"
+      },
+      {
+        "OBEC": "Príslop"
+      },
+      {
+        "OBEC": "Prituľany"
+      },
+      {
+        "OBEC": "Proč"
+      },
+      {
+        "OBEC": "Prochot"
+      },
+      {
+        "OBEC": "Prosačov"
+      },
+      {
+        "OBEC": "Prosiek"
+      },
+      {
+        "OBEC": "Zádiel"
+      },
+      {
+        "OBEC": "Prša"
+      },
+      {
+        "OBEC": "Pruské"
+      },
+      {
+        "OBEC": "Podvažie"
+      },
+      {
+        "OBEC": "Savčina"
+      },
+      {
+        "OBEC": "Prusy"
+      },
+      {
+        "OBEC": "Pružina"
+      },
+      {
+        "OBEC": "Briestenné"
+      },
+      {
+        "OBEC": "Pstriná"
+      },
+      {
+        "OBEC": "Ptičie"
+      },
+      {
+        "OBEC": "Ptrukša"
+      },
+      {
+        "OBEC": "Pucov"
+      },
+      {
+        "OBEC": "Púchov"
+      },
+      {
+        "OBEC": "Horné Kočkovce"
+      },
+      {
+        "OBEC": "Hoštiná"
+      },
+      {
+        "OBEC": "Hrabovka"
+      },
+      {
+        "OBEC": "Ihrište"
+      },
+      {
+        "OBEC": "Nosice"
+      },
+      {
+        "OBEC": "Pukanec"
+      },
+      {
+        "OBEC": "Majere"
+      },
+      {
+        "OBEC": "Pusté Čemerné"
+      },
+      {
+        "OBEC": "Pusté Pole"
+      },
+      {
+        "OBEC": "Pusté Sady"
+      },
+      {
+        "OBEC": "Pusté Úľany"
+      },
+      {
+        "OBEC": "Pušovce"
+      },
+      {
+        "OBEC": "Rabča"
+      },
+      {
+        "OBEC": "Rabčice"
+      },
+      {
+        "OBEC": "Rad"
+      },
+      {
+        "OBEC": "Hrušov"
+      },
+      {
+        "OBEC": "Radatice"
+      },
+      {
+        "OBEC": "Radava"
+      },
+      {
+        "OBEC": "Radimov"
+      },
+      {
+        "OBEC": "Radnovce"
+      },
+      {
+        "OBEC": "Radobica"
+      },
+      {
+        "OBEC": "Banská"
+      },
+      {
+        "OBEC": "Cerová"
+      },
+      {
+        "OBEC": "Štiefleje"
+      },
+      {
+        "OBEC": "Radoľa"
+      },
+      {
+        "OBEC": "Radoma"
+      },
+      {
+        "OBEC": "Hradisko"
+      },
+      {
+        "OBEC": "Radošina"
+      },
+      {
+        "OBEC": "Radošovce"
+      },
+      {
+        "OBEC": "Radošovce"
+      },
+      {
+        "OBEC": "Radôstka"
+      },
+      {
+        "OBEC": "Radvaň nad Dunajom"
+      },
+      {
+        "OBEC": "Bystrička"
+      },
+      {
+        "OBEC": "Žitava"
+      },
+      {
+        "OBEC": "Radvaň nad Laborcom"
+      },
+      {
+        "OBEC": "Radvanovce"
+      },
+      {
+        "OBEC": "Radzovce"
+      },
+      {
+        "OBEC": "Obručná"
+      },
+      {
+        "OBEC": "Rafajovce"
+      },
+      {
+        "OBEC": "Rajčany"
+      },
+      {
+        "OBEC": "Rajec"
+      },
+      {
+        "OBEC": "Rajecká Lesná"
+      },
+      {
+        "OBEC": "Rajecké Teplice"
+      },
+      {
+        "OBEC": "Poluvsie"
+      },
+      {
+        "OBEC": "Rakoľuby"
+      },
+      {
+        "OBEC": "Rákoš"
+      },
+      {
+        "OBEC": "Rákoš"
+      },
+      {
+        "OBEC": "Rákošská Baňa"
+      },
+      {
+        "OBEC": "Raková"
+      },
+      {
+        "OBEC": "Rakovčík"
+      },
+      {
+        "OBEC": "Rakovec nad Ondavou"
+      },
+      {
+        "OBEC": "Rakovice"
+      },
+      {
+        "OBEC": "Rakovnica"
+      },
+      {
+        "OBEC": "Rakovo"
+      },
+      {
+        "OBEC": "Rakša"
+      },
+      {
+        "OBEC": "Rakúsy"
+      },
+      {
+        "OBEC": "Rakytník"
+      },
+      {
+        "OBEC": "Rankovce"
+      },
+      {
+        "OBEC": "Rapovce"
+      },
+      {
+        "OBEC": "Raslavice"
+      },
+      {
+        "OBEC": "Nižné Raslavice"
+      },
+      {
+        "OBEC": "Vyšné Raslavice"
+      },
+      {
+        "OBEC": "Rasochov"
+      },
+      {
+        "OBEC": "Rastice"
+      },
+      {
+        "OBEC": "Rastislavice"
+      },
+      {
+        "OBEC": "Rašice"
+      },
+      {
+        "OBEC": "Ratka"
+      },
+      {
+        "OBEC": "Ratková"
+      },
+      {
+        "OBEC": "Repištia"
+      },
+      {
+        "OBEC": "Ratkovce"
+      },
+      {
+        "OBEC": "Ratkovo"
+      },
+      {
+        "OBEC": "Ratkovská Lehota"
+      },
+      {
+        "OBEC": "Ratkovská Suchá"
+      },
+      {
+        "OBEC": "Ratkovské Bystré"
+      },
+      {
+        "OBEC": "Filier"
+      },
+      {
+        "OBEC": "Ratnovce"
+      },
+      {
+        "OBEC": "Ratvaj"
+      },
+      {
+        "OBEC": "Ráztočno"
+      },
+      {
+        "OBEC": "Ráztoka"
+      },
+      {
+        "OBEC": "Ražňany"
+      },
+      {
+        "OBEC": "Reca"
+      },
+      {
+        "OBEC": "Regetovka"
+      },
+      {
+        "OBEC": "Rejdová"
+      },
+      {
+        "OBEC": "Reľov"
+      },
+      {
+        "OBEC": "Hágy"
+      },
+      {
+        "OBEC": "Remata"
+      },
+      {
+        "OBEC": "Remeniny"
+      },
+      {
+        "OBEC": "Remetské Hámre"
+      },
+      {
+        "OBEC": "Renčišov"
+      },
+      {
+        "OBEC": "Repejov"
+      },
+      {
+        "OBEC": "Repište"
+      },
+      {
+        "OBEC": "Rešica"
+      },
+      {
+        "OBEC": "Rešov"
+      },
+      {
+        "OBEC": "Revúca"
+      },
+      {
+        "OBEC": "Revúčka"
+      },
+      {
+        "OBEC": "Revúcka Lehota"
+      },
+      {
+        "OBEC": "Riečka"
+      },
+      {
+        "OBEC": "Riečka"
+      },
+      {
+        "OBEC": "Riečka, ul. Nevoľné"
+      },
+      {
+        "OBEC": "Richnava"
+      },
+      {
+        "OBEC": "Richvald"
+      },
+      {
+        "OBEC": "Rimavská Baňa"
+      },
+      {
+        "OBEC": "Rimavská Seč"
+      },
+      {
+        "OBEC": "Rimavská Sobota"
+      },
+      {
+        "OBEC": "Bakta"
+      },
+      {
+        "OBEC": "Dúžava"
+      },
+      {
+        "OBEC": "Kurinec"
+      },
+      {
+        "OBEC": "Mojín"
+      },
+      {
+        "OBEC": "Nižná Pokoradz"
+      },
+      {
+        "OBEC": "Sabová"
+      },
+      {
+        "OBEC": "Sobôtka"
+      },
+      {
+        "OBEC": "Včelinec"
+      },
+      {
+        "OBEC": "Vinice"
+      },
+      {
+        "OBEC": "Vyšná Pokoradz"
+      },
+      {
+        "OBEC": "Rimavské Brezovo"
+      },
+      {
+        "OBEC": "Rimavské Janovce"
+      },
+      {
+        "OBEC": "Rimavské Zalužany"
+      },
+      {
+        "OBEC": "Rišňovce"
+      },
+      {
+        "OBEC": "Rohov"
+      },
+      {
+        "OBEC": "Rohovce"
+      },
+      {
+        "OBEC": "Rohožník"
+      },
+      {
+        "OBEC": "Rohožník"
+      },
+      {
+        "OBEC": "Rochovce"
+      },
+      {
+        "OBEC": "Rokycany"
+      },
+      {
+        "OBEC": "Rokytov"
+      },
+      {
+        "OBEC": "Rokytov pri Humennom"
+      },
+      {
+        "OBEC": "Rokytovce"
+      },
+      {
+        "OBEC": "Rosina"
+      },
+      {
+        "OBEC": "Roškovce"
+      },
+      {
+        "OBEC": "Roštár"
+      },
+      {
+        "OBEC": "Rovensko"
+      },
+      {
+        "OBEC": "Rovinka"
+      },
+      {
+        "OBEC": "Rovňany"
+      },
+      {
+        "OBEC": "Rovné"
+      },
+      {
+        "OBEC": "Rovné"
+      },
+      {
+        "OBEC": "Rovné"
+      },
+      {
+        "OBEC": "Ratkovská Zdychava"
+      },
+      {
+        "OBEC": "Rozhanovce"
+      },
+      {
+        "OBEC": "Rozložná"
+      },
+      {
+        "OBEC": "Roztoky"
+      },
+      {
+        "OBEC": "Rožkovany"
+      },
+      {
+        "OBEC": "Rožňava"
+      },
+      {
+        "OBEC": "Nadabula"
+      },
+      {
+        "OBEC": "Rožňavská Baňa"
+      },
+      {
+        "OBEC": "Rožňavské Bystré"
+      },
+      {
+        "OBEC": "Rúbaň"
+      },
+      {
+        "OBEC": "Rudina"
+      },
+      {
+        "OBEC": "Rudinka"
+      },
+      {
+        "OBEC": "Rudinská"
+      },
+      {
+        "OBEC": "Rudlov"
+      },
+      {
+        "OBEC": "Rudná"
+      },
+      {
+        "OBEC": "Rudňany"
+      },
+      {
+        "OBEC": "Rudnianska Lehota"
+      },
+      {
+        "OBEC": "Rudník"
+      },
+      {
+        "OBEC": "Rudník"
+      },
+      {
+        "OBEC": "Rudno"
+      },
+      {
+        "OBEC": "Rudno nad Hronom"
+      },
+      {
+        "OBEC": "Rumanová"
+      },
+      {
+        "OBEC": "Rumince"
+      },
+      {
+        "OBEC": "Runina"
+      },
+      {
+        "OBEC": "Ruská"
+      },
+      {
+        "OBEC": "Ruská Bystrá"
+      },
+      {
+        "OBEC": "Ruská Kajňa"
+      },
+      {
+        "OBEC": "Ruská Nová Ves"
+      },
+      {
+        "OBEC": "Ruská Poruba"
+      },
+      {
+        "OBEC": "Ruská Voľa"
+      },
+      {
+        "OBEC": "Ruská Voľa n/Popr."
+      },
+      {
+        "OBEC": "Ruská Volová"
+      },
+      {
+        "OBEC": "Ruskov"
+      },
+      {
+        "OBEC": "Ruskovce"
+      },
+      {
+        "OBEC": "Ruskovce"
+      },
+      {
+        "OBEC": "Ruský Hrabovec"
+      },
+      {
+        "OBEC": "Ruský Potok"
+      },
+      {
+        "OBEC": "Ružbachy - kúpele"
+      },
+      {
+        "OBEC": "Ružiná"
+      },
+      {
+        "OBEC": "Ružindol"
+      },
+      {
+        "OBEC": "Ružomberok"
+      },
+      {
+        "OBEC": "Ružová Osada"
+      },
+      {
+        "OBEC": "Rybany"
+      },
+      {
+        "OBEC": "Rybky"
+      },
+      {
+        "OBEC": "Rybník"
+      },
+      {
+        "OBEC": "Rybník"
+      },
+      {
+        "OBEC": "Brusník"
+      },
+      {
+        "OBEC": "Rybníky"
+      },
+      {
+        "OBEC": "Rychňava"
+      },
+      {
+        "OBEC": "Rykynčice"
+      },
+      {
+        "OBEC": "Dolné Rykynčice"
+      },
+      {
+        "OBEC": "Horné Rykynčice"
+      },
+      {
+        "OBEC": "Sabinov"
+      },
+      {
+        "OBEC": "Orkucany"
+      },
+      {
+        "OBEC": "Sačurov"
+      },
+      {
+        "OBEC": "Sádočné"
+      },
+      {
+        "OBEC": "Sady nad Torysou"
+      },
+      {
+        "OBEC": "Salka"
+      },
+      {
+        "OBEC": "Santovka"
+      },
+      {
+        "OBEC": "Malinovec"
+      },
+      {
+        "OBEC": "Sap"
+      },
+      {
+        "OBEC": "Sása"
+      },
+      {
+        "OBEC": "Sása"
+      },
+      {
+        "OBEC": "Sasinkovo"
+      },
+      {
+        "OBEC": "Sazdice"
+      },
+      {
+        "OBEC": "Sebedín - Bečov"
+      },
+      {
+        "OBEC": "Sebedražie"
+      },
+      {
+        "OBEC": "Sebechleby"
+      },
+      {
+        "OBEC": "Seč"
+      },
+      {
+        "OBEC": "Sečianky"
+      },
+      {
+        "OBEC": "Sečovce"
+      },
+      {
+        "OBEC": "Albínov"
+      },
+      {
+        "OBEC": "Sečovská Polianka"
+      },
+      {
+        "OBEC": "Sedliacka Dubová"
+      },
+      {
+        "OBEC": "Sedlice"
+      },
+      {
+        "OBEC": "Sedliská"
+      },
+      {
+        "OBEC": "Podčičva"
+      },
+      {
+        "OBEC": "Sedmerovec"
+      },
+      {
+        "OBEC": "Sejkov"
+      },
+      {
+        "OBEC": "Sekule"
+      },
+      {
+        "OBEC": "Seľany"
+      },
+      {
+        "OBEC": "Selce"
+      },
+      {
+        "OBEC": "Selce"
+      },
+      {
+        "OBEC": "Selce"
+      },
+      {
+        "OBEC": "Selec"
+      },
+      {
+        "OBEC": "Seleška"
+      },
+      {
+        "OBEC": "Selice"
+      },
+      {
+        "OBEC": "Semerovo"
+      },
+      {
+        "OBEC": "Seňa"
+      },
+      {
+        "OBEC": "Senec"
+      },
+      {
+        "OBEC": "Svätý Martin"
+      },
+      {
+        "OBEC": "Seniakovce"
+      },
+      {
+        "OBEC": "Senica"
+      },
+      {
+        "OBEC": "Čáčov"
+      },
+      {
+        "OBEC": "Kunov"
+      },
+      {
+        "OBEC": "Sotina"
+      },
+      {
+        "OBEC": "Senné"
+      },
+      {
+        "OBEC": "Senné"
+      },
+      {
+        "OBEC": "Príboj"
+      },
+      {
+        "OBEC": "Senohrad"
+      },
+      {
+        "OBEC": "Sereď"
+      },
+      {
+        "OBEC": "Horný Čepeň"
+      },
+      {
+        "OBEC": "Sielnica"
+      },
+      {
+        "OBEC": "Sihelné"
+      },
+      {
+        "OBEC": "Sihla"
+      },
+      {
+        "OBEC": "Sikenica"
+      },
+      {
+        "OBEC": "Trhyňa"
+      },
+      {
+        "OBEC": "Veľký Pesek"
+      },
+      {
+        "OBEC": "Sikenička"
+      },
+      {
+        "OBEC": "Siladice"
+      },
+      {
+        "OBEC": "Silica"
+      },
+      {
+        "OBEC": "Silická Brezová"
+      },
+      {
+        "OBEC": "Silická Jablonica"
+      },
+      {
+        "OBEC": "Sirk"
+      },
+      {
+        "OBEC": "Červeňany"
+      },
+      {
+        "OBEC": "Železník"
+      },
+      {
+        "OBEC": "Sirník"
+      },
+      {
+        "OBEC": "Skačany"
+      },
+      {
+        "OBEC": "Skalica"
+      },
+      {
+        "OBEC": "Skalité"
+      },
+      {
+        "OBEC": "Skalka nad Váhom"
+      },
+      {
+        "OBEC": "Skala"
+      },
+      {
+        "OBEC": "Skalská Nová Ves"
+      },
+      {
+        "OBEC": "Újazd"
+      },
+      {
+        "OBEC": "Skároš"
+      },
+      {
+        "OBEC": "Skerešovo"
+      },
+      {
+        "OBEC": "Sklabiná"
+      },
+      {
+        "OBEC": "Sklabiňa"
+      },
+      {
+        "OBEC": "Sklabinský Podzámok"
+      },
+      {
+        "OBEC": "Sklené"
+      },
+      {
+        "OBEC": "Sklené Teplice"
+      },
+      {
+        "OBEC": "Skrabské"
+      },
+      {
+        "OBEC": "Skýcov"
+      },
+      {
+        "OBEC": "Sládkovičovo"
+      },
+      {
+        "OBEC": "Slančík"
+      },
+      {
+        "OBEC": "Slanec"
+      },
+      {
+        "OBEC": "Slanská Huta"
+      },
+      {
+        "OBEC": "Slanské Nové Mesto"
+      },
+      {
+        "OBEC": "Slaská"
+      },
+      {
+        "OBEC": "Slatina"
+      },
+      {
+        "OBEC": "Slatina nad Bebravou"
+      },
+      {
+        "OBEC": "Slatinka n/Bebravou"
+      },
+      {
+        "OBEC": "Slatinské Lazy"
+      },
+      {
+        "OBEC": "Slatvina"
+      },
+      {
+        "OBEC": "Slavec"
+      },
+      {
+        "OBEC": "Vidová"
+      },
+      {
+        "OBEC": "Slavkovce"
+      },
+      {
+        "OBEC": "Slavnica"
+      },
+      {
+        "OBEC": "Podhorie"
+      },
+      {
+        "OBEC": "Tlstá Hora"
+      },
+      {
+        "OBEC": "Slavoška"
+      },
+      {
+        "OBEC": "Slavošovce"
+      },
+      {
+        "OBEC": "Sľažany"
+      },
+      {
+        "OBEC": "Dolné Sľažany"
+      },
+      {
+        "OBEC": "Horné Sľažany"
+      },
+      {
+        "OBEC": "Slepčany"
+      },
+      {
+        "OBEC": "Sliač"
+      },
+      {
+        "OBEC": "Hájniky"
+      },
+      {
+        "OBEC": "Sliač - kúpele"
+      },
+      {
+        "OBEC": "Rybáre"
+      },
+      {
+        "OBEC": "Sampor"
+      },
+      {
+        "OBEC": "Sliepkovce"
+      },
+      {
+        "OBEC": "Slivník"
+      },
+      {
+        "OBEC": "Slizké"
+      },
+      {
+        "OBEC": "Slopná"
+      },
+      {
+        "OBEC": "Slovany"
+      },
+      {
+        "OBEC": "Slovenská Kajňa"
+      },
+      {
+        "OBEC": "Slovenská Ľupča"
+      },
+      {
+        "OBEC": "Slovenská Nová Ves"
+      },
+      {
+        "OBEC": "Slovenská Ves"
+      },
+      {
+        "OBEC": "Slovenská Volová"
+      },
+      {
+        "OBEC": "Slovenské Ďarmoty"
+      },
+      {
+        "OBEC": "Iliašov"
+      },
+      {
+        "OBEC": "Slovenské Kľačany"
+      },
+      {
+        "OBEC": "Slovenské Krivé"
+      },
+      {
+        "OBEC": "Slovenské Nové Mesto"
+      },
+      {
+        "OBEC": "Slovenské Pravno"
+      },
+      {
+        "OBEC": "Slovenský Grob"
+      },
+      {
+        "OBEC": "Slovinky"
+      },
+      {
+        "OBEC": "Smilno"
+      },
+      {
+        "OBEC": "Smižany"
+      },
+      {
+        "OBEC": "Smolenice"
+      },
+      {
+        "OBEC": "Smolenická Nová Ves"
+      },
+      {
+        "OBEC": "Smolinské"
+      },
+      {
+        "OBEC": "Smolnícka Huta"
+      },
+      {
+        "OBEC": "Smolník"
+      },
+      {
+        "OBEC": "Smrdáky"
+      },
+      {
+        "OBEC": "Smrečany"
+      },
+      {
+        "OBEC": "Snakov"
+      },
+      {
+        "OBEC": "Snežnica"
+      },
+      {
+        "OBEC": "Snina"
+      },
+      {
+        "OBEC": "Soblahov"
+      },
+      {
+        "OBEC": "Soboš"
+      },
+      {
+        "OBEC": "Sobotište"
+      },
+      {
+        "OBEC": "Javorec"
+      },
+      {
+        "OBEC": "Sobrance"
+      },
+      {
+        "OBEC": "Komárovce"
+      },
+      {
+        "OBEC": "Sobranecké Kúpele"
+      },
+      {
+        "OBEC": "Socovce"
+      },
+      {
+        "OBEC": "Sokoľ"
+      },
+      {
+        "OBEC": "Sokoľany"
+      },
+      {
+        "OBEC": "Sokolce"
+      },
+      {
+        "OBEC": "Sokolce - lúky"
+      },
+      {
+        "OBEC": "Sokolovce"
+      },
+      {
+        "OBEC": "Soľ"
+      },
+      {
+        "OBEC": "Solčany"
+      },
+      {
+        "OBEC": "Solčianky"
+      },
+      {
+        "OBEC": "Soľnička"
+      },
+      {
+        "OBEC": "Soľník"
+      },
+      {
+        "OBEC": "Sološnica"
+      },
+      {
+        "OBEC": "Somotor"
+      },
+      {
+        "OBEC": "N.Vieska pri Bodrogu"
+      },
+      {
+        "OBEC": "Véč"
+      },
+      {
+        "OBEC": "Sopkovce"
+      },
+      {
+        "OBEC": "Spišská Belá"
+      },
+      {
+        "OBEC": "Strážky"
+      },
+      {
+        "OBEC": "Spišská Nová Ves"
+      },
+      {
+        "OBEC": "Novoveská Huta"
+      },
+      {
+        "OBEC": "Spišská Stará Ves"
+      },
+      {
+        "OBEC": "Lysá nad Dunajcom"
+      },
+      {
+        "OBEC": "Spišská Teplica"
+      },
+      {
+        "OBEC": "Spišské Bystré"
+      },
+      {
+        "OBEC": "Spišské Hanušovce"
+      },
+      {
+        "OBEC": "Spišské Podhradie"
+      },
+      {
+        "OBEC": "Katúň"
+      },
+      {
+        "OBEC": "Spišské Tomášovce"
+      },
+      {
+        "OBEC": "Hadušovce"
+      },
+      {
+        "OBEC": "Spišské Vlachy"
+      },
+      {
+        "OBEC": "Dobrá Voľa"
+      },
+      {
+        "OBEC": "Spišský Hrhov"
+      },
+      {
+        "OBEC": "Spišský Hrušov"
+      },
+      {
+        "OBEC": "Spišský Štiavnik"
+      },
+      {
+        "OBEC": "Spišský Štvrtok"
+      },
+      {
+        "OBEC": "Mečedelovce"
+      },
+      {
+        "OBEC": "Stakčín"
+      },
+      {
+        "OBEC": "Stakčínska Roztoka"
+      },
+      {
+        "OBEC": "Stanča"
+      },
+      {
+        "OBEC": "Stankovany"
+      },
+      {
+        "OBEC": "Rojkov"
+      },
+      {
+        "OBEC": "Stankovce"
+      },
+      {
+        "OBEC": "Stará Bašta"
+      },
+      {
+        "OBEC": "Stará Bystrica"
+      },
+      {
+        "OBEC": "Lány"
+      },
+      {
+        "OBEC": "Stará Halič"
+      },
+      {
+        "OBEC": "Stará Huta"
+      },
+      {
+        "OBEC": "Sliačska Podpoľana"
+      },
+      {
+        "OBEC": "Stará Kremnička"
+      },
+      {
+        "OBEC": "Stará Lehota"
+      },
+      {
+        "OBEC": "Stará Lesná"
+      },
+      {
+        "OBEC": "Stará Ľubovňa"
+      },
+      {
+        "OBEC": "Podsadek"
+      },
+      {
+        "OBEC": "Stará Myjava"
+      },
+      {
+        "OBEC": "Stará Turá"
+      },
+      {
+        "OBEC": "Stará Voda"
+      },
+      {
+        "OBEC": "Staré"
+      },
+      {
+        "OBEC": "Staré Hory"
+      },
+      {
+        "OBEC": "Dolný Jelenec"
+      },
+      {
+        "OBEC": "Horný Jelenec"
+      },
+      {
+        "OBEC": "Valentová"
+      },
+      {
+        "OBEC": "Starina"
+      },
+      {
+        "OBEC": "Starý Hrádok"
+      },
+      {
+        "OBEC": "Starý Tekov"
+      },
+      {
+        "OBEC": "Staškov"
+      },
+      {
+        "OBEC": "Staškovce"
+      },
+      {
+        "OBEC": "Stebnícka Huta"
+      },
+      {
+        "OBEC": "Stebník"
+      },
+      {
+        "OBEC": "Stožok"
+      },
+      {
+        "OBEC": "Stráňany"
+      },
+      {
+        "OBEC": "Stráňavy"
+      },
+      {
+        "OBEC": "Stráne pod Tatrami"
+      },
+      {
+        "OBEC": "Stránska"
+      },
+      {
+        "OBEC": "Stránske"
+      },
+      {
+        "OBEC": "Stratená"
+      },
+      {
+        "OBEC": "Dobšin. Ľad. Jaskyňa"
+      },
+      {
+        "OBEC": "Stráža"
+      },
+      {
+        "OBEC": "Strážne"
+      },
+      {
+        "OBEC": "Strážske"
+      },
+      {
+        "OBEC": "Krivošťany"
+      },
+      {
+        "OBEC": "Pláne"
+      },
+      {
+        "OBEC": "Strečno"
+      },
+      {
+        "OBEC": "Streda nad Bodrogom"
+      },
+      {
+        "OBEC": "Stredné Plachtince"
+      },
+      {
+        "OBEC": "Strekov"
+      },
+      {
+        "OBEC": "Štefan"
+      },
+      {
+        "OBEC": "Strelnice"
+      },
+      {
+        "OBEC": "Strelníky"
+      },
+      {
+        "OBEC": "Stretava"
+      },
+      {
+        "OBEC": "Stretavka"
+      },
+      {
+        "OBEC": "Streženice"
+      },
+      {
+        "OBEC": "Strihovce"
+      },
+      {
+        "OBEC": "Stročín"
+      },
+      {
+        "OBEC": "Stropkov"
+      },
+      {
+        "OBEC": "Bokša"
+      },
+      {
+        "OBEC": "Sitník"
+      },
+      {
+        "OBEC": "Studená"
+      },
+      {
+        "OBEC": "Studenec"
+      },
+      {
+        "OBEC": "Studienka"
+      },
+      {
+        "OBEC": "Stuľany"
+      },
+      {
+        "OBEC": "Stupava"
+      },
+      {
+        "OBEC": "Stupné"
+      },
+      {
+        "OBEC": "Sučany"
+      },
+      {
+        "OBEC": "Sudince"
+      },
+      {
+        "OBEC": "Súdovce"
+      },
+      {
+        "OBEC": "Suchá Dolina"
+      },
+      {
+        "OBEC": "Suchá Hora"
+      },
+      {
+        "OBEC": "Suchá nad Parnou"
+      },
+      {
+        "OBEC": "Ružová dolina"
+      },
+      {
+        "OBEC": "Sucháň"
+      },
+      {
+        "OBEC": "Suché"
+      },
+      {
+        "OBEC": "Suché Brezovo"
+      },
+      {
+        "OBEC": "Suchohrad"
+      },
+      {
+        "OBEC": "Sukov"
+      },
+      {
+        "OBEC": "Sulín"
+      },
+      {
+        "OBEC": "Závodie"
+      },
+      {
+        "OBEC": "Súlovce"
+      },
+      {
+        "OBEC": "Súľov-Hradná"
+      },
+      {
+        "OBEC": "Súš"
+      },
+      {
+        "OBEC": "Sušany"
+      },
+      {
+        "OBEC": "Sútor"
+      },
+      {
+        "OBEC": "Svätá Mária"
+      },
+      {
+        "OBEC": "Pavlovo"
+      },
+      {
+        "OBEC": "Svätoplukovo"
+      },
+      {
+        "OBEC": "Svätuš"
+      },
+      {
+        "OBEC": "Svätuša"
+      },
+      {
+        "OBEC": "Svätuše"
+      },
+      {
+        "OBEC": "Svätý Anton"
+      },
+      {
+        "OBEC": "Svätý Jur"
+      },
+      {
+        "OBEC": "Svätý Kríž"
+      },
+      {
+        "OBEC": "Svätý Peter"
+      },
+      {
+        "OBEC": "Svederník"
+      },
+      {
+        "OBEC": "Marček"
+      },
+      {
+        "OBEC": "Sverepec"
+      },
+      {
+        "OBEC": "Sveržov"
+      },
+      {
+        "OBEC": "Svetlice"
+      },
+      {
+        "OBEC": "Svidnička"
+      },
+      {
+        "OBEC": "Svidník"
+      },
+      {
+        "OBEC": "Svinia"
+      },
+      {
+        "OBEC": "Svinica"
+      },
+      {
+        "OBEC": "Svinice"
+      },
+      {
+        "OBEC": "Svinná"
+      },
+      {
+        "OBEC": "Svit"
+      },
+      {
+        "OBEC": "Svodín"
+      },
+      {
+        "OBEC": "Svrbice"
+      },
+      {
+        "OBEC": "Svrčinovec"
+      },
+      {
+        "OBEC": "Šahy"
+      },
+      {
+        "OBEC": "Preseľany nad Ipľom"
+      },
+      {
+        "OBEC": "Tešmák"
+      },
+      {
+        "OBEC": "Šajdíkove Humence"
+      },
+      {
+        "OBEC": "Šaľa"
+      },
+      {
+        "OBEC": "Hetméň"
+      },
+      {
+        "OBEC": "Šalgočka"
+      },
+      {
+        "OBEC": "Šalgovce"
+      },
+      {
+        "OBEC": "Šalov"
+      },
+      {
+        "OBEC": "Šambron"
+      },
+      {
+        "OBEC": "Šamorín"
+      },
+      {
+        "OBEC": "Bučuháza"
+      },
+      {
+        "OBEC": "Čilistov"
+      },
+      {
+        "OBEC": "Kráľovianky"
+      },
+      {
+        "OBEC": "Mliečno"
+      },
+      {
+        "OBEC": "Šamudovce"
+      },
+      {
+        "OBEC": "Šance"
+      },
+      {
+        "OBEC": "Šandal"
+      },
+      {
+        "OBEC": "Šarbov"
+      },
+      {
+        "OBEC": "Šarišská Poruba"
+      },
+      {
+        "OBEC": "Šarišská Trstená"
+      },
+      {
+        "OBEC": "Šarišské Bohdanovce"
+      },
+      {
+        "OBEC": "Šarišské Čierne"
+      },
+      {
+        "OBEC": "Šarišské Dravce"
+      },
+      {
+        "OBEC": "Šarišské Jastrabie"
+      },
+      {
+        "OBEC": "Šarišské Michaľany"
+      },
+      {
+        "OBEC": "Šarišské Sokolovce"
+      },
+      {
+        "OBEC": "Šarišský Štiavnik"
+      },
+      {
+        "OBEC": "Šarkan"
+      },
+      {
+        "OBEC": "Diva"
+      },
+      {
+        "OBEC": "Šarovce"
+      },
+      {
+        "OBEC": "Veselá"
+      },
+      {
+        "OBEC": "Šašová"
+      },
+      {
+        "OBEC": "Šaštín - Stráže"
+      },
+      {
+        "OBEC": "Šávoľ"
+      },
+      {
+        "OBEC": "Šelpice"
+      },
+      {
+        "OBEC": "Šemetkovce"
+      },
+      {
+        "OBEC": "Šemša"
+      },
+      {
+        "OBEC": "Šenkvice"
+      },
+      {
+        "OBEC": "Šiatorská Bukovinka"
+      },
+      {
+        "OBEC": "Šiba"
+      },
+      {
+        "OBEC": "Šíd"
+      },
+      {
+        "OBEC": "Šimonovce"
+      },
+      {
+        "OBEC": "Šindliar"
+      },
+      {
+        "OBEC": "Šintava"
+      },
+      {
+        "OBEC": "Šípkov"
+      },
+      {
+        "OBEC": "Šípkové"
+      },
+      {
+        "OBEC": "Širákov"
+      },
+      {
+        "OBEC": "Širkovce"
+      },
+      {
+        "OBEC": "Široké"
+      },
+      {
+        "OBEC": "Pod Braniskom"
+      },
+      {
+        "OBEC": "Šišov"
+      },
+      {
+        "OBEC": "Šivetice"
+      },
+      {
+        "OBEC": "Šmigovec"
+      },
+      {
+        "OBEC": "Šoltýska"
+      },
+      {
+        "OBEC": "Ľubienka"
+      },
+      {
+        "OBEC": "Šoporňa"
+      },
+      {
+        "OBEC": "Štrkovec"
+      },
+      {
+        "OBEC": "Špačince"
+      },
+      {
+        "OBEC": "Špania Dolina"
+      },
+      {
+        "OBEC": "Španie Pole"
+      },
+      {
+        "OBEC": "Šrobárová"
+      },
+      {
+        "OBEC": "Štefanov"
+      },
+      {
+        "OBEC": "Štefanov nad Oravou"
+      },
+      {
+        "OBEC": "Dolný Štefanov"
+      },
+      {
+        "OBEC": "Horný Štefanov"
+      },
+      {
+        "OBEC": "Štefanová"
+      },
+      {
+        "OBEC": "Štefanovce"
+      },
+      {
+        "OBEC": "Štefanovce"
+      },
+      {
+        "OBEC": "Štefanovičová"
+      },
+      {
+        "OBEC": "Štefanská Huta"
+      },
+      {
+        "OBEC": "Štefurov"
+      },
+      {
+        "OBEC": "Šterusy"
+      },
+      {
+        "OBEC": "Štiavnické Bane"
+      },
+      {
+        "OBEC": "Štiavnička"
+      },
+      {
+        "OBEC": "Štiavnička"
+      },
+      {
+        "OBEC": "Štiavnik"
+      },
+      {
+        "OBEC": "Čierne"
+      },
+      {
+        "OBEC": "Predjastrabie"
+      },
+      {
+        "OBEC": "Višňové"
+      },
+      {
+        "OBEC": "Štitáre"
+      },
+      {
+        "OBEC": "Štítnik"
+      },
+      {
+        "OBEC": "Štós"
+      },
+      {
+        "OBEC": "Štós - kúpele"
+      },
+      {
+        "OBEC": "Štôla"
+      },
+      {
+        "OBEC": "Štrba"
+      },
+      {
+        "OBEC": "Štrbské Pleso"
+      },
+      {
+        "OBEC": "Tatranská Štrba"
+      },
+      {
+        "OBEC": "Štrkovec"
+      },
+      {
+        "OBEC": "Štúrovo"
+      },
+      {
+        "OBEC": "Štvrtok"
+      },
+      {
+        "OBEC": "Štvrtok na Ostrove"
+      },
+      {
+        "OBEC": "Šuja"
+      },
+      {
+        "OBEC": "Šuľa"
+      },
+      {
+        "OBEC": "Šumiac"
+      },
+      {
+        "OBEC": "Červená Skala"
+      },
+      {
+        "OBEC": "Šuňava"
+      },
+      {
+        "OBEC": "Nižná Šuňava"
+      },
+      {
+        "OBEC": "Šurany"
+      },
+      {
+        "OBEC": "Kostolný Sek"
+      },
+      {
+        "OBEC": "Nitriansky Hrádok"
+      },
+      {
+        "OBEC": "Šurianky"
+      },
+      {
+        "OBEC": "Perkovce"
+      },
+      {
+        "OBEC": "Šurice"
+      },
+      {
+        "OBEC": "Šúrovce"
+      },
+      {
+        "OBEC": "Varov Šúr"
+      },
+      {
+        "OBEC": "Šútovce"
+      },
+      {
+        "OBEC": "Šútovo"
+      },
+      {
+        "OBEC": "Švábovce"
+      },
+      {
+        "OBEC": "Švedlár"
+      },
+      {
+        "OBEC": "Švošov"
+      },
+      {
+        "OBEC": "Tachty"
+      },
+      {
+        "OBEC": "Tajná"
+      },
+      {
+        "OBEC": "Tajov"
+      },
+      {
+        "OBEC": "Jabriková"
+      },
+      {
+        "OBEC": "Ťapešovo"
+      },
+      {
+        "OBEC": "Tarnov"
+      },
+      {
+        "OBEC": "Tašuľa"
+      },
+      {
+        "OBEC": "Tatranská Javorina"
+      },
+      {
+        "OBEC": "Tehla"
+      },
+      {
+        "OBEC": "Tekolďany"
+      },
+      {
+        "OBEC": "Tekovská Breznica"
+      },
+      {
+        "OBEC": "Tekovské Lužany"
+      },
+      {
+        "OBEC": "Tekovské Nemce"
+      },
+      {
+        "OBEC": "Tekovský Hrádok"
+      },
+      {
+        "OBEC": "Telgárt"
+      },
+      {
+        "OBEC": "Telince"
+      },
+      {
+        "OBEC": "Temeš"
+      },
+      {
+        "OBEC": "Tepličany"
+      },
+      {
+        "OBEC": "Teplička"
+      },
+      {
+        "OBEC": "Teplička nad Váhom"
+      },
+      {
+        "OBEC": "Tepličky"
+      },
+      {
+        "OBEC": "Teplý Vrch"
+      },
+      {
+        "OBEC": "Terany"
+      },
+      {
+        "OBEC": "Terchová"
+      },
+      {
+        "OBEC": "Horná Tižina"
+      },
+      {
+        "OBEC": "Teriakovce"
+      },
+      {
+        "OBEC": "Terňa"
+      },
+      {
+        "OBEC": "Babin Potok"
+      },
+      {
+        "OBEC": "Hradisko"
+      },
+      {
+        "OBEC": "Tesáre"
+      },
+      {
+        "OBEC": "Tesárske Mlyňany"
+      },
+      {
+        "OBEC": "Mlyňany"
+      },
+      {
+        "OBEC": "Tesáre nad Žitavou"
+      },
+      {
+        "OBEC": "Tešedíkovo"
+      },
+      {
+        "OBEC": "Tibava"
+      },
+      {
+        "OBEC": "Tichý Potok"
+      },
+      {
+        "OBEC": "Timoradza"
+      },
+      {
+        "OBEC": "Tisinec"
+      },
+      {
+        "OBEC": "Tisovec"
+      },
+      {
+        "OBEC": "Rimavská Píla"
+      },
+      {
+        "OBEC": "Tlmače"
+      },
+      {
+        "OBEC": "Lipník"
+      },
+      {
+        "OBEC": "Točnica"
+      },
+      {
+        "OBEC": "Tokajík"
+      },
+      {
+        "OBEC": "Tomášikovo"
+      },
+      {
+        "OBEC": "Tomášov"
+      },
+      {
+        "OBEC": "Doma"
+      },
+      {
+        "OBEC": "Malý Madaras"
+      },
+      {
+        "OBEC": "Tomášovce"
+      },
+      {
+        "OBEC": "Tomášovce"
+      },
+      {
+        "OBEC": "Topoľa"
+      },
+      {
+        "OBEC": "Topoľčany"
+      },
+      {
+        "OBEC": "Topoľčianky"
+      },
+      {
+        "OBEC": "Topolecká"
+      },
+      {
+        "OBEC": "Topoľnica"
+      },
+      {
+        "OBEC": "Paľovce"
+      },
+      {
+        "OBEC": "Topoľníky"
+      },
+      {
+        "OBEC": "Topoľovka"
+      },
+      {
+        "OBEC": "Toporec"
+      },
+      {
+        "OBEC": "Tornaľa"
+      },
+      {
+        "OBEC": "Behynce"
+      },
+      {
+        "OBEC": "Králik"
+      },
+      {
+        "OBEC": "Starňa"
+      },
+      {
+        "OBEC": "Torysa"
+      },
+      {
+        "OBEC": "Torysky"
+      },
+      {
+        "OBEC": "Tovarné"
+      },
+      {
+        "OBEC": "Tovarnian.Polianka"
+      },
+      {
+        "OBEC": "Tovarníky"
+      },
+      {
+        "OBEC": "Tôň"
+      },
+      {
+        "OBEC": "Trakovice"
+      },
+      {
+        "OBEC": "Trávnica"
+      },
+      {
+        "OBEC": "Trávnik"
+      },
+      {
+        "OBEC": "Trebatice"
+      },
+      {
+        "OBEC": "Trebejov"
+      },
+      {
+        "OBEC": "Trebeľovce"
+      },
+      {
+        "OBEC": "Muľka"
+      },
+      {
+        "OBEC": "Trebichava"
+      },
+      {
+        "OBEC": "Trebišov"
+      },
+      {
+        "OBEC": "Milhostov"
+      },
+      {
+        "OBEC": "Nový Majer"
+      },
+      {
+        "OBEC": "Olšina"
+      },
+      {
+        "OBEC": "Trebostovo"
+      },
+      {
+        "OBEC": "Trebušovce"
+      },
+      {
+        "OBEC": "Trenč"
+      },
+      {
+        "OBEC": "Šára"
+      },
+      {
+        "OBEC": "Trenčianska Teplá"
+      },
+      {
+        "OBEC": "Dobrá"
+      },
+      {
+        "OBEC": "Trenčianska Turná"
+      },
+      {
+        "OBEC": "Hámre"
+      },
+      {
+        "OBEC": "Trenč.Bohuslavice"
+      },
+      {
+        "OBEC": "Trenč.Jastrabie"
+      },
+      {
+        "OBEC": "Trenčianske Mitice"
+      },
+      {
+        "OBEC": "Kostolné Mitice"
+      },
+      {
+        "OBEC": "Rožňové Mitice"
+      },
+      {
+        "OBEC": "Zemianske Mitice"
+      },
+      {
+        "OBEC": "Trenč.Stankovce"
+      },
+      {
+        "OBEC": "Malé Stankovce"
+      },
+      {
+        "OBEC": "Rozvadze"
+      },
+      {
+        "OBEC": "Sedličná"
+      },
+      {
+        "OBEC": "Veľké Stankovce"
+      },
+      {
+        "OBEC": "Trenčianske Teplice"
+      },
+      {
+        "OBEC": "Trenčín"
+      },
+      {
+        "OBEC": "Trhová Hradská"
+      },
+      {
+        "OBEC": "Trhovište"
+      },
+      {
+        "OBEC": "Trnava"
+      },
+      {
+        "OBEC": "Modranka"
+      },
+      {
+        "OBEC": "Trnavá Hora"
+      },
+      {
+        "OBEC": "Jalná"
+      },
+      {
+        "OBEC": "Kľačany"
+      },
+      {
+        "OBEC": "Trnava pri Laborci"
+      },
+      {
+        "OBEC": "Trnávka"
+      },
+      {
+        "OBEC": "Trnávka"
+      },
+      {
+        "OBEC": "Tŕnie"
+      },
+      {
+        "OBEC": "Budička"
+      },
+      {
+        "OBEC": "Kašova Lehôtka"
+      },
+      {
+        "OBEC": "Trnkov"
+      },
+      {
+        "OBEC": "Trnovec"
+      },
+      {
+        "OBEC": "Trnovec nad Váhom"
+      },
+      {
+        "OBEC": "Horný Jatov"
+      },
+      {
+        "OBEC": "Kľučiareň"
+      },
+      {
+        "OBEC": "Trnovo"
+      },
+      {
+        "OBEC": "Tročany"
+      },
+      {
+        "OBEC": "Trpín"
+      },
+      {
+        "OBEC": "Trsťany"
+      },
+      {
+        "OBEC": "Trstená"
+      },
+      {
+        "OBEC": "Ústie nad Priehradou"
+      },
+      {
+        "OBEC": "Trstená na Ostrove"
+      },
+      {
+        "OBEC": "Trstené"
+      },
+      {
+        "OBEC": "Trstené pri Hornáde"
+      },
+      {
+        "OBEC": "Trstice"
+      },
+      {
+        "OBEC": "Trstín"
+      },
+      {
+        "OBEC": "Tuhár"
+      },
+      {
+        "OBEC": "Tuhrina"
+      },
+      {
+        "OBEC": "Tuchyňa"
+      },
+      {
+        "OBEC": "Tulčík"
+      },
+      {
+        "OBEC": "Tupá"
+      },
+      {
+        "OBEC": "Chorvatice"
+      },
+      {
+        "OBEC": "Turá"
+      },
+      {
+        "OBEC": "Turany"
+      },
+      {
+        "OBEC": "Turany nad Ondavou"
+      },
+      {
+        "OBEC": "Turcovce"
+      },
+      {
+        "OBEC": "Turček"
+      },
+      {
+        "OBEC": "Dolný Turček"
+      },
+      {
+        "OBEC": "Horný Turček"
+      },
+      {
+        "OBEC": "Turčianky"
+      },
+      {
+        "OBEC": "Turč.Štiavnička"
+      },
+      {
+        "OBEC": "Turčianske Jaseno"
+      },
+      {
+        "OBEC": "Dolné Jaseno"
+      },
+      {
+        "OBEC": "Horné Jaseno"
+      },
+      {
+        "OBEC": "Turčianske Kľačany"
+      },
+      {
+        "OBEC": "Turčianske Teplice"
+      },
+      {
+        "OBEC": "Diviaky"
+      },
+      {
+        "OBEC": "Dolná Štubňa"
+      },
+      {
+        "OBEC": "Turčiansky Michal"
+      },
+      {
+        "OBEC": "Turčiansky Ďur"
+      },
+      {
+        "OBEC": "Turčiansky Peter"
+      },
+      {
+        "OBEC": "Turčok"
+      },
+      {
+        "OBEC": "Turecká"
+      },
+      {
+        "OBEC": "Tureň"
+      },
+      {
+        "OBEC": "Turie"
+      },
+      {
+        "OBEC": "Turík"
+      },
+      {
+        "OBEC": "Turňa nad Bodvou"
+      },
+      {
+        "OBEC": "Turnianska Nová Ves"
+      },
+      {
+        "OBEC": "Turová"
+      },
+      {
+        "OBEC": "Turzovka"
+      },
+      {
+        "OBEC": "Tušice"
+      },
+      {
+        "OBEC": "Tušická Nová Ves"
+      },
+      {
+        "OBEC": "Tužina"
+      },
+      {
+        "OBEC": "Tvarožná"
+      },
+      {
+        "OBEC": "Tvrdomestice"
+      },
+      {
+        "OBEC": "Tvrdošín"
+      },
+      {
+        "OBEC": "Krásna Hôrka"
+      },
+      {
+        "OBEC": "Medvedzie"
+      },
+      {
+        "OBEC": "Tvrdošovce"
+      },
+      {
+        "OBEC": "Ubľa"
+      },
+      {
+        "OBEC": "Úbrež"
+      },
+      {
+        "OBEC": "Udavské"
+      },
+      {
+        "OBEC": "Udiča"
+      },
+      {
+        "OBEC": "Prosné"
+      },
+      {
+        "OBEC": "Upohlav"
+      },
+      {
+        "OBEC": "Údol"
+      },
+      {
+        "OBEC": "Uhliská"
+      },
+      {
+        "OBEC": "Úhorná"
+      },
+      {
+        "OBEC": "Uhorská Ves"
+      },
+      {
+        "OBEC": "Uhorské"
+      },
+      {
+        "OBEC": "Uhrovec"
+      },
+      {
+        "OBEC": "Látkovce"
+      },
+      {
+        "OBEC": "Uhrovské Podhradie"
+      },
+      {
+        "OBEC": "Úľany nad Žitavou"
+      },
+      {
+        "OBEC": "Ulič"
+      },
+      {
+        "OBEC": "Uličské Krivé"
+      },
+      {
+        "OBEC": "Uloža"
+      },
+      {
+        "OBEC": "Uňatín"
+      },
+      {
+        "OBEC": "Unín"
+      },
+      {
+        "OBEC": "Urmince"
+      },
+      {
+        "OBEC": "Kľačany"
+      },
+      {
+        "OBEC": "Utekáč"
+      },
+      {
+        "OBEC": "Uzovce"
+      },
+      {
+        "OBEC": "Uzovská Panica"
+      },
+      {
+        "OBEC": "Uzovské Pekľany"
+      },
+      {
+        "OBEC": "Uzovský Šalgov"
+      },
+      {
+        "OBEC": "Vaďovce"
+      },
+      {
+        "OBEC": "Vagrinec"
+      },
+      {
+        "OBEC": "Váhovce"
+      },
+      {
+        "OBEC": "Vajkovce"
+      },
+      {
+        "OBEC": "Valaliky"
+      },
+      {
+        "OBEC": "Valaská"
+      },
+      {
+        "OBEC": "Piesok"
+      },
+      {
+        "OBEC": "Valaská Belá"
+      },
+      {
+        "OBEC": "Gápel"
+      },
+      {
+        "OBEC": "Matušíková"
+      },
+      {
+        "OBEC": "Stanáková"
+      },
+      {
+        "OBEC": "Studenec"
+      },
+      {
+        "OBEC": "Škrípov"
+      },
+      {
+        "OBEC": "Valaská Dubová"
+      },
+      {
+        "OBEC": "Valaškovce"
+      },
+      {
+        "OBEC": "Valča"
+      },
+      {
+        "OBEC": "Valentovce"
+      },
+      {
+        "OBEC": "Valice"
+      },
+      {
+        "OBEC": "Valkovce"
+      },
+      {
+        "OBEC": "Vaľkovňa"
+      },
+      {
+        "OBEC": "Nová Maša"
+      },
+      {
+        "OBEC": "Švábolka"
+      },
+      {
+        "OBEC": "Zlatno"
+      },
+      {
+        "OBEC": "Vaniškovce"
+      },
+      {
+        "OBEC": "Vápeník"
+      },
+      {
+        "OBEC": "Varadka"
+      },
+      {
+        "OBEC": "Varechovce"
+      },
+      {
+        "OBEC": "Varhaňovce"
+      },
+      {
+        "OBEC": "Varín"
+      },
+      {
+        "OBEC": "Vasiľov"
+      },
+      {
+        "OBEC": "Vavrečka"
+      },
+      {
+        "OBEC": "Vavrinec"
+      },
+      {
+        "OBEC": "Vavrišovo"
+      },
+      {
+        "OBEC": "Važec"
+      },
+      {
+        "OBEC": "Včeláre"
+      },
+      {
+        "OBEC": "Včelince"
+      },
+      {
+        "OBEC": "Včelince"
+      },
+      {
+        "OBEC": "Večelkov"
+      },
+      {
+        "OBEC": "Vechec"
+      },
+      {
+        "OBEC": "Veľaty"
+      },
+      {
+        "OBEC": "Velčice"
+      },
+      {
+        "OBEC": "Veličná"
+      },
+      {
+        "OBEC": "Revišné"
+      },
+      {
+        "OBEC": "Veľká Čalomija"
+      },
+      {
+        "OBEC": "Veľká Čausa"
+      },
+      {
+        "OBEC": "Veľká Čierna"
+      },
+      {
+        "OBEC": "Veľká Dolina"
+      },
+      {
+        "OBEC": "Bačala"
+      },
+      {
+        "OBEC": "Veľká Franková"
+      },
+      {
+        "OBEC": "Veľká Hradná"
+      },
+      {
+        "OBEC": "Veľká Ida"
+      },
+      {
+        "OBEC": "Veľká Lehota"
+      },
+      {
+        "OBEC": "Veľká Lesná"
+      },
+      {
+        "OBEC": "Veľká Lodina"
+      },
+      {
+        "OBEC": "Veľká Lomnica"
+      },
+      {
+        "OBEC": "Veľká Lúka"
+      },
+      {
+        "OBEC": "Veľká Mača"
+      },
+      {
+        "OBEC": "Veľká nad Ipľom"
+      },
+      {
+        "OBEC": "Veľké Dálovce"
+      },
+      {
+        "OBEC": "Veľká Paka"
+      },
+      {
+        "OBEC": "Veľká Tŕňa"
+      },
+      {
+        "OBEC": "Veľká Ves"
+      },
+      {
+        "OBEC": "Veľká Ves nad Ipľom"
+      },
+      {
+        "OBEC": "Veľké Bierovce"
+      },
+      {
+        "OBEC": "Veľké Blahovo"
+      },
+      {
+        "OBEC": "Veľké Borové"
+      },
+      {
+        "OBEC": "Veľké Dravce"
+      },
+      {
+        "OBEC": "Veľké Držkovce"
+      },
+      {
+        "OBEC": "Veľké Dvorany"
+      },
+      {
+        "OBEC": "Veľké Dvorníky"
+      },
+      {
+        "OBEC": "Veľké Hoste"
+      },
+      {
+        "OBEC": "Veľké Chlievany"
+      },
+      {
+        "OBEC": "Veľké Chyndice"
+      },
+      {
+        "OBEC": "Veľké Kapušany"
+      },
+      {
+        "OBEC": "Veľké Kosihy"
+      },
+      {
+        "OBEC": "Okánikovo"
+      },
+      {
+        "OBEC": "Veľké Kostoľany"
+      },
+      {
+        "OBEC": "Veľké Kozmálovce"
+      },
+      {
+        "OBEC": "Veľké Kršteňany"
+      },
+      {
+        "OBEC": "Veľké Leváre"
+      },
+      {
+        "OBEC": "Veľké Lovce"
+      },
+      {
+        "OBEC": "Veľké Ludince"
+      },
+      {
+        "OBEC": "Veľké Orvište"
+      },
+      {
+        "OBEC": "Veľké Ozorovce"
+      },
+      {
+        "OBEC": "Veľké Pole"
+      },
+      {
+        "OBEC": "Veľké Raškovce"
+      },
+      {
+        "OBEC": "Veľké Revištia"
+      },
+      {
+        "OBEC": "Veľké Ripňany"
+      },
+      {
+        "OBEC": "Behynce"
+      },
+      {
+        "OBEC": "Veľké Rovné"
+      },
+      {
+        "OBEC": "Veľké Slemence"
+      },
+      {
+        "OBEC": "Veľké Straciny"
+      },
+      {
+        "OBEC": "Veľké Teriakovce"
+      },
+      {
+        "OBEC": "Vrbovce nad Rimavou"
+      },
+      {
+        "OBEC": "Veľké Trakany"
+      },
+      {
+        "OBEC": "Veľké Turovce"
+      },
+      {
+        "OBEC": "Dolné Turovce"
+      },
+      {
+        "OBEC": "Stredné Turovce"
+      },
+      {
+        "OBEC": "Veľké Uherce"
+      },
+      {
+        "OBEC": "Veľké Úľany"
+      },
+      {
+        "OBEC": "Nové Osady"
+      },
+      {
+        "OBEC": "Veľké Vozokany"
+      },
+      {
+        "OBEC": "Veľké Zálužie"
+      },
+      {
+        "OBEC": "Veľké Zlievce"
+      },
+      {
+        "OBEC": "Veľkrop"
+      },
+      {
+        "OBEC": "Veľký Biel"
+      },
+      {
+        "OBEC": "Malý Biel"
+      },
+      {
+        "OBEC": "Veľký Blh"
+      },
+      {
+        "OBEC": "Veľký Cetín"
+      },
+      {
+        "OBEC": "Veľký Čepčín"
+      },
+      {
+        "OBEC": "Veľký Ďur"
+      },
+      {
+        "OBEC": "Dolný Ďur"
+      },
+      {
+        "OBEC": "Horný Ďur"
+      },
+      {
+        "OBEC": "Rohožnica"
+      },
+      {
+        "OBEC": "Veľký Folkmar"
+      },
+      {
+        "OBEC": "Veľký Grob"
+      },
+      {
+        "OBEC": "Veľký Horeš"
+      },
+      {
+        "OBEC": "Veľký Kamenec"
+      },
+      {
+        "OBEC": "Veľký Klíž"
+      },
+      {
+        "OBEC": "Klíž"
+      },
+      {
+        "OBEC": "Klížske Hradište"
+      },
+      {
+        "OBEC": "Veľký Krtíš"
+      },
+      {
+        "OBEC": "Veľký Kýr"
+      },
+      {
+        "OBEC": "Veľký Lapáš"
+      },
+      {
+        "OBEC": "Veľký Lipník"
+      },
+      {
+        "OBEC": "Veľký Lom"
+      },
+      {
+        "OBEC": "Veľký Meder"
+      },
+      {
+        "OBEC": "Ižop"
+      },
+      {
+        "OBEC": "Veľký Slavkov"
+      },
+      {
+        "OBEC": "Veľký Slivník"
+      },
+      {
+        "OBEC": "Veľký Šariš"
+      },
+      {
+        "OBEC": "Kanaš"
+      },
+      {
+        "OBEC": "Veľopolie"
+      },
+      {
+        "OBEC": "Velušovce"
+      },
+      {
+        "OBEC": "Vernár"
+      },
+      {
+        "OBEC": "Veselé"
+      },
+      {
+        "OBEC": "Veterná Poruba"
+      },
+      {
+        "OBEC": "Vidiná"
+      },
+      {
+        "OBEC": "Vieska"
+      },
+      {
+        "OBEC": "Vieska"
+      },
+      {
+        "OBEC": "Vieska"
+      },
+      {
+        "OBEC": "Vieska - Bezdedov"
+      },
+      {
+        "OBEC": "Vieska nad Blhom"
+      },
+      {
+        "OBEC": "Vieska nad Žitavou"
+      },
+      {
+        "OBEC": "Vígľaš"
+      },
+      {
+        "OBEC": "Vígľaš - Pstruša"
+      },
+      {
+        "OBEC": "Vígľašská Huta-Kalinka"
+      },
+      {
+        "OBEC": "Vikartovce"
+      },
+      {
+        "OBEC": "Vinica"
+      },
+      {
+        "OBEC": "Viničky"
+      },
+      {
+        "OBEC": "Viničné"
+      },
+      {
+        "OBEC": "Vinné"
+      },
+      {
+        "OBEC": "Vinodol"
+      },
+      {
+        "OBEC": "Vinohrady nad Váhom"
+      },
+      {
+        "OBEC": "Vinosady"
+      },
+      {
+        "OBEC": "Virt"
+      },
+      {
+        "OBEC": "Vislanka"
+      },
+      {
+        "OBEC": "Vislava"
+      },
+      {
+        "OBEC": "Visolaje"
+      },
+      {
+        "OBEC": "Višňov"
+      },
+      {
+        "OBEC": "Višňové"
+      },
+      {
+        "OBEC": "Višňové"
+      },
+      {
+        "OBEC": "Višňové"
+      },
+      {
+        "OBEC": "Vištuk"
+      },
+      {
+        "OBEC": "Vitanová"
+      },
+      {
+        "OBEC": "Víťaz"
+      },
+      {
+        "OBEC": "Víťazovce"
+      },
+      {
+        "OBEC": "Vítkovce"
+      },
+      {
+        "OBEC": "Vlača"
+      },
+      {
+        "OBEC": "Vladiča"
+      },
+      {
+        "OBEC": "Vlachovo"
+      },
+      {
+        "OBEC": "Vlachy"
+      },
+      {
+        "OBEC": "Vlčany"
+      },
+      {
+        "OBEC": "Vlčkovce"
+      },
+      {
+        "OBEC": "Vlkanová"
+      },
+      {
+        "OBEC": "Vlkas"
+      },
+      {
+        "OBEC": "Vlková"
+      },
+      {
+        "OBEC": "Vlkovce"
+      },
+      {
+        "OBEC": "Vlky"
+      },
+      {
+        "OBEC": "Vlkyňa"
+      },
+      {
+        "OBEC": "Voderady"
+      },
+      {
+        "OBEC": "Vojany"
+      },
+      {
+        "OBEC": "Vojčice"
+      },
+      {
+        "OBEC": "Vojka"
+      },
+      {
+        "OBEC": "Vojka nad Dunajom"
+      },
+      {
+        "OBEC": "Vojkovce"
+      },
+      {
+        "OBEC": "Vojňany"
+      },
+      {
+        "OBEC": "Vojnatina"
+      },
+      {
+        "OBEC": "Vojtovce"
+      },
+      {
+        "OBEC": "Voľa"
+      },
+      {
+        "OBEC": "Stankovce"
+      },
+      {
+        "OBEC": "Volica"
+      },
+      {
+        "OBEC": "Volkovce"
+      },
+      {
+        "OBEC": "Olichov"
+      },
+      {
+        "OBEC": "Závada"
+      },
+      {
+        "OBEC": "Voznica"
+      },
+      {
+        "OBEC": "Vozokany"
+      },
+      {
+        "OBEC": "Vozokany"
+      },
+      {
+        "OBEC": "Vráble"
+      },
+      {
+        "OBEC": "Dyčka"
+      },
+      {
+        "OBEC": "Horný Ohaj"
+      },
+      {
+        "OBEC": "Vrádište"
+      },
+      {
+        "OBEC": "Vrakúň"
+      },
+      {
+        "OBEC": "Nekyje na Ostrove"
+      },
+      {
+        "OBEC": "Vranov nad Topľou"
+      },
+      {
+        "OBEC": "Vrbnica"
+      },
+      {
+        "OBEC": "Vrbov"
+      },
+      {
+        "OBEC": "Vrbová nad Váhom"
+      },
+      {
+        "OBEC": "Čergov"
+      },
+      {
+        "OBEC": "Hliník"
+      },
+      {
+        "OBEC": "Zlatá Osada"
+      },
+      {
+        "OBEC": "Vrbovce"
+      },
+      {
+        "OBEC": "Vrbové"
+      },
+      {
+        "OBEC": "Vŕbovec"
+      },
+      {
+        "OBEC": "Vrbovka"
+      },
+      {
+        "OBEC": "Vrchslatina"
+      },
+      {
+        "OBEC": "Vrchteplá"
+      },
+      {
+        "OBEC": "Vrícko"
+      },
+      {
+        "OBEC": "Vršatské Podhradie"
+      },
+      {
+        "OBEC": "Vrútky"
+      },
+      {
+        "OBEC": "Všechsvätých"
+      },
+      {
+        "OBEC": "Vtáčkovce"
+      },
+      {
+        "OBEC": "Výborná"
+      },
+      {
+        "OBEC": "Výčapy - Opatovce"
+      },
+      {
+        "OBEC": "Vydrany"
+      },
+      {
+        "OBEC": "Vydrná"
+      },
+      {
+        "OBEC": "Dolinky"
+      },
+      {
+        "OBEC": "Vydrník"
+      },
+      {
+        "OBEC": "Vyhne"
+      },
+      {
+        "OBEC": "Východná"
+      },
+      {
+        "OBEC": "Výrava"
+      },
+      {
+        "OBEC": "Vysočany"
+      },
+      {
+        "OBEC": "Vysoká"
+      },
+      {
+        "OBEC": "Vysoká"
+      },
+      {
+        "OBEC": "Vysoká nad Kysucou"
+      },
+      {
+        "OBEC": "Jedľovník"
+      },
+      {
+        "OBEC": "Nižný Kelčov"
+      },
+      {
+        "OBEC": "Semeteš"
+      },
+      {
+        "OBEC": "Vrchrieka"
+      },
+      {
+        "OBEC": "Vyšný Kelčov"
+      },
+      {
+        "OBEC": "Zátoka"
+      },
+      {
+        "OBEC": "Zlámaná"
+      },
+      {
+        "OBEC": "Vysoká nad Uhom"
+      },
+      {
+        "OBEC": "Vysocký Dvor"
+      },
+      {
+        "OBEC": "Vysoká pri Morave"
+      },
+      {
+        "OBEC": "Vysoké Tatry"
+      },
+      {
+        "OBEC": "Dolný Smokovec"
+      },
+      {
+        "OBEC": "Horný Smokovec"
+      },
+      {
+        "OBEC": "Kežmarské Žľaby"
+      },
+      {
+        "OBEC": "Nová Polianka"
+      },
+      {
+        "OBEC": "Nový Smokovec"
+      },
+      {
+        "OBEC": "Podbanské"
+      },
+      {
+        "OBEC": "Starý Smokovec"
+      },
+      {
+        "OBEC": "Štrbské Pleso"
+      },
+      {
+        "OBEC": "Tatranská Kotlina"
+      },
+      {
+        "OBEC": "Tatranská Lesná"
+      },
+      {
+        "OBEC": "Tatranská Lomnica"
+      },
+      {
+        "OBEC": "Tatranská Polianka"
+      },
+      {
+        "OBEC": "Tatranské Matliare"
+      },
+      {
+        "OBEC": "Tatranské Zruby"
+      },
+      {
+        "OBEC": "Vyšné Hágy"
+      },
+      {
+        "OBEC": "Vyškovce"
+      },
+      {
+        "OBEC": "Vyškovce nad Ipľom"
+      },
+      {
+        "OBEC": "Nový Dvor"
+      },
+      {
+        "OBEC": "Vyšná Boca"
+      },
+      {
+        "OBEC": "Vyšná Hutka"
+      },
+      {
+        "OBEC": "Vyšná Jablonka"
+      },
+      {
+        "OBEC": "Vyšná Jedľová"
+      },
+      {
+        "OBEC": "Vyšná Kamenica"
+      },
+      {
+        "OBEC": "Vyšná Myšľa"
+      },
+      {
+        "OBEC": "Vyšná Olšava"
+      },
+      {
+        "OBEC": "Vyšná Pisaná"
+      },
+      {
+        "OBEC": "Vyšná Polianka"
+      },
+      {
+        "OBEC": "Vyšná Rybnica"
+      },
+      {
+        "OBEC": "Vyšná Sitnica"
+      },
+      {
+        "OBEC": "Vyšná Slaná"
+      },
+      {
+        "OBEC": "Vyšná Šebastová"
+      },
+      {
+        "OBEC": "Vyšná Voľa"
+      },
+      {
+        "OBEC": "Vyšné Ladičkovce"
+      },
+      {
+        "OBEC": "Vyšné nad Hronom"
+      },
+      {
+        "OBEC": "Vyšné Nemecké"
+      },
+      {
+        "OBEC": "Močidlá"
+      },
+      {
+        "OBEC": "Vyšné Remety"
+      },
+      {
+        "OBEC": "Vyšné Repaše"
+      },
+      {
+        "OBEC": "Vyšné Ružbachy"
+      },
+      {
+        "OBEC": "Vyšné Valice"
+      },
+      {
+        "OBEC": "Vyšný Čaj"
+      },
+      {
+        "OBEC": "Vyšný Hrabovec"
+      },
+      {
+        "OBEC": "Vyšný Hrušov"
+      },
+      {
+        "OBEC": "Vyšný Kazimír"
+      },
+      {
+        "OBEC": "Vyšný Klátov"
+      },
+      {
+        "OBEC": "Vyšný Komárnik"
+      },
+      {
+        "OBEC": "Vyšný Kručov"
+      },
+      {
+        "OBEC": "Vyšný Kubín"
+      },
+      {
+        "OBEC": "Vyšný Lánec"
+      },
+      {
+        "OBEC": "Vyšný Medzev"
+      },
+      {
+        "OBEC": "Vyšný Mirošov"
+      },
+      {
+        "OBEC": "Vyšný Orlík"
+      },
+      {
+        "OBEC": "Vyšný Skálnik"
+      },
+      {
+        "OBEC": "Vyšný Slavkov"
+      },
+      {
+        "OBEC": "Vyšný Tvarožec"
+      },
+      {
+        "OBEC": "Vyšný Žipov"
+      },
+      {
+        "OBEC": "Zábiedovo"
+      },
+      {
+        "OBEC": "Záborie"
+      },
+      {
+        "OBEC": "Záborské"
+      },
+      {
+        "OBEC": "Zabudišová"
+      },
+      {
+        "OBEC": "Zádiel"
+      },
+      {
+        "OBEC": "Zádor"
+      },
+      {
+        "OBEC": "Záhor"
+      },
+      {
+        "OBEC": "Záhorce"
+      },
+      {
+        "OBEC": "Selešťany"
+      },
+      {
+        "OBEC": "Záhorčie"
+      },
+      {
+        "OBEC": "Záhorie"
+      },
+      {
+        "OBEC": "Záhorská Ves"
+      },
+      {
+        "OBEC": "Záhradné"
+      },
+      {
+        "OBEC": "Zacharovce"
+      },
+      {
+        "OBEC": "Zákamenné"
+      },
+      {
+        "OBEC": "Zákopčie"
+      },
+      {
+        "OBEC": "U Holých"
+      },
+      {
+        "OBEC": "U Kľukov"
+      },
+      {
+        "OBEC": "U Kordišov"
+      },
+      {
+        "OBEC": "U Polievkov"
+      },
+      {
+        "OBEC": "U Rulcov"
+      },
+      {
+        "OBEC": "Zalaba"
+      },
+      {
+        "OBEC": "Zálesie"
+      },
+      {
+        "OBEC": "Zálesie"
+      },
+      {
+        "OBEC": "Zalužice"
+      },
+      {
+        "OBEC": "Malé Zalužice"
+      },
+      {
+        "OBEC": "Veľké Zalužice"
+      },
+      {
+        "OBEC": "Zamarovce"
+      },
+      {
+        "OBEC": "Zámutov"
+      },
+      {
+        "OBEC": "Zárieč - Keblov"
+      },
+      {
+        "OBEC": "Záriečie"
+      },
+      {
+        "OBEC": "Záskalie"
+      },
+      {
+        "OBEC": "Zatín"
+      },
+      {
+        "OBEC": "Závada"
+      },
+      {
+        "OBEC": "Závada"
+      },
+      {
+        "OBEC": "Závada"
+      },
+      {
+        "OBEC": "Záhrada"
+      },
+      {
+        "OBEC": "Závadka"
+      },
+      {
+        "OBEC": "Závadka"
+      },
+      {
+        "OBEC": "Závadka"
+      },
+      {
+        "OBEC": "Závadka nad Hronom"
+      },
+      {
+        "OBEC": "Zavar"
+      },
+      {
+        "OBEC": "Závažná Poruba"
+      },
+      {
+        "OBEC": "Závod"
+      },
+      {
+        "OBEC": "Zázrivá"
+      },
+      {
+        "OBEC": "Biela"
+      },
+      {
+        "OBEC": "Demkovská"
+      },
+      {
+        "OBEC": "Dolina"
+      },
+      {
+        "OBEC": "Grúne"
+      },
+      {
+        "OBEC": "Havrania"
+      },
+      {
+        "OBEC": "Končitá"
+      },
+      {
+        "OBEC": "Kozinská"
+      },
+      {
+        "OBEC": "Petrová"
+      },
+      {
+        "OBEC": "Plešivá"
+      },
+      {
+        "OBEC": "Ráztoky"
+      },
+      {
+        "OBEC": "Zbehňov"
+      },
+      {
+        "OBEC": "Zbehy"
+      },
+      {
+        "OBEC": "Andač"
+      },
+      {
+        "OBEC": "Holotka"
+      },
+      {
+        "OBEC": "Zboj"
+      },
+      {
+        "OBEC": "Zbojné"
+      },
+      {
+        "OBEC": "Zborov"
+      },
+      {
+        "OBEC": "Zborov nad Bystricou"
+      },
+      {
+        "OBEC": "Zbrojníky"
+      },
+      {
+        "OBEC": "Pežerňa"
+      },
+      {
+        "OBEC": "Zbudská Belá"
+      },
+      {
+        "OBEC": "Zbudské Dlhé"
+      },
+      {
+        "OBEC": "Zbudza"
+      },
+      {
+        "OBEC": "Zbyňov"
+      },
+      {
+        "OBEC": "Zdoba"
+      },
+      {
+        "OBEC": "Zeleneč"
+      },
+      {
+        "OBEC": "Zemianska Dedina"
+      },
+      {
+        "OBEC": "Zemianska Olča"
+      },
+      {
+        "OBEC": "Zemianske Kostoľany"
+      },
+      {
+        "OBEC": "Dolné Lelovce"
+      },
+      {
+        "OBEC": "Zemianske Podhradie"
+      },
+      {
+        "OBEC": "Zemianske Sady"
+      },
+      {
+        "OBEC": "Zemiansky Vrbovok"
+      },
+      {
+        "OBEC": "Zemné"
+      },
+      {
+        "OBEC": "Gúg"
+      },
+      {
+        "OBEC": "Zemplín"
+      },
+      {
+        "OBEC": "Zemplínska Nová Ves"
+      },
+      {
+        "OBEC": "Úpor"
+      },
+      {
+        "OBEC": "Zemplínsky Klečenov"
+      },
+      {
+        "OBEC": "Zemplínska Šírava"
+      },
+      {
+        "OBEC": "Zemplínska Široká"
+      },
+      {
+        "OBEC": "Zemplínska Teplica"
+      },
+      {
+        "OBEC": "Zemplínske Hámre"
+      },
+      {
+        "OBEC": "Zemplínske Hradište"
+      },
+      {
+        "OBEC": "Zemplínske Jastrabie"
+      },
+      {
+        "OBEC": "Zemplínske Kopčany"
+      },
+      {
+        "OBEC": "Zemplínsky Branč"
+      },
+      {
+        "OBEC": "Zlatá Baňa"
+      },
+      {
+        "OBEC": "Zlatá Idka"
+      },
+      {
+        "OBEC": "Zlaté"
+      },
+      {
+        "OBEC": "Zlaté Klasy"
+      },
+      {
+        "OBEC": "Zlaté Moravce"
+      },
+      {
+        "OBEC": "Zlatná na Ostrove"
+      },
+      {
+        "OBEC": "Horná Zlatná"
+      },
+      {
+        "OBEC": "Veľký Lél"
+      },
+      {
+        "OBEC": "Zlatník"
+      },
+      {
+        "OBEC": "Zlatníky"
+      },
+      {
+        "OBEC": "Zlatno"
+      },
+      {
+        "OBEC": "Zlatno"
+      },
+      {
+        "OBEC": "Zliechov"
+      },
+      {
+        "OBEC": "Košecké Rovné"
+      },
+      {
+        "OBEC": "Zohor"
+      },
+      {
+        "OBEC": "Zombor"
+      },
+      {
+        "OBEC": "Zubák"
+      },
+      {
+        "OBEC": "Zuberec"
+      },
+      {
+        "OBEC": "Zubné"
+      },
+      {
+        "OBEC": "Zubrohlava"
+      },
+      {
+        "OBEC": "Zvolen"
+      },
+      {
+        "OBEC": "Zvolenská Slatina"
+      },
+      {
+        "OBEC": "Slatinka"
+      },
+      {
+        "OBEC": "Zvončín"
+      },
+      {
+        "OBEC": "Žabokreky"
+      },
+      {
+        "OBEC": "Žabokreky nad Nitrou"
+      },
+      {
+        "OBEC": "Žakarovce"
+      },
+      {
+        "OBEC": "Žakovce"
+      },
+      {
+        "OBEC": "Žalobín"
+      },
+      {
+        "OBEC": "Žarnov"
+      },
+      {
+        "OBEC": "Žarnovica"
+      },
+      {
+        "OBEC": "Lukavica"
+      },
+      {
+        "OBEC": "Revištské Podzámčie"
+      },
+      {
+        "OBEC": "Žarnovická Huta"
+      },
+      {
+        "OBEC": "Žaškov"
+      },
+      {
+        "OBEC": "Žbince"
+      },
+      {
+        "OBEC": "Ždaňa"
+      },
+      {
+        "OBEC": "Ždiar"
+      },
+      {
+        "OBEC": "Žehňa"
+      },
+      {
+        "OBEC": "Dúbrava"
+      },
+      {
+        "OBEC": "Žehra"
+      },
+      {
+        "OBEC": "Hodkovce"
+      },
+      {
+        "OBEC": "Železná Breznica"
+      },
+      {
+        "OBEC": "Železník"
+      },
+      {
+        "OBEC": "Železnô"
+      },
+      {
+        "OBEC": "Želiezovce"
+      },
+      {
+        "OBEC": "Jarok"
+      },
+      {
+        "OBEC": "Karolína"
+      },
+      {
+        "OBEC": "Mikula"
+      },
+      {
+        "OBEC": "Rozina"
+      },
+      {
+        "OBEC": "Svodov"
+      },
+      {
+        "OBEC": "Veľký Dvor"
+      },
+      {
+        "OBEC": "Želmanovce"
+      },
+      {
+        "OBEC": "Želovce"
+      },
+      {
+        "OBEC": "Žemberovce"
+      },
+      {
+        "OBEC": "Žemliare"
+      },
+      {
+        "OBEC": "Žiar"
+      },
+      {
+        "OBEC": "Žiar"
+      },
+      {
+        "OBEC": "Žiar nad Hronom"
+      },
+      {
+        "OBEC": "Šášovské Podhradie"
+      },
+      {
+        "OBEC": "Žibritov"
+      },
+      {
+        "OBEC": "Žihárec"
+      },
+      {
+        "OBEC": "Žikava"
+      },
+      {
+        "OBEC": "Žilina"
+      },
+      {
+        "OBEC": "Žíp"
+      },
+      {
+        "OBEC": "Žipov"
+      },
+      {
+        "OBEC": "Žirany"
+      },
+      {
+        "OBEC": "Žírovce"
+      },
+      {
+        "OBEC": "Žitavany"
+      },
+      {
+        "OBEC": "Žitavce"
+      },
+      {
+        "OBEC": "Žitná - Radiša"
+      },
+      {
+        "OBEC": "Žlkovce"
+      },
+      {
+        "OBEC": "Župčany"
+      },
+      {
+        "OBEC": "Župkov"
+      }
+    ]
+  }
+  
