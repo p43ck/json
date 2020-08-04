@@ -3,18 +3,15 @@
       {
         "id": 1,
         "nazov": "Zvieratá",
-        "tagy": ["mačky", "psy"],
-        "cool": 10
+        "slug": "zvierata"
       }, {
         "id": 2,
         "nazov": "Počítače",
-        "tagy": ["procesory", "káble"],
-        "cool": 9
+        "slug": "pocitace"
       }, {
         "id": 3,
         "nazov": "Knihy",
-        "tagy": ["drama", "romantické"],
-        "cool": 51
+        "slug": "knihy"
       }
     ]
   }
