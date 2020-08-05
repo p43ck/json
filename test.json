@@ -4,26 +4,20 @@
 
     "zvierata": 
     {
-        "id": 1,
         "nazov": "Zvieratá",
-        "tagy": ["mačky", "psy"],
-        "cool": 10
+        "tagy": ["mačky", "psy"]
       },
   
       "pocitace": 
       {
-          "id": 2,
           "nazov": "Počítače",
-          "tagy": ["procesory", "káble"],
-          "cool": 15
+          "tagy": ["procesory", "káble"]
         },
   
       "knihy": 
       {
-          "id": 3,
           "nazov": "Knihy",
-          "tagy": ["drama", "romantické"],
-          "cool": 20
+          "tagy": ["drama", "romantické"]
         }
 
   }]
